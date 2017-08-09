@@ -1,10 +1,13 @@
 ## 1.0.0. Introduction
 
 ### 1.0.1. Justification
-Being the foundation upon which a government exists and being the supreme law of the land, a constitution must have permanence, evolving slowly through intentionally onerous processes.  By contrast, public policy must adapt to constantly changing internal and external forces.  Public policy must be constrained by the laws defined by a constitution and executed by the entities created and empowered by a constitution.  However, a constitution does not guarantee moral, ethical or even reasonable policy decisions.  With no persistent guidelines in place, public policy fluctuates with political tides that are driven largely by sentiment, fear, rhetoric, and private interests.  Such fluctuations have economic and social costs that impede progress as well as waste lives and resources.
+Being the foundation upon which a government exists and being the supreme law of the land, a constitution must have permanence, evolving slowly through intentionally onerous processes.  By contrast, public policy must adapt to constantly changing internal and external forces.  Public policy must be constrained by the laws defined by a constitution and executed by the entities created and empowered by a constitution.  However, a constitution does not guarantee moral, ethical or even reasonable policy decisions.  With no persistent guidelines in place, public policy fluctuates with political tides that are driven largely by sentiment, fear, rhetoric, and private interests.  Such fluctuations have economic and social costs that impede progress and waste lives and resources.
 
 ### 1.0.2. Purpose
-This doctrine provides a framework for public policy with a focus on the preservation and advancement of the individual and of human civilization through rational thought, fact-driven discourse, global perspectives and measured decisions.
+This doctrine provides a framework for public policy based on rational thought, fact-driven discourse, global perspectives and measured decisions.  
 
-### 1.0.3. Structure
-In section 1, this doctrine defines of three aspects of human existence and enumerates the liberties for each that must be protected.  Section 2 suggests policy frameworks for historically contentious or confusing topics as a guide to the application of the three liberties.  Section 3 provides definitions necessary for clear and rational policy decisions.  
+### 1.0.3. Principles
+This doctrine recognizes three distinct forms of human liberty: personal, regional and global.  All public policy must seek a balance between the protection of personal and global liberties while continuing to protect regional liberty where possible.  
+
+### 1.0.4. Structure
+In section 1, this doctrine defines the three forms of human liberty and the individual rights associated with them.  Section 2 suggests policy frameworks for historically contentious or confusing topics as a guide to the application of the three liberties.  Section 3 provides definitions necessary for clear and rational policy decisions.  
