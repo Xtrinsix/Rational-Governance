@@ -10,4 +10,4 @@ This doctrine provides a framework for public policy based on rational thought, 
 This doctrine recognizes three distinct forms of human liberty: personal, regional and global.  All public policy must seek a balance between the protection of personal and global liberties while continuing to protect regional liberty where possible.  
 
 ### 1.0.4. Structure
-In section 1, this doctrine defines the three forms of human liberty and the individual rights associated with them.  Section 2 suggests policy frameworks for historically contentious or confusing topics as a guide to the application of the three liberties.  Section 3 provides definitions necessary for clear and rational policy decisions.  
+In section 2, this doctrine defines the three forms of human liberty and the individual rights associated with them.  Section 3 proposes policy frameworks for historically contentious or confusing topics as a guide to the application of the three liberties.  Section 4 provides definitions necessary for clear and rational policy decisions.  
