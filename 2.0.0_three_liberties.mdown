@@ -1,13 +1,15 @@
 ## 2.0. The Three Liberties
 
 ### 2.0.1. Justification
-Humanity extends beyond the concerns of an individual life.  Humans aggregate into persistent, organized regional groups that function as a unit, grow organically, take on personalities, strengths and weaknesses that reflect the individual members of the groups.  Global civilization is a reflection of humanity as a whole and is greater than the sum of its parts.  Despite the power and importance of global civilization and regional groups, an individual human life is more than just a node in a system, and the rights of the individual should be defended as fiercely as the preservation of civilization.  
+Humanity is more than a set of all human lives.  Humans aggregate into persistent, organized regional social structures that function as a unit, grow organically, and take on personalities, strengths and weaknesses reflecting the individual members.  Global civilization is a reflection of the combined character of human social structures, no matter how small or large, weak or powerful, isolated or interconnected.  Social structures and global civilization are greater than the sums of their parts, just as individual human lives and social structures are greater than their role as a part of a larger system.    
 
-Public policy should strive to find a balance between what is good for the individual versus what is good for civilization.  Neither can exist without the other, and both should be protected as precious and irreplaceable.  This section concerns itself with the rights associated with each of the aspects of humanity: individual, regional groups and global human civilization. 
+Rational, pragmatic public policy must recognize each of the distinct tiers [strata?  Aspects?] of humanity and further recognize that the concerns of each are distinct and not always complementary.  This section defines each of the three tiers, justifies the need to recognize the [distinct] liberty associated with them [reword], and enumerates the rights that are the natural foundation of such liberty.   Such a policy must also recognize that in order to protect the liberty of one, it is also necessary to protect the liberty of its parts and of any containing tiers. [said another way, any policy addressing a need must consider the impacts on personal, regional and global liberty]
+[the rights of the individual should be defended as fiercely as the preservation of civilization.]
 
-### 2.0.2. Resolution of conflicts
 
-Given three types of liberty and the potential for overlap of concerns, the resolution of conflicts should be handled accordingly.  Some rights may be restored if they are temporary violated.  Others may never be restored once lost.  Those that are permanently lost must take precedence over those that are transient.  Of those that may be permanently lost, global concerns must outweigh individual concerns, with regional concerns considered last.  This suggests the following order:
+### 2.0.x. Resolution of conflicts
+[Unfinished]
+Given three forms of liberty and the potential for overlap of concerns, the resolution of conflicts should be handled accordingly.  Some rights may be restored if they are temporary violated.  Others may never be restored once lost.  Those that are permanently lost must take precedence over those that are transient.  Of those that may be permanently lost, global concerns must outweigh individual concerns, with regional concerns considered last.  This suggests the following order:
 
 2.3.2.1. and 2.3.2.2. must supersede all other rights, as the preservation of global civilization as a whole is the ultimate concern.  
 2.1.2.1., 2.1.2.8., 2.1.2.7. and 2.1.2.3 must follow in that order, although varying degrees of 2.1.2.7. and 2.1.2.8. may dictate that one might take precedence over the other. 
