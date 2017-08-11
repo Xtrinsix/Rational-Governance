@@ -1,6 +1,12 @@
-### 3.1.1.  Abortion
+### 3.1.1.0.  Abortion
 
-Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In specific, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.  Unlike other areas of our knowledge, the question of what is right is unclear.  Medicine, science, religion and strong protective instincts complicate the matter.  The questions are many:
+#### 3.1.1.1.  Introduction
+#### 3.1.1.2.  Policy Problems
+#### 3.1.1.2.  Policy Recommendations
+Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In specific, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.  
+
+#### 3.1.1.2.  Policy Problems
+As with many other areas of science and medicine, humanity has imperfect knowledge of the biological mechanisms involved in pregnancy, gestation and childbirth.  But we do understand the causes and various stages of pregnancy.  We also have a body of knowledge ... the question of what is right is unclear.  Medicine, science, religion and strong protective instincts complicate the matter.  The questions are many:
 
 - Where do the rights of the mother end and the rights of the fetus begin?
 - Where do the rights of the father apply?

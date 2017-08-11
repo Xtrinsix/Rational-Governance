@@ -1,2 +1,4 @@
-### 3.1.4.  Taxation and Use of Government Revenue
-
+### 3.1.4.0  Taxation and Use of Government Revenue
+#### 3.1.4.1.  Introduction
+#### 3.1.4.2.  Policy Problems
+#### 3.1.4.2.  Policy Recommendations

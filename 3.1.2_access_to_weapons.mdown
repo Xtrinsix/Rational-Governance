@@ -1,4 +1,7 @@
-### 3.1.2.  Access to Weapons
+### 3.1.2.0  Access to Weapons
+#### 3.1.1.1.  Introduction
+#### 3.1.1.2.  Policy Problems
+#### 3.1.1.2.  Policy Recommendations
 
 Background:
 Weapons include handguns, rifles, explosives, projectiles, blades that do not fold into a handle
