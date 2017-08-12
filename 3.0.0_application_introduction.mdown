@@ -23,3 +23,4 @@ In order to provide working examples of the application of the Three Liberties t
 - Regulation of business practices
 - Religion and state
 - Citizenship and humanity
+- Punishment for crimes

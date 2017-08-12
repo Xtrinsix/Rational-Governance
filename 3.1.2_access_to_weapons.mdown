@@ -1,34 +1,58 @@
 ### 3.1.2.0  Access to Weapons
 #### 3.1.1.1.  Introduction
-#### 3.1.1.2.  Policy Problems
-#### 3.1.1.2.  Policy Recommendations
+In the United States, the constitutional "right to bear arms" has been interpreted in many ways, and an artificial political divide has been manufacturered by parties with economic interest in the manufacture and sale of weapons.  Efforts to put limits on the number of types of weapons available to an individual have been conflated with attempts to abolish the right altogether or to take away personal freedoms.  As of the time of this writing, facts have been lost to rhetoric, and neither side of the debate are actually listening to the other side.  Looking beyond this moment in time and this debate in the United States, there must be agreement that public interest dictates the creation of fair and rational policy regarding personal access to weapons. 
 
-Background:
-Weapons include handguns, rifles, explosives, projectiles, blades that do not fold into a handle
+#### 3.1.1.2.  Policy Problems
+Public policy regarding access to weapons must address these issues:
+
+-  Do private citizens (non-military, non-police) have a right to own weapons?
+-  Which types of weapons are appropriate for private citizens to own?
+-  Do private citizens have a right to carry weapons in public?
+-  Which types of weapons are appropriate for private citizens to carry in public?
+-  Which kinds of licensing should be required for ownership of weapons?
+-  Which kinds of licensing should be required to carry weapons in public?
+-  Which actions or conditions should disqualify an individual's access to weapons?
+-  Which kinds of licensing should be required for sale of weapons?
+
+Personal rights involving self-preservation would suggest that individuals have a right to have access to weapons in order to defend self, family and personal property. These weapons, if used for such defense, may not be used to violate the rights of other individuals.  Some weapons are appropriate for defense, some are not.  Weapons with rapid rates of fire, long ranges, the ability to pierce walls and armor, explosive capabilities, etc, are just as likely to harm innocents or the properties of innocents as they are to properly defend an individual from an aggressor.  Such weapons are more appropriate for warfare or extreme situations encountered by police forces, but are not appropriate for personal defense.  
+
+#### 3.1.1.2.  Policy Recommendations
+Application of the Three Liberties to the question of personal access to weapons can be summarized as such:
+
+-  Individuals have the right to protect themselves through appropriate means and with appropriate defense mechanisms.
+-  Any weapon likely to inflict accidental harm to others or damage to property in its use 
+-  Entities with economic interest in the manufacture or sale of weapons may not craft policy regarding the access to weapons.
+
+
+
+Definitions:
+
 This policy differentiates between personal defense weapons, novelty weapons, hunting and survival weapons, public defense weapons and weapons of war or aggression. 
 
-Personal defense weapons 
-Handguns 
-Shotguns
-Hunting and survival weapons
-Rifles 
-Hunting knives
-Bow/crossbow 
+-  Personal defense weapons 
+  -  Handguns 
+  -  Shotguns
+  -  Hunting and survival weapons
+  -  Rifles 
+  -  Hunting knives
+  -  Bow/crossbow 
 
-Novelty weapons
-Swords and other bladed weapons longer than 10” 
+-  Novelty weapons
+  -  Swords and other bladed weapons longer than 10” [ I hate arbitrary numbers ]
 
-Weapons of aggression
-Handguns with high capacity ammo 
-Assault rifles 
-Sniper rifles
-High speed automatic handguns
-Portable explosives
-Weapons of war
-Projectile explosives
-Biological or chemical agent dispersal systems of any kind
-Public defense weapons
-Any weapon in a category above excluding weapons of war
+-  Weapons of aggression
+  -  Handguns with high capacity ammo 
+  -  Assault rifles 
+  -  Sniper rifles
+  -  High speed automatic handguns
+  -  Portable explosives
+  
+-  Weapons of war
+  -  Projectile explosives
+  -  Biological or chemical agent dispersal systems of any kind
+  -  Public defense weapons
+  -  Any weapon in a category above excluding weapons of war
+
 Bearing arms in public
 Private citizens
 Must be licensed with annual renewal
