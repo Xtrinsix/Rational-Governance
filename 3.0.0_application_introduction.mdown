@@ -1,12 +1,11 @@
 ## 3.0.0. Application of the Three Liberties
 
 ### 3.0.1.  Introduction
-The doctrine of the Three Liberties encapsulates a philosophical view of the roles of people and societies within the global view of human civilization.  This section applies the Three Liberties to specific topics of public policy.  
+The doctrine of the Three Liberties encapsulates a philosophical view of the roles of people and societies within the global view of human civilization.  This section describes a platform for public policy through the application of the Three Liberties. 
 
 ### 3.0.2.  Justification
-The application of a philosophy to specific examples of 
+Here's the policy platform guided by the Three Liberties.
 
-In order to provide working examples of the application of the Three Liberties to public policy, this document examines historically contentious or confusing topics and [ suggests ] frameworks for creating public policy for those topics.
 
 
 ### 3.1.0. Policy Frameworks
@@ -24,3 +23,4 @@ In order to provide working examples of the application of the Three Liberties t
 - Religion and state
 - Citizenship and humanity
 - Punishment for crimes
+- Race and Immigration

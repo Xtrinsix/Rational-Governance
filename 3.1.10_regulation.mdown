@@ -1,6 +1,42 @@
 ### 3.1.10.0.  Regulation of Business Practices
 #### 3.1.10.1.  Introduction
+Regulation of business practices is a classic divide between the political left and right.  The practice of regulation is highly polarizing.  Improper regulation can interfere with a free market and can incur unnecessary expenses, while lack of regulation can allow businesses and industries to harm the public and the environment with little or no awareness from the public or power to mitigate the harm.  This is complicated by special interests lobbying introducing money and personal agendas into what should be factual discussions of policy. 
+
 #### 3.1.10.2.  Policy Problems
+The arguments for and against regulation are made by well educated, intelligent people with vastly different opinions.  A discussion of regulation needs to begin with the reasons put forward in support of its existence.
+
+-  Many industries produce waste as solids, liquids or gases that must be contained or properly disposed in order to prevent harm to people, other living creatures or the environment.
+-  Man-made products -- especially chemicals -- are often discovered to have harmful affects on people, other living creatures or the environment, and guidelines for proper user are necessary to reduce the harm caused by such products.
+-  Buildings and infrastructure must be constructed with particular specifications in order to prevent harm to the public or the environment.
+-  Financial industries are susceptible to high-risk behavior that benefits a small number of people when successful but harms large numbers of innocent people when unsuccessful.
+[more]
+
+
+Businesses are motivated more by profit than concerns over environmental impact, human safety, long-term stability of markets or social welfare.  Free market capitalism in theory will force businesses to make proper choices on their own or consumers will spend their money elsewhere.  This idea fails in a number of key areas that also have the potential for the causing the most harm:
+
+-  Industries requiring large amounts of initial capital and/or infrastructure (e.g. energy and telecom) tend to have a single dominant business serving any given market, leaving consumers with no competitive options or (in rural areas) no options at all, effectively resulting in monopolies.
+-  Some industries and businesses sell to other business and have no direct consumers, leaving market forces at the mercy of profit-driven motivations rather than human concerns.
+-  A business can make and sell harmful products to consumers and make a profit before consumers understand the harm that the products cause, at which point it is too late for the free market to protect consumers.
+... 
+
+
+Regulation is typically enacted in one of two ways.  The first is through direct passage of law by a legislative branch of government, and the second is through indirect legislation, by which the legislative branch creates a regulatory authority that is then directed by the executive branch.  Both forms are vulnerable to political whims, but the use of regulatory authorities creates a system that is more volatile.  A new administration can uphold, reverse, ignore or more aggressively pursue existing regulation, putting legislative power by proxy directly into the hands of the executive branch.  Concerns over the power regulatory agencies give to the executive branch are shared across the political spectrum.
+
+Similarly non-partisan is the concern that regulation can exist at national and local levels without any coordination, leading to an incohesive set of rules. 
+  
+The more politically polarizing concern is a core existential argument over the need for regulation.  Some argue that regulation is necessary to protect people and the environment from business, industry and sometimes government practices that value profit and risk over safety, stability and the environment.  Regulation also puts de facto controls around industries that tend toward monopolistic behavior.  Others argue that regulation is expensive and inhibit economic growth, often citing regulation as an impediment to job creation and innovation.
+
+
+Monopolies and monopolistic behavior 
+
+These concerns can be reduced to the following questions:
+
+-  Which entities should have the authority to create and enforce regulation?
+-  What is the value of regulation versus its impact on the economy?
+-  At which level of government is regulation proper?
+-  Without regulation, 
+
+
 #### 3.1.10.2.  Policy Recommendations
 
 Using the preservation of the three liberties as the ultimate guide, business practices may not cause irreparable harm to human habitats, may not cause 
