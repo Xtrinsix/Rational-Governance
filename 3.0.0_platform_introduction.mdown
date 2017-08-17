@@ -10,17 +10,17 @@ Here's the policy platform guided by the Three Liberties.
 
 ### 3.1.0. Policy Frameworks
 
-- Abortion
-- Access to weapons
 - The role of government
 - Taxation and use of government revenue
-- Education
-- Health Care
 - Isolationism vs globalism
 - Climate Science
-- Gender and Sex (Gender identity + marriage equality + gender discrimination)
 - Regulation of business practices
-- Religion and state
 - Citizenship and humanity
 - Punishment for crimes
+- Education
+- Health Care
+- Gender and Sex (Gender identity + marriage equality + gender discrimination)
+- Religion and state
 - Race and Immigration
+- Abortion
+- Access to weapons
