@@ -1,14 +1,13 @@
-## 3.0.0. Application of the Three Liberties
+## 3.0.0. Platform
 
 ### 3.0.1.  Introduction
 The doctrine of the Three Liberties encapsulates a philosophical view of the roles of people and societies within the global view of human civilization.  This section describes a platform for public policy through the application of the Three Liberties. 
 
 ### 3.0.2.  Justification
-Here's the policy platform guided by the Three Liberties.
+Here's the policy platform guided by the Three Liberties.  [say why]
 
 
-
-### 3.1.0. Policy Frameworks
+### 3.1.0. Structure
 
 - The role of government
 - Taxation and use of government revenue
