@@ -3,102 +3,42 @@
 ### 2.0.1. Introduction
 Economic, social and political forces move more quickly and with more power and destructive potential in this age of advancing technology and globalization than at any other time in history.  Public policy must take a larger view of the world than ever before in order to keep those forces from causing serious or irreparable harm to individual societies or global civilization.
 
-Principled and disciplined public policy looks has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few. 
+Principled and disciplined public policy has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few. 
 
 In order to achieve these goals, public policy must put humanity ahead of institutions, personal profit, special interests or tribal associations.  Public policy must be driven by reason, not sentiment.  Public policy must encourage unity within and across borders.  And, public policy must strike a balance between individual, social, global and economic concerns.
 
 The [framework] defines individual doctrines to be used as the guide to principled and disciplined public policy.
 
-Principled
-
--  The Doctrine of the Three Liberties
--  The Doctrine of Responsible Capitalism
--  The Doctrine of Least Intrusion
-
-Disciplined
-
--  The 20 Year Doctrine
--  The Doctrine of Truth from Power
--  The Doctrine of Rational Integrity
+-  Doctrine of the Three Liberties
+-  Doctrine of Responsible Capitalism
+-  Doctrine of Least Intrusion
+-  Doctrine of Positive Merit
+-  20 Year Doctrine
+-  Doctrine of Truth from Power
+-  Doctrine of Rational Integrity
+-  Extrinsics
 
 
-### The Doctrine of the Three Liberties
-All public policy must focus on the preservation of the natural rights of humanity in each of its three forms: personal (liberties of the individual), regional (liberties of established regional social units), and global (liberties that apply to civilization as a whole). 
+### Doctrine of the Three Liberties
+All public policy, at its core, must preserve the liberty (the natural rights) of humanity in each of its three forms: the individual, regional social units, and global civilization.
 
-### The Doctrine of Responsible Capitalism
+### Doctrine of Responsible Capitalism
 Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of others.  People must have trust that the economic system works for everyone, not just those in positions of power or authority.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
-### The Doctrine of Least Intrusion
-Public matters remain public.  Private matters remain private.  Policy without factual justification has no place in a rational society.  Given any conflicts or ambiguity, existing liberties must take priority.  Where ambiguity is found, definitions must be adopted in order to move forward.
+### Doctrine of Least Intrusion
+When presented with multiple approaches to solving a problem through public policy, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
-### The 20 Year Doctrine
+### Doctrine of Positive Merit
+A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution or individual.
+
+### 20 Year Doctrine
 Public policy must treat known global issues as if we have a 20 year horizon for solving them.  Common goals lead to bursts of economic activity and advancements in technology.  The nations of the world also need to learn to work together and citizens within the nations need to learn to stop fighting amongst themselves over trivial issues.  At any moment, humanity may discover an undeniable, imminent threat with a 20 year countdown, and we as a global community need to know that we can set aside petty differences and unify to meet the threat.
 
-### The Doctrine of Truth from Power
+### Doctrine of Truth from Power
 Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be consequences to propaganda and other forms of disinformation.
 
 ### Doctrine of Rational Integrity 
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.
+Public policy must be rational, purposeful and crafted with knowledge.  Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.
 
-
-
-# Notes to move to other sections
-
-#### Benefits of capitalism
-Humans are natural entrepreneurs.  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.  Capitalism matches the human spirit and temperament and is a natural fit for the human entrepreneurial drive.  All other economic systems are masking humanity's natural capitalistic tendencies and suppress the spirit of innovation.
-
-#### Dangers of capitalism
-Capitalism without regulation and strong public policy leads to corruption.  In a successful economy, capitalism leads to an imbalance in what a society wants and what a society needs.  Inefficient or desctructive products or services may be in higher demand because of their convenience or good marketing, and innovation follows that demand.   Capitalism, left unchecked, also tends toward a focus on profit over responsible behavior and wealth redistribution to a small percentage of the population.  When personal profits for shareholders have a priority over the well-being or livelihood of employees, capitalism has lost its way.  When the market cares more for luxury features over quality or efficiency capitalism has lost its way.  When unsustainably low prices drive the market more than human cost in obtaining those low prices, capitalism has lost its way.  When the profitability of medicine is more important than the lives that could be saved by that medicine, capitalism has lost its way.  When the population as a whole does not benefit from a strong stock market, but the population as a whole is hurt by a weak stock market, capitalism has lost its way.  When business or industry monopolies are allowed to control the message and the market, capitalism has lost its way.  When private, profit-driven institutions are allowed to write public policy, participate in elections or donate to elected officials, capitalism has opened the door to plutocracy.
-
-#### Policy controls
-Strong public policy can correct the course of capitalism and keep it in check.  Public policy with a focus on human capital 
-
-Motivations to keep people employed
-Motivations to train 
-
-Government and public policy should put humanity above business or industry.  
-
-Regulation is necessary but must be rational and predictable.  
-
-    
-#### 2.0.x. Resolution of conflicts
-[Unfinished]
-Given three forms of liberty and the potential for overlap of concerns, the resolution of conflicts should be handled accordingly.  Some rights may be restored if they are temporary violated.  Others may never be restored once lost.  Those that are permanently lost must take precedence over those that are transient.  Of those that may be permanently lost, global concerns must outweigh individual concerns, with regional concerns considered last.  This suggests the following order:
-
-2.3.2.1. and 2.3.2.2. must supersede all other rights, as the preservation of global civilization as a whole is the ultimate concern. 
-2.1.2.1., 2.1.2.8., 2.1.2.7. and 2.1.2.3 must follow in that order, although varying degrees of 2.1.2.7. and 2.1.2.8. may dictate that one might take precedence over the other. 
-
-The remaining rights of global and individual liberty come next, in no particular order within those groups, but with global liberty taking precedence.
-Finally, regional concerns are considered, generally in the order in which they are codified.
-
-Furthermore, the rights of the individual must be protected except where the exercise of a right would violate the liberty of others.  For example, the right to free expression does not extend to the point where such expression would cause bodily harm or duress to another individual.
-
-
-Rational, pragmatic public policy must recognize each of the distinct forms of humanity and further recognize that the concerns of each are distinct and not always complementary.  This section defines each of the three tiers, justifies the need to recognize the [distinct] liberty associated with them [reword], and enumerates the rights that are the natural foundation of such liberty.   Such a policy must also recognize that in order to protect the liberty of one, it is also necessary to protect the liberty of its parts and of any containing tiers. [said another way, any policy addressing a need must consider the impacts on personal, regional and global liberty]
-[the rights of the individual should be defended as fiercely as the preservation of civilization.]
-
-
-
-
-Humanity is capable of great achievements, especially when given the resources and motivation.  With lack of resources, lack of motivation or improper motivation, humanity is capable of monstrous things or morally corrupt apathy.  The human spirit shines brightest when treated with dignity and respect, when allowed to live fully and when given a fair opportunity to succeed.
-
-
-
-
-
-Imagine that the threat takes the form of a supervolcano, a pandemic, a change to climate leading to famine, some resource scarcity or some other physical threat to the planet.  If that threat is detected tomorrow, will the nations of the world be able to work together to face the threat?  Or will squabbles over tribal differences or economic insecurities stand in the way of ensuring our survival?  Most of the struggles and conflict in the world within and between nations are based on artificial conditions brought about by irrational thought and actions. Poverty exists because we allow it.  War exists because of hubris, selfishness, greed, distrust, and tribalism.  There are no true scarcities in the modern world that necessitate war.  We have the knowledge and facilities to move people to resources or resources to people.  We have economies with highly unbalanced wealth distribution.  We have power centers based on fear and brutality that must persist with brutality in order to maintain a status quo.  We have solutions for renewable energy that can power the world if we could set aside profit motives and special interests and just agree as a society to switch to those power sources.  Instead, we systematically maintain that status quo to benefit the few at the expense of many.
-
-Here in the year 2017, we have no true scarcities in this world that would justify the violence, the hate, the distrust, the famines, the poverty, the wasted lives.  But, 20 years from now, we might.  And, when that time comes, how will we respond?  Will it amplify the discord, or will we find unity and work together to solve the problem?
-
-All nations, all factions, all tribes, all individuals holding an imbalance of power, need to think and act like we have a 20 year horizon.  We need to pick from the known problems facing humanity and decide to completely and fully solve them.  Treat them with the seriousness they deserve.  If we truly had 20 years and only 20 years to solve the problems, how would we, as a global society, behave differently?  How would we work together instead of in competition or isolation?  We do not need to lose our individual identities or regional pride.  We do not need to sacrifice our futures for the greater good.  We do not need to resort to state control of manufacturing or wealth. We do not need to give up free enterprise.  We do need to re-evaluate our priorities and our motivations.  We need strong leaders with unified policies that are not based on irrational motivations to guide the nations and end the irrational conflicts so we can work together toward common goals.
-
-We need a sense of urgency.  We need leaders with that sense of urgency.  We need to learn to work together, and we cannot delay.  Because the first true 20 year clock could start tomorrow, but it might be 10 years.  Or 5.  Or 1.  Will we be ready?  [ mention public policy driving the sense of urgency ]
-
-
-
-A free an open society can not exist without controls on propaganda.  Entertainment and opinion must not be confused as facts.  Persuasive language vs propaganda.
-
-Economic insecurity, whether perceived or real, creates deep class divisions in a society.  
-
-
-The first true 20 year countdown to an emergency could start tomorrow.  But, it might be just 10 years.  Or five.  Or one.
+### Extrinsics
+Public policy and a rational personal code of ethics should avoid any consideration of intrinsic properties of an individual.  Extrinsic properties, including choices and actions, may be rationally subjected to value judgements, but the extrinsic properties must be judged independently of the individual.

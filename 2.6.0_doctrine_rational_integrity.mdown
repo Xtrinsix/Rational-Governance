@@ -1,2 +1,10 @@
 ## Doctrine of Rational Integrity 
 Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.
+
+When creating negative policy (laws limiting, preventing or punishing behavior; laws preventing or punishing the creation, sale or use of an item or class of items), these questions must be answered regarding the subject of the policy:
+
+-  What problem is the policy is trying to solve?
+-  Who is harmed by the current policy or current lack of policy?
+-  Who benefits by the current policy or current lack of policy?
+-  Who profits politically or economically from the creation of the policy?
+
