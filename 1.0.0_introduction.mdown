@@ -1,15 +1,27 @@
-## 1.0.0. Introduction
+## Introduction
 
 
-### 1.0.1. Justification
+### Justification
 Being the foundation upon which a government exists and being the supreme law of the land, a constitution must have permanence, evolving slowly through intentionally onerous processes.  By contrast, public policy must adapt to constantly changing internal and external forces.  Public policy must be constrained by the laws defined by a constitution and executed by the entities created and empowered by a constitution.  However, a constitution does not guarantee moral, ethical or even reasonable policy decisions.  With no persistent guidelines in place, public policy fluctuates with political tides that are driven largely by sentiment, fear, rhetoric, and private interests.  Such fluctuations have economic and social costs that impede progress and waste lives and resources.
 
 These fluctuations grow more extreme as political parties become more polarized.  Political parties may begin with noble intentions and unified visions, but successful parties over time succumb to private interests, greed, corruption of power and the influence of money.  The desire to win, to achieve power or to hold on to power pushes parties toward extremes of their original ideologies.   Principles give way to tribal instincts as parties drift to ideological extremes and see each other as enemies rather than fellow humans with different views or solutions to a problem.
 
 Extreme ideologies also grow more dangerous with advances in science and technology.  Robotics and automation, smaller and more capable computing devices, advances in chemistry and biotechnology, and more effective weapons of war, among many other advancements, both empower and endanger humanity.  Intentional and accidental misuse of technology grows more likely over time, moving us closer toward global disaster.  Policies with a focus on humanity must be in place to help guide us through these advances and to protect us from ourselves.  Humans have an enormous capacity to solve problems, but we can only do that if we stop fighting amongst ourselves, and that starts with the recognition that political parties have been given too much importance and that public policy priorities have not been aligned with human interests.
 
-### 1.0.2. Purpose
-This document describes more than a political philosophy or a party platform.  This document defines a framework for creating principled and disciplined public policy based on a single set of humanitarian principles rather than special interests, agendas or economic theories.  Although this describes a party platform, the philosophy and framework are intended to transcend political parties with a goal of introducing more independence from party affiliations and less polarization among politicians.
+Rational public policy with a focus on humanity's future must seek to address these timeless issues:
 
-### 1.0.3. Structure
-This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the philosophy and principles to be used as a framework.  Section 3 defines the policy platform based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
+- Economic insecurity, whether perceived or real, creates deep class divisions in a society and global civilization.
+- Institutaional bias, whether perceived or real, creates deep class divisions in a society and global civilization.
+- Deep class divisions generate instability, inefficiencies, struggles for power, and armed conflict.
+- Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
+- Climate changes and extraterrestrial threats such as asteroids are serious existential threats to human survival. 
+
+Poverty, hunger, renewable energy, shelter, disease, climate challenges, and other threats to earth's ecosystem can and should be solved.  Class, race, ethnic, regional and economic strife are all distractions from real and resolvable issues that face humanity and the planet.  No special interest, personal profit or tribal victory is worth risking the future of the species.  And, yet, public policy of the nations with the greatest influence and power serve only to deepen internal and external divisions and to consolidate control and power.  There are only a handful of truly global issues that can threaten the planet or our species, but there are 7 billion intelligent, creative, resourceful humans who can work together to solve those problems.
+
+We have the talent and the resources.  We must stop wasting both.  The nations of the world can do better.  Humanity deserves better.
+
+### Purpose
+This document describes a political philosophy and a framework for creating principled and disciplined public policy based on a single set of humanitarian principles rather than special interests, agendas or economic theories.  Although this describes a party platform, the philosophy and framework are intended to transcend political parties with a goal of introducing more independence from party affiliations, less polarization among politicians and more cooperation in order to take on the challenges that really matter.
+
+### Structure
+This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the philosophy and principles to be used as a framework.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
