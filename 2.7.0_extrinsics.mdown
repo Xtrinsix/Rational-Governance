@@ -1,9 +1,85 @@
 ## Extrinsics
 
-### Intrinsic and extrinsic properties
-Rational and fair public policy must ignore the intrinsic properties of an individual.  Every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief.  These properties are assumed to be acquired without the control or consent of the individual, including some properties acquired during childhood before the person is capable of making rational independent decisions.  For the sake of the discussion of policy, intrinsic properties must also include any physical or mental afflictions forced upon an individual against the will of the individual.
+* Needs work!!!
 
-By contrast, extrinsic properties reflect the rational and independent choices made by an individual, starting with the age at which a child begins to transition into an adult.  Permanent marks or other physical modifications, consequences of decisions, public actions, and violations of the rights of others are examples of extrinsic properties.  This is by no means a comprehensive list.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
+### Introduction
 
-All humans should be accorded the rights of Personal Liberty regardless of intrinsic properties.  Only extrinsic properties are cause for forfeiture of these rights.
-It is fair and rational to place value judgements on extrinsic properties
+Entities have intrinsic and extrinsic properties.
+Intrinsic properties have two classifications: [innate] existing from the time of the entity's creation and [acquired] developed as a result of experiences and circumstances beyond the control of the entity
+Extrinsic properties have two classifications: [primary] measured directly and objectively or [secondary] measured indrectly and subjectively
+Secondary extrinsic properties are the product of rational and independent choices, actions and behavior and cannot be measured without some record of those 
+
+
+========
+
+People and man-made institutions such as businesses and governments have intrinsic properties that define their nature.  Intrinsic properties of such entities are those qualities that are inherent to the entity, either acquired at the time of creation or through growth and other experiences beyond the direct control of the entity.
+
+For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief.  These properties are assumed to be acquired without the control or consent of the individual, including some properties acquired during childhood before the person is capable of making rational independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as scars from an assault.
+
+By contrast, extrinsic properties are reflections of the rational and independent choices made by an entity.  For an individual, rational choices begin at the age at which a child begins the transition to adulthood.  Permanent marks or other physical modifications, experience and acquired skills, consequences of decisions, public actions, including the violations of the rights of others, are examples of extrinsic properties.  This is by no means a comprehensive list.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
+
+Extrinsics provides a system for unbiased value judgements.  The virtue of an extrinsic property is measured independently of any entity acquiring that property, and thus all entities sharing that property share the same associated value judgement.  In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors or decisions.  This leads to a more honest and rational measure of the virtue of a person or institution.
+
+Public policy and any honest personal code of ethics should avoid considerations of intrinsic properties when judging the worth or character of an individual.  Instead, a rigorous examination of extrinsic properties should should inform opinion.
+
+
+### Extrinsics and Value Judgements
+It is fair and rational to place value judgements on extrinsic properties, but only if the judgements are placed on those properties without the context of which individuals have acquired those properties.  Sentiment and bias interfere with proper judgement of extrinsic qualities when viewed within the context of an individual.  All questions of intent and degree being equal, the same action, performed by different entities, must carry the same value judgement, and both entities must equally acquire the corresponding value judgements of the action.
+
+### Extrinsics and Individuals
+Extrinsics makes a clear distinction between intrinsic and extrinsic properties of individuals, and attempts a clear separation of extrinsic properties from the individuals who acuire them.  In applying value judgements to extrinsic properties and not the individual, the justice system can be more just.  [Actions, behaviors and decisions should be on trial]
+
+Intrinsic properties of individuals cannot be changed without the questionable application of science, if such change can be achieved at all.  Intrinsic properties of individuals include, but are not limited to
+
+* genetics (innate physical qualities, the presence or absence of disease)
+* circumstances of birth (socioeconomic background, birthplace, ancestry)
+* race
+* age
+* gender*
+* sexuality* 
+* religious belief* 
+* 
+
+Gender, sexuality and religious beliefs are special cases.
+
+Gender is normally determined at birth, either through normal biology or through selection in cases where an infant is born with ambiguous or incompletely formed sex organs. Later in life, applied science and medicine may change the gender of an individual.  With such ambiguity, the simple and most direct case should be considered.  The assumption should be that gender is innate with the understanding that there may be exceptions.
+
+Sexual preferences can be formed at birth or influenced in early life such that the distinction between innate sexuality and acquired sexuality can be blurred.  With such ambiguity, the simple and most direct case should be considered.  The assumption should be that sexual preference is innate with the understanding that there may be exceptions. 
+
+Religious belief is not an innate quality of an individual, but for many, religion is introduced so early and so often in life that the individual is given no conscious choice but to adopt those beliefs.  It is true that many adopt religious beliefs or change religious beliefs as an adult.  With such ambiguity, the simple and most direct case should be considered.  The assumption should be that religious belief is acquired in such a way that it should be considered an intrinsic property of an individual.
+
+Extrinsic properties of individuals are acquired over time as the results of actions, behavior and decisions.  These include objectively measurable qualities and subjective qualities that can only be measured indirectly.
+
+
+
+Extrinsic properties: 
+
+* physical enhancements or modifications
+* talents and skills
+* varieties of wisdom and experience
+* character 
+* citizenship
+* community
+
+Extrinsic actions, behaviors and decisions:
+
+* Intentional body modifications 
+* Education
+* Work experience
+* Financial decisions
+* Publicly recorded actions, specifically actions affecting other individuals or institutions or the rights of such
+* Publicly recorded behavior, specifically behavior affecting other individuals or institutions or the rights of such
+* Publicly recorded decisions, specifically decisions affecting other individuals or institutions or the rights of such
+
+
+
+### Extrinsics and Institutions
+Institutions are not people.  
+
+### Extrinsics and Public Policy
+Rational and fair public policy must ignore the intrinsic properties of an individual.  There may be times when policy will address an imbalance or an injustice involving the intrinsic properties of an individual or group.  Barring such responses to a need, public policy should remain neutral in regard to intrinsic properties of individuals.
+
+### Extrinsics and Liberty
+All entities should be accorded the rights of Personal or Regional Liberty regardless of intrinsic properties.  Only extrinsic properties are cause for forfeiture of these rights.
+
+
