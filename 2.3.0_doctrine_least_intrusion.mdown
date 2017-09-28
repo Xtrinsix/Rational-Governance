@@ -1,7 +1,4 @@
 ## The Doctrine of Least Intrusion
 When presented with multiple approaches to solving a problem through public policy, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
-
-
-
-[Public matters remain public.  Private matters remain private.  Policy without factual justification has no place in a rational society.  Given any conflicts or ambiguity, existing liberties must take priority.  Where ambiguity is found, definitions must be adopted in order to move forward.]
+This is largely self-explanatory, but there are some corollaries.  Public matters should be kept public.  Private matters should remain private unless the individual chooses to expose private matters to the public.

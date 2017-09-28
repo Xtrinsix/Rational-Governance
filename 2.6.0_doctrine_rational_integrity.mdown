@@ -1,10 +1,28 @@
 ## Doctrine of Rational Integrity 
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.
+Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislation before brought to a vote.  Policy without factual justification has no place in a rational society.
 
 When creating negative policy (laws limiting, preventing or punishing behavior; laws preventing or punishing the creation, sale or use of an item or class of items), these questions must be answered regarding the subject of the policy:
 
--  What problem is the policy is trying to solve?
+-  What problem is the policy trying to solve?
 -  Who is harmed by the current policy or current lack of policy?
 -  Who benefits by the current policy or current lack of policy?
 -  Who profits politically or economically from the creation of the policy?
+-  Which body monitors and measures the effectiveness of the policy?
+-  What are remedies for the policy if it does not have the intended effect?
+-  What are remedies for the policy if it has unintended negative effects?
 
+
+These questions must be objectively and independently answered before legislation can be brought to a vote.
+
+When creating positive policy (laws enacting the creation of new agencies, creating new protections, expanding state or federal powers, etc), these questions must be answered regarding the subject of the policy:
+
+-  What problem is the policy trying to solve?
+-  Who benefits by the current policy or current lack of policy?
+-  Who profits politically or economically from the creation of the policy?
+-  What pays for the policy 
+-  Which body monitors and measures the effectiveness of the policy?
+-  What are remedies for the policy if it does not have the intended effect?
+-  What are remedies for the policy if it has unintended negative effects?
+
+
+When creating neutral policy (naming things and places, honoring individuals, declaring support of an individual or institution, condemning an act, etc), an independent body should be consulted to ensure consistency with existing ethics and norms.

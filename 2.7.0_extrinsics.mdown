@@ -4,15 +4,36 @@
 
 ### Introduction
 
-Entities have intrinsic and extrinsic properties.
-Intrinsic properties have two classifications: [innate] existing from the time of the entity's creation and [acquired] developed as a result of experiences and circumstances beyond the control of the entity
-Extrinsic properties have two classifications: [primary] measured directly and objectively or [secondary] measured indrectly and subjectively
-Secondary extrinsic properties are the product of rational and independent choices, actions and behavior and cannot be measured without some record of those 
+Entities (people and man-made institutions) have intrinsic and extrinsic properties.
+
+Intrinsic properties have two classifications: [innate] existing from the time of the entity's creation and [acquired] developed as a result of experiences and circumstances beyond the control of the entity.
+Innate intrinsic properties appear at the time of inception and do not easily change without the applications of ethically questionable science and medicine.
+Acquired intrinsic properties do not appear at the time of inception, but develop before the entity has independence of choice or rationality of thought.
+
+Extrinsic properties are the result of extrinsic behavior -- rational and independent choices, actions and decisions. 
+Extrinsic properties have two classifications: [primary] measured directly and objectively or [secondary] measured indrectly and subjectively.
+Primary extrinsic properties include intentionally acquired physical characteristics (body modifications, some indications of fitness) and objectively measurable skills (surgical skills, technical skills, math skills, language skills, etc).  Primary extrinsic properties are directly observable or quantifiable measurable.
+Secondary extrinsic properties are indirectly observable through evidence of extrinsic behavior (compassion, loyalty, initiative, etc).  Secondary extrinsic properties are often described with pairs of opposing terms: loyal vs disloyal, ethical vs unethical, compassionate vs indifferent, etc.
+
+Some properties are composites of more than one property type (vision and hearing are innate properties that are directly effected over time by extrinsic behavior, resulting in a composite of innate intrinsic and primary extrinsic properties).
+Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties.  Examples: gender, sexuality, religious belief.
+Extrinsic behavior is driven by motivation, which comes in many forms.  Extrinsics does not attempt to catalogue or measure motivation.  Any attempt to assess motivation in a human is inexact at best.
+
+These disctinctions are necessary for rational value judgements.
+It is irrational to judge or to restrict opportunities based on intrinsic properties.
+It is rational to assign value to extrinsic behaviors and extrinsic properties.
+It is rational to assign value judgements to extrinsic behaviors and extrinsic properties.
+It is irrational to conflate the intrinsic values of an individual with the value judgements given to extrinsic properties. 
+It is rational to require specific intrinsic properties in order to qualify for an opportunity (e.g. male or female, above a certain age, within a certain height range, etc) if those properties may objectively be considered fundamental qualifications for the opportunity.
+
+Said simply: Extrinsic behaviors and properties must be assessed independently of any individual.  You can judge extrinsic behaviors of an individual, but those judgements must apply to the same extrinsic behaviors regardless of the individuals exhibiting those behaviors.  Judge the behaviors, not the individual.  Do not judge the intrinsic properties of an individual.  Social attraction (physical or otherwise) will naturally consider intrinsic and extrinsic properties.  Institutional and public policy must not discriminate based on intrinsic properties.
+
+
 
 
 ========
 
-People and man-made institutions such as businesses and governments have intrinsic properties that define their nature.  Intrinsic properties of such entities are those qualities that are inherent to the entity, either acquired at the time of creation or through growth and other experiences beyond the direct control of the entity.
+People and man-made institutions including businesses and governments have intrinsic properties that define their nature.  Intrinsic properties of such entities are those qualities that are inherent to the entity, either acquired at the time of creation or through growth and other experiences beyond the direct control of the entity.
 
 For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief.  These properties are assumed to be acquired without the control or consent of the individual, including some properties acquired during childhood before the person is capable of making rational independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as scars from an assault.
 

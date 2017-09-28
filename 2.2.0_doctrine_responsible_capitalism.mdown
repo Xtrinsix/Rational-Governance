@@ -1,13 +1,13 @@
 ## The Doctrine of Responsible Capitalism
 Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of others.  People must have trust that the economic system works for everyone, not just those in positions of power or authority.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
-#### Benefits of capitalism
+### Benefits of capitalism
 Humans are natural entrepreneurs.  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.  Capitalism matches the human spirit and temperament and is a natural fit for the human entrepreneurial drive.  All other economic systems are masking humanity's natural capitalistic tendencies and suppress the spirit of innovation.
 
-#### Dangers of capitalism
+### Dangers of capitalism
 Capitalism without regulation and strong public policy leads to corruption.  In a successful economy, capitalism leads to an imbalance in what a society wants and what a society needs.  Inefficient or desctructive products or services may be in higher demand because of their convenience or good marketing, and innovation follows that demand.   Capitalism, left unchecked, also tends toward a focus on profit over responsible behavior and wealth redistribution to a small percentage of the population.  When personal profits for shareholders have a priority over the well-being or livelihood of employees, capitalism has lost its way.  When the market cares more for luxury features over quality or efficiency, capitalism has lost its way.  When unsustainably low prices drive the market more than the human cost in obtaining those low prices, capitalism has lost its way.  When the profitability of medicine is more important than the lives that could be saved by that medicine, capitalism has lost its way.  When the population as a whole does not benefit from a strong stock market, but the population as a whole is hurt by a weak stock market, capitalism has lost its way.  When business or industry monopolies are allowed to control the message and the market, capitalism has lost its way.  When private, profit-driven institutions are allowed to write public policy, participate in elections or donate to elected officials, capitalism has opened the door to plutocracy.
 
-#### Policy controls
+### Policy controls
 Strong public policy can correct the course of capitalism and keep it in check.  
 Public policy with a focus on human capital...
 
@@ -23,6 +23,7 @@ Motivations to train
 
 Government and public policy should put humanity above business or industry.  
 
+Given any conflicts or ambiguity, existing liberties must take priority.  Where ambiguity is found, definitions must be adopted in order to move forward.
   
 
     
