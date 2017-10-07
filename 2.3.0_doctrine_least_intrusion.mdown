@@ -1,4 +1,7 @@
 ## The Doctrine of Least Intrusion
-When presented with multiple approaches to solving a problem through public policy, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
+Extremes in policy, action and ideology are the result of irrational behavior and lead to irrational decisions with poor outcomes.  When presented with multiple approaches to solving a problem, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
-This is largely self-explanatory, but there are some corollaries.  Public matters should be kept public.  Private matters should remain private unless the individual chooses to expose private matters to the public.
+
+### Corollaries  
+-  Public matters should be kept public.
+-  Private matters should remain private unless the individual chooses to expose private matters to the public.

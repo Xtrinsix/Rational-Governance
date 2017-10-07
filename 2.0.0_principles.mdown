@@ -1,7 +1,33 @@
+## Introduction
+Being the foundation upon which a government exists and being the supreme law of the land, a constitution must have permanence, evolving slowly through intentionally onerous processes.  By contrast, public policy must adapt to constantly changing internal and external forces.  Public policy must be constrained by the laws defined by a constitution and executed by the entities created and empowered by a constitution.  However, a constitution does not guarantee moral, ethical or even reasonable policy decisions.  With no persistent guidelines in place, public policy fluctuates with political tides that are driven largely by sentiment, fear, rhetoric, and private interests.  Such fluctuations have economic and social costs that impede progress and waste lives and resources.
+
+These fluctuations grow more extreme as political parties become more polarized.  Political parties may begin with noble intentions and unified visions, but successful parties over time succumb to private interests, greed, corruption of power and the influence of money.  The desire to win, to achieve power or to hold on to power pushes parties toward extremes of their original ideologies.   Principles give way to tribal instincts as parties drift to ideological extremes and see each other as enemies rather than fellow humans with different views or solutions to a problem.
+
+Extreme ideologies also grow more dangerous with advances in science and technology.  Robotics and automation, smaller and more capable computing devices, advances in chemistry and biotechnology, and more effective weapons of war, among many other advancements, both empower and endanger humanity.  Intentional and accidental misuse of technology grows more likely over time, moving us closer toward global disaster.  Policies with a focus on humanity must be in place to help guide us through these advances and to protect us from ourselves.  Humans have an enormous capacity to solve problems, but we can only do that if we stop fighting amongst ourselves, and that starts with the recognition that political parties have been given too much importance and that public policy priorities have not been aligned with human interests.
+
+Rational public policy with a focus on humanity's future must seek to address these timeless issues:
+
+- Economic insecurity, whether perceived or real, creates deep class divisions in a society and global civilization.
+- Institutaional bias, whether perceived or real, creates deep class divisions in a society and global civilization.
+- Abuse of power, whether perceived or real, creates deep class divisions in a society and global civilization.
+- Deep class divisions generate instability, inefficiencies, struggles for power, and armed conflict.
+- Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
+- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and volcanoes threaten human survival. 
+
+Poverty, hunger, renewable energy, shelter, disease, climate challenges, and other threats to earth's ecosystem can and should be solved.  Class, race, ethnic, regional and economic strife are all distractions from real and resolvable issues that face humanity and the planet.  No special interest, personal profit or tribal victory is worth risking the future of the species.  And, yet, public policy of the nations with the greatest influence and power serve only to deepen internal and external divisions and to consolidate control and power.  There are only a handful of truly global issues that can threaten the planet or our species, but there are 7 billion intelligent, creative, resourceful humans who can work together to solve those problems.
+
+We have the talent and the resources.  We must stop wasting both.  The nations of the world can do better.  Humanity deserves better.
+
+### Purpose
+This document describes a political philosophy and a framework for creating principled and disciplined public policy based on a single set of humanitarian principles rather than special interests, agendas or economic theories.  Although this describes a party platform, the philosophy and framework are intended to transcend political parties with a goal of introducing more independence from party affiliations, less polarization among politicians and more cooperation in order to take on the challenges that really matter.
+
+### Structure
+This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the philosophy and principles to be used as a framework.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
+
 ## 2.0. Principles
 
 ### 2.0.1. Introduction
-Economic, social and political forces move more quickly and with more power and destructive potential in this age of advancing technology and globalization than at any other time in history.  Public policy must take a larger view of the world than ever before in order to keep those forces from causing serious or irreparable harm to individual societies or global civilization.
+Economic, social and political forces move more quickly and with more power and destructive potential in this age of advancing technology and globalization than at any other time in history.  Public policy must take a larger view of the world than ever before in order to keep those forces from causing serious or irreparable harm to individual societies, ecosystems or global civilization.
 
 Principled and disciplined public policy has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few. 
 
@@ -9,24 +35,26 @@ In order to achieve these goals, public policy must put humanity ahead of instit
 
 The [framework] defines individual doctrines to be used as the guide to principled and disciplined public policy.
 
--  Doctrine of the Three Liberties
+-  Doctrine of Intrinsic Liberty
+-  Extrinsics
 -  Doctrine of Responsible Capitalism
 -  Doctrine of Least Intrusion
 -  Doctrine of Positive Merit
 -  20 Year Doctrine
 -  Doctrine of Truth from Power
 -  Doctrine of Rational Integrity
--  Extrinsics
 
+### Doctrine of Intrinsic Liberty
+All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three forms: the individual, regional social units, and global civilization.
 
-### Doctrine of the Three Liberties
-All public policy, at its core, must preserve the liberty (the natural rights) of humanity in each of its three forms: the individual, regional social units, and global civilization.
+### Extrinsics
+Extrinsics provides a system for unbiased value judgements of actions, behaviors and decisions.  The virtue of an extrinsic property is measured independently of any entity acquiring that property, and thus all entities sharing that property share the same associated value judgement.  In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors and decisions.  This leads to a more honest and rational measure of the virtue of a person or institution.
 
 ### Doctrine of Responsible Capitalism
 Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of others.  People must have trust that the economic system works for everyone, not just those in positions of power or authority.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
 ### Doctrine of Least Intrusion
-When presented with multiple approaches to solving a problem through public policy, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
+Extremes in policy, action and ideology are the result of irrational behavior and lead to irrational decisions with poor outcomes.  When presented with multiple approaches to solving a problem, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
 ### Doctrine of Positive Merit
 A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution or individual.
@@ -39,6 +67,3 @@ Rational public policy must be based on transparency, truth and availability of 
 
 ### Doctrine of Rational Integrity 
 Public policy must be rational, purposeful and crafted with knowledge.  Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.
-
-### Extrinsics
-Extrinsics provides a system for unbiased value judgements of actions, behaviors and decisions.  The virtue of an extrinsic property is measured independently of any entity acquiring that property, and thus all entities sharing that property share the same associated value judgement.  In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors and decisions.  This leads to a more honest and rational measure of the virtue of a person or institution.
