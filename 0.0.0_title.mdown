@@ -1,4 +1,6 @@
-# Rational Governance
+Rational Governance
+===================
+
 Governance in an age of advanced technology and global civilization.
 
 ### Introduction
@@ -41,9 +43,10 @@ This document is not used to make the logical case for [ Rational Governance ]. 
 ### Structure
 This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the philosophy and principles to be used as a framework.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
 
-## 2.0. Principles
+Principles
+------------------
 
-### 2.0.1. Introduction
+### Introduction
 Principled and disciplined public policy has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few. 
 
 In order to achieve these goals, public policy must put humanity ahead of institutions, personal profit, special interests or tribal associations.  Public policy must be driven by reason, not sentiment.  Public policy must encourage unity within and across borders.  And, public policy must strike a balance between individual, social, global and economic concerns.
@@ -53,11 +56,11 @@ In order to achieve these goals, public policy must put humanity ahead of instit
 -  *__Doctrine of Intrinsic Liberty:__*
 All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three forms: the individual, regional social units, and global civilization.
 
--  *__Extrinsics:__*
-A system for rational and unbiased value judgements of actions, behaviors and decisions rather than groups or individuals.
-
 -  *__20 Year Doctrine:__*
 At any moment, humanity may discover an undeniable, imminent threat with a 20 year countdown, and we as a global community need to know that we can set aside petty differences and unify to meet the threat.
+
+-  *__Extrinsics:__*
+A system for rational and unbiased value judgements of actions, behaviors and decisions rather than groups or individuals.
 
 -  *__Doctrine of Responsible Capitalism:__*
 Good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
@@ -73,3 +76,14 @@ Rational public policy must be based on transparency, truth and availability of 
 
 -  *__Doctrine of Positive Merit:__*
 A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
+
+### Priorities and Resolution of Conflicts
+
+
+The Doctrine of Intrinsic Liberty and the 20 Year Doctrine have primacy over all other principles.  Extrinsics, as a system of thought, introduces clarity and facilitates rational decisions.  Together, these are the Primary Principles.
+
+The other doctrines are Secondary Principles, and must have equal importance.
+
+Given any conflicts or ambiguity, preservation of life and civilization must take priority along with the preservation of existing liberties to the greatest extent possible.
+
+Where ambiguity is found, definitions must be adopted for clarity in order to move forward.
