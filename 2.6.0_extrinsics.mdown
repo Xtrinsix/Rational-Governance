@@ -1,8 +1,8 @@
-## Extrinsics
+## 2.6. Extrinsics
 
 * Needs work!!!
 
-### Introduction
+### 2.6.1. Introduction
 
 Entities (people and man-made institutions) have intrinsic and extrinsic properties.
 
