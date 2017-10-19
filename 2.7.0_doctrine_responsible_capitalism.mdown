@@ -1,23 +1,23 @@
-The Doctrine of Responsible Capitalism
+2.7. The Doctrine of Responsible Capitalism
 --------------------------------------
 
-### Introduction
+### 2.7.1. Introduction
 Assertions:
 
 -  Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of the majority.
 -  Economic insecurity, whether perceived or real, creates deep class divisions in a society.  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
 -  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
-### Benefits, Risks, Controls 
+### 2.7.2. Benefits, Risks, Controls 
 
-#### Benefits of capitalism
+#### 2.7.2.1. Benefits of capitalism
 -  Humans are natural entrepreneurs.
 -  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.
 -  Capitalism matches the human spirit and temperament and is a natural fit for the human entrepreneurial drive.
 -  Competition can inspire product innovation, and pursuit of profits can inspire process and manufacturing efficiencies.
 -  All other economic systems are masking humanity's natural capitalistic tendencies and suppressing the spirit of innovation.
 
-#### Risks of capitalism
+#### 2.7.2.2. Risks of capitalism
 -  Capitalism without regulation and strong public policy leads to imbalances of power and corruption.
     -  Laissez-faire capitalism is at highest risk of corruption.
 -  Capitalism, left unchecked, also tends toward a focus on profit over responsible behavior and wealth redistribution to a small percentage of the population.
@@ -30,7 +30,7 @@ Assertions:
     -  Free markets are not historically good at selecting the best technology/standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the technology with the best marketing wins, rather than 
     -  Competing standards mean product waste and slower evolution.
 
-#### Signs of Danger
+#### 2.7.2.3. Signs of Danger
 -  When personal profits for shareholders have an institutionalized priority over the well-being or livelihood of employees, capitalism is at risk.
 -  When the market cares more for luxury features over quality or efficiency, capitalism is at risk.
 -  When unsustainably low prices drive the market more than the human cost in obtaining those low prices, capitalism is at risk.
@@ -40,7 +40,7 @@ Assertions:
 -  When private, profit-driven institutions are allowed to write public policy, participate in elections or donate to elected officials, capitalism has opened the door to plutocracy.
 
 
-#### Controls
+#### 2.7.2.4. Controls
 
 -  Public policy should keep a focus on human capital and global prosperity.
 -  The pursuit of short term profit and maximizing shareholder value justify immoral and unethical business behavior. [^1]. Public policy should discourage this behavior by supporting alternative motivations.
