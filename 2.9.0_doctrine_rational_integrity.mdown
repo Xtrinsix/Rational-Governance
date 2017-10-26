@@ -1,8 +1,8 @@
 2.9. Doctrine of Rational Integrity 
 ---------------------------------
 
-### 2.9.1. Introduction
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislation before brought to a vote.  Policy without factual justification has no place in a rational society.
+### 2.9.1. Summary
+Policy without factual justification has no place in a rational society.  Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislation before brought to a vote.
 
 When creating negative policy (laws limiting, preventing or punishing behavior; laws preventing or punishing the creation, sale or use of an item or class of items), these questions must be answered regarding the subject of the policy:
 

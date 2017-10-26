@@ -1,7 +1,7 @@
 2.8. The Doctrine of Least Intrusion
 ------------------------------------
 
-### 2.8.1. Introduction
+### 2.8.1. Summary
 Extremes in policy, action and ideology are the result of irrational behavior and lead to irrational decisions with poor outcomes.  When presented with multiple approaches to solving a problem, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
 

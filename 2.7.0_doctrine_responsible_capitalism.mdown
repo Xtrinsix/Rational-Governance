@@ -1,55 +1,55 @@
 2.7. The Doctrine of Responsible Capitalism
 --------------------------------------
 
-### 2.7.1. Introduction
-Assertions:
+### 2.7.1. Summary
+Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of the majority.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
--  Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of the majority.
--  Economic insecurity, whether perceived or real, creates deep class divisions in a society.  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
--  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
+### 2.7.2. Assertions 
 
-### 2.7.2. Benefits, Risks, Controls 
-
-#### 2.7.2.1. Benefits of capitalism
+#### 2.7.2.1. Capitalism Is the Preferred Economic System
 -  Humans are natural entrepreneurs.
 -  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.
 -  Capitalism matches the human spirit and temperament and is a natural fit for the human entrepreneurial drive.
 -  Competition can inspire product innovation, and pursuit of profits can inspire process and manufacturing efficiencies.
 -  All other economic systems are masking humanity's natural capitalistic tendencies and suppressing the spirit of innovation.
 
-#### 2.7.2.2. Risks of capitalism
--  Capitalism without regulation and strong public policy leads to imbalances of power and corruption.
-    -  Laissez-faire capitalism is at highest risk of corruption.
--  Capitalism, left unchecked, also tends toward a focus on profit over responsible behavior and wealth redistribution to a small percentage of the population.
--  In a prosperous economy, market forces shift to a focus on luxury over need.
-    -  Inefficient, wasteful or destructive products or services may be in higher demand because of their convenience or good marketing.
-    -  Prosperous economies typically have sub-economies that are struggling or suffering.
-    -  Resources and innovation follow the demand for luxury items instead of products, services or technologies that support the prosperity of struggling or suffering economies.
-    -  A prosperous economy that ignores or abuses struggling or suffering economies creates deep class divisions in a society and global civilization.
--  Free market competition can stall progress as resources are divided among competing standards until a clear winner emerges.
+#### 2.7.2.2. Free Market Capitalism Has Risks
+-  Economic insecurity and class divisions
+    -  Stock markets disproportionately reward the upper class when the markets are strong and disproportionately punish the lower and middle classes when the markets are weak.
+    -  Corporate prioritization of profit over employee prosperity creates economic insecurity.
+    -  Economic insecurity, whether perceived or real, creates deep class divisions in a society.
+    -  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
+
+-  Inefficiencies
+    -  Free market competition can stall progress as resources are divided among competing standards until a clear winner emerges.
     -  Free markets are not historically good at selecting the best technology/standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the technology with the best marketing wins, rather than 
     -  Competing standards mean product waste and slower evolution.
 
-#### 2.7.2.3. Signs of Danger
--  When personal profits for shareholders have an institutionalized priority over the well-being or livelihood of employees, capitalism is at risk.
--  When the market cares more for luxury features over quality or efficiency, capitalism is at risk.
--  When unsustainably low prices drive the market more than the human cost in obtaining those low prices, capitalism is at risk.
--  When the profitability of medicine is more important than the lives that could be saved by that medicine, capitalism is at risk.
--  When the population as a whole does not benefit from a strong stock market, but the population as a whole is hurt by a weak stock market, capitalism is at risk.
--  When business or industry monopolies are allowed to control the message and the market, capitalism is at risk.
--  When private, profit-driven institutions are allowed to write public policy, participate in elections or donate to elected officials, capitalism has opened the door to plutocracy.
+-  Corruption
+    -  The pursuits of short term profit and maximizing shareholder value are used to justify immoral and unethical business behavior. [^1]. 
+    -  Profit-driven institutions are allowed to directly influence public policy for their exclusive benefit.
+    -  Business or industry monopolies control the public message and the market for their exclusive benefit.
+    -  Personal profits for shareholders have an institutionalized priority over the well-being or livelihood of employees.
+
+-  Misplaced priorities
+    -  Market forces in prosperous economies focus on luxury over need and ignore unstable or struggling regional sub-economies.
+    -  Resources and innovation follow the demand for luxury instead of products, services or technologies that support unstable or struggling economies.
+    -  Manufacturers pursue unsustainably low prices for luxury products and services in order to reach broader markets.
+    -  In the race to the bottom, low prices are achieved at the expense of quality and through exploitation of human labor.
+    -  A prosperous economy that ignores or abuses unstable or struggling economies creates deep class divisions in a society and global civilization.
+    -  Inefficient, wasteful or destructive products or services may be in higher demand because of their convenience or good marketing.
+    -  Life-saving products and services are treated as commodities instead of basic human rights, transferring monetary value onto human lives.
 
 
-#### 2.7.2.4. Controls
-
--  Public policy should keep a focus on human capital and global prosperity.
--  The pursuit of short term profit and maximizing shareholder value justify immoral and unethical business behavior. [^1]. Public policy should discourage this behavior by supporting alternative motivations.
+#### 2.7.3. Doctrine
+-  Public policy must prioritize human capital and global prosperity over shareholder value.
 -  Regulation is necessary but must be rational and predictable.
--  Public policy should provide motivations to avoid layoffs in healthy companies in the name of increasing profits.
--  Public policy should provide motivations for companies to train current and potential employees in the community.
--  Public policy should provide mechanisms to identify competing technology standards early and assist in unification behind the proper standard in order to prevent waste and to move technology forward more efficiently.
-
-    
+-  Profit-driven institutions must not be allowed to write public policy, participate in elections or donate to elected officials.
+-  The profitability of life-saving products and services must not take precedence over the lives that could be saved by them.
+-  Personal profits for shareholders must not have an institutionalized priority over the well-being or livelihood of employees.
+    -  Public policy must provide motivations to avoid layoffs in healthy companies in the name of increasing profits.
+    -  Public policy must provide motivations for companies to train current and potential employees in the community.
+-  Public policy must provide mechanisms to identify competing technology standards early and assist in unification behind the proper standard in order to prevent waste and to move technology forward more efficiently.
 
 
 [^1]: Making Sense Of Shareholder Value: 'The World's Dumbest Idea' - Forbes [https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea](https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea )
