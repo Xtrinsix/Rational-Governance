@@ -15,14 +15,14 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 
 #### 2.7.2.2. Free Market Capitalism Has Risks
 -  Economic insecurity and class divisions
-    -  Stock markets disproportionately reward the upper class when the markets are strong and disproportionately punish the lower and middle classes when the markets are weak.
+    -  Stock markets disproportionately reward the wealthy when the markets are strong and disproportionately punish everyone else when the markets are weak.
     -  Corporate prioritization of profit over employee prosperity creates economic insecurity.
     -  Economic insecurity, whether perceived or real, creates deep class divisions in a society.
     -  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
 
 -  Inefficiencies
     -  Free market competition can stall progress as resources are divided among competing standards until a clear winner emerges.
-    -  Free markets are not historically good at selecting the best technology/standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the technology with the best marketing wins, rather than 
+    -  Free markets are not historically good at selecting the best medical or technological protocol or standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the best marketing wins over technology, efficiency, or efficacy.
     -  Competing standards mean product waste and slower evolution.
 
 -  Corruption
@@ -40,16 +40,13 @@ Capitalism is the desired economic system for a free and open democracy, but cap
     -  Inefficient, wasteful or destructive products or services may be in higher demand because of their convenience or good marketing.
     -  Life-saving products and services are treated as commodities instead of basic human rights, transferring monetary value onto human lives.
 
-
-#### 2.7.3. Doctrine
+### 2.7.3. Doctrine
 -  Public policy must prioritize human capital and global prosperity over shareholder value.
--  Regulation is necessary but must be rational and predictable.
+    -  Personal profits for shareholders must not have an institutionalized priority over the lives, the health or the prosperity of employees.
+    -  The profitability of life-saving products and services must not take precedence over the lives that could be saved by them.
 -  Profit-driven institutions must not be allowed to write public policy, participate in elections or donate to elected officials.
--  The profitability of life-saving products and services must not take precedence over the lives that could be saved by them.
--  Personal profits for shareholders must not have an institutionalized priority over the well-being or livelihood of employees.
-    -  Public policy must provide motivations to avoid layoffs in healthy companies in the name of increasing profits.
-    -  Public policy must provide motivations for companies to train current and potential employees in the community.
 -  Public policy must provide mechanisms to identify competing technology standards early and assist in unification behind the proper standard in order to prevent waste and to move technology forward more efficiently.
+-  Regulation is necessary but must be rational and predictable.
 
 
 [^1]: Making Sense Of Shareholder Value: 'The World's Dumbest Idea' - Forbes [https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea](https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea )

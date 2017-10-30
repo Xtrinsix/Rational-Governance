@@ -3,10 +3,33 @@
 ### 2.10.1. Summary
 Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be consequences to propaganda and other forms of disinformation.
 
-A free and open society can not exist without controls on propaganda.  Entertainment and opinion must not be confused as facts.
+### 2.10.2. Assertions
+-  A free and open society can not exist without controls on propaganda.
+-  Entertainment and opinion must not be confused as facts.
+-  Free speech may include persuasive language; propaganda is not free speech.
+-  Transparency builds security and trust between a government and its citizenry.
+-  Secrecy creates insecurity and class divisions.
 
-### Topics 
-
--  Persuasive language vs propaganda.
--  Entertainment and opinion clearly distinguished from credentialed news outlets.
--  Transparency creating security.
+### 2.10.3. Doctrine
+-  A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information.
+    -  Assertion of Truth must be defined.
+    -  Assertion of Opinion must be defined.
+    -  Source of Truth must be defined.
+-  An entity funded by government and private institutions must accredit Sources of Truth.
+-  A Source of Truth must clearly identify its credentials along with any assertion of truth.
+-  A Source of Truth must clearly identify assertions of opinion as such.
+-  An Assertion of Truth by a non-accredited entity may result in monetary fines or other punitive actions.
+-  False or misleading use of credentials may result in monetary fines or other punitive actions.
+-  Free speech by individuals must be protected.
+    -  Individuals clearly identifying as individuals are not subject to these standards.
+    -  Individuals impersonating a credentialed entity may receive fines or other punitive actions.
+    -  Free speech does not protect any Assertion of Truth while impersonating a Source of Truth.
+-  Government entities and corporations issuing official statements must be viewed as Sources of Truth, must be held to the same standards and must be subject to the same punitive actions.
+-  Punitive actions for Sources of Truth must include the following:
+    -  False or misleading Assertions of Truth from a Source of Truth must be faithfully corrected in the same outlets with the same audience as soon as possible.
+    -  Media outlets knowingly publishing, broadcasting or otherwise disseminating the false or misleading Assertions of Truth must correct the assertions in the same outlet with the same audience as soon as possible.
+    -  Outlets that fail to correct false or misleading Assertions of Truth will lose status as a Source of Truth.
+-  Punitive actions for elected officials must include the following:
+    -  False or misleading Assertions of Truth by elected officials must be faithfully corrected in the same outlets with the same audience as soon as possible.
+    -  Elected officials who fail to correct false or misleading Assertions of Truth must not be allowed to publish, broadcast or otherwise disseminate other Assertions of Truth until making the correction.
+    -  Corrections must take place before any other statements or the rest of the statements may be withheld from dissemination.
