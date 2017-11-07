@@ -71,7 +71,7 @@ When presented with multiple approaches to solving a problem, the least intrusiv
 -  *__Doctrine of Rational Integrity:__*
 Public policy must not be driven by sentimental or irrational concerns; fear, disgust, sadness, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.
 
--  *__Doctrine of Truth from Power:__*
+-  *__Doctrine of Truth from Authority:__*
 Rational public policy must be based on transparency, truth and availability of complete information.
 
 -  *__Doctrine of Positive Merit:__*

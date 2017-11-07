@@ -1,40 +1,45 @@
-## 2.10. The Doctrine of Truth from Power
+## 2.10. The Doctrine of Truth from Authority
 
 ### 2.10.1. Summary
-Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be consequences to propaganda and other forms of disinformation.
+Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
 
 ### 2.10.2. Assertions
-#### 2.10.2.1. A free and open society can not exist without controls on propaganda.
-#### 2.10.2.2. Entertainment and opinion must not be confused as facts.
-#### 2.10.2.3. Propaganda is not free speech.
-#### 2.10.2.4. Transparency builds security and trust between a government and its citizenry.
-#### 2.10.2.5. Secrecy creates insecurity and class divisions.
+-  *__2.10.2.1. A free and open society can not exist without controls on propaganda and other forms of authoritative disinformation.__*
+-  *__2.10.2.2. Propaganda and other forms of authoritative disinformation are not free speech.__*
+-  *__2.10.2.3. Transparency builds security and trust between a government and its citizenry.__*
+-  *__2.10.2.4. Secrecy creates insecurity and class divisions.__*
+-  *__2.10.2.5. Entertainment and opinion must not be confused as authoritative information.__*
 
 ### 2.10.3. Doctrine
-#### 2.10.3.1. A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information.
--  Assertion of Truth must be defined.
--  Assertion of Opinion must be defined.
--  Source of Truth must be defined.
+Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of disinformation.
 
-#### An entity funded together by government and private institutions must accredit Sources of Truth.
-#### A Source of Truth must clearly identify its credentials along with any assertion of truth.
-#### A Source of Truth must clearly identify assertions of opinion as such.
-#### An Assertion of Truth by a non-accredited entity may result in monetary fines or other punitive actions.
-#### False or misleading use of credentials may result in monetary fines or other punitive actions.
-#### Free speech by individuals must be protected.
--  Individuals clearly identifying as individuals are not subject to these standards.
--  Individuals impersonating a credentialed entity may receive fines or other punitive actions.
--  Free speech does not protect any Assertion of Truth while impersonating a Source of Truth.
+-  *__2.10.3.1. A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information.__*
+      -  Assertion of Truth must be defined.
+      -  Assertion of Opinion must be defined.
+      -  Source of Truth must be defined.
 
-#### Punitive actions for Sources of Truth must include the following:
--  False or misleading Assertions of Truth from a Source of Truth must be faithfully corrected in the same outlets with the same audience as soon as possible.
--  Media outlets knowingly publishing, broadcasting or otherwise disseminating the false or misleading Assertions of Truth must correct the assertions in the same outlet with the same audience as soon as possible.
--  Outlets that fail to correct false or misleading Assertions of Truth will lose status as a Source of Truth.
+-  *__2.10.3.2. An openly funded entity must accredit Sources of Truth.__*
+-  *__2.10.3.3. A Source of Truth must clearly identify its credentials along with any assertion of truth.__*
+      -  Media outlets such as content aggregators must be credentialed in order to disseminate content from a Source of Truth.
+-  *__2.10.3.4. A Source of Truth must clearly identify assertions of opinion as such.__*
+-  *__2.10.3.5. An Assertion of Truth by a non-accredited entity may result in punitive actions.__*
+-  *__2.10.3.6. False or misleading use of credentials may result in punitive actions.__*
+-  *__2.10.3.7. Free Speech by individuals must be protected.__*
+      -  Individuals clearly identifying as individuals are not subject to these standards.
+      -  Individuals impersonating a credentialed entity may receive fines or other punitive actions.
+      -  An authoritative Assertion of Truth is not Free speech and does not have the protections of Free Speech.
 
-#### Punitive actions for elected officials must include the following:
--  False or misleading Assertions of Truth by elected officials must be faithfully corrected in the same outlets with the same audience as soon as possible.
--  Elected officials who fail to correct false or misleading Assertions of Truth must not be allowed to publish, broadcast or otherwise disseminate other Assertions of Truth until making the correction.
--  Corrections must take place before any other statements or the rest of the statements may be withheld from dissemination.
+-  *__2.10.3.8. Punitive actions for Sources of Truth must include the following:__*
+      -  False or misleading Assertions of Truth from a Source of Truth must be faithfully corrected in the same outlets with the same audience as soon as possible.
+      -  Media outlets including aggregators publishing, broadcasting or otherwise disseminating the false or misleading Assertions of Truth must correct the assertions in the same outlet with the same audience as soon as possible after detection of the false or misleading Assertion of Truth.
+      -  Outlets that fail to correct false or misleading Assertions of Truth will lose status as a Source of Truth.
 
+-  *__2.10.3.9. Punitive actions for elected officials must include the following:__*
+      -  False or misleading Assertions of Truth by elected officials must be faithfully corrected in the same outlets with the same audience as soon as possible.
+      -  Elected officials who fail to correct false or misleading Assertions of Truth must not be allowed to publish, broadcast or otherwise disseminate other Assertions of Truth until making the correction.
+      -  Corrections must take place before any other statements or the rest of the statements may be withheld from dissemination.
 
--  Government entities and corporations issuing official statements must be viewed as Sources of Truth, must be held to the same standards and must be subject to the same punitive actions.
+-  *__2.10.3.10. Dissemination of propaganda or other forms of authoritative disinformation must be a disqualification for holding public office.__*
+      -  Political appointees responsible for a department found to violate its status as a Source of Truth must hold the department accountable for corrections or face removal from the appointment.
+      -  Candidates for office found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face disqualification for holding office.
+      -  Elected officials found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face removal from office.
