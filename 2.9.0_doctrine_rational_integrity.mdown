@@ -2,7 +2,7 @@
 ---------------------------------
 
 ### 2.9.1. Summary
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the legislation.  Individual pieces of legislation must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.
+Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.
 
 ### 2.9.2. Assertions
 -  *__2.9.2.1. Positive Policy includes legislative or executive actions that create, expand, support, or enable.__*
@@ -22,6 +22,8 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
 
 
 ### 2.9.3. Doctrine
+Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.
+
 -  *__2.9.3.1. Positive and Negative policy must have clearly defined goals.__*
       -  New policy must define the problem to be solved or goal to be achieved.
 -  *__2.9.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.__*
@@ -43,40 +45,3 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
       -  What pays for the policy?
 -  *__2.9.3.6. Neutral Policy must remain consistent with existing norms.__*
       -  When creating neutral policy, an independent body should be consulted to ensure consistency with existing ethics and norms.
-
-
-## 2.11. Doctrine of Positive Merit
-
-### 2.11.1. Summary
-A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
-
-### 2.11.2. Assertions
--  *__2.11.2.1. A political or social position that cannot stand on its own merits is irrational.__*
--  *__2.11.2.2. Positive or Negative Policy change through the use of amendments is irrational.__*
--  *__2.11.2.2. Neutral policy tools  change through the use of amendments is irrational.__*
--  *__2.11.2.1. Ad hominem attacks are irrational and illegitimate arguments for a position.__*
--  *__2.11.2.2. Gerrymandering is an illegitimate method of retaining power.__*
-
-### 2.11.3. Doctrine
-All Positive and Negative Policy and public social positions must be asserted and defended through objective, rational argument.  Policy or social positions without objective, rational argument are to be considered irrational, invalid, and ineligible for legislative or executive action.
-
-must be enacted directly, on its own merits.  Changes to Positive and Negative Policy must be enacted directly.  Any new policy or proposed policy change 
-
--  *__2.11.3.1. Neutral Policy instruments must not be used to effect Positive or Negative Policy change.__*
-      -  Intentional sabotage of existing law by manipulating or withholding funds in support of the law 
-
--  *__2.11.3.1. Riders and other types of amendments to legislation that change policy but are unrelated to the original legislation should be abolished.__*
-      -  Riders bypass the legislative process.
-      -  Riders are used as political extortion.
-      -  Riders do not receive formal debates on merit, public comment or assessment of impact.
-      -  Riders may go unnoticed in large bills, effectively allowing legislators to enact new laws unlawfully.
-      -  Existing riders on existing legislation should be moved to separate pieces of legislation for new votes.
--  *__2.11.3.1. Earmarks on appropriation bills should be allowed as long as no policy changes are effected.__*
-      -  Earmarks are effective negotiating tools.
-      -  Earmarks should be capped to a percentage of the overall appropriation bill.
-      -  Earmarks must be included in the assessment of impact of the appropriation bill.
-      -  Earmarks may not enact new policy or carry any restrictions.
-      -  Earmarks should be single allocations, not be recurring allocations of funds.
-      
-
-
