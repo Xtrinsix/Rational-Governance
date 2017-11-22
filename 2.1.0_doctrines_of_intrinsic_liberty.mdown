@@ -2,17 +2,15 @@
 ---------------------------------
 
 ### 2.1.1. Summary
-All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three forms: the individual, regional social units, and global civilization.  This doctrine defines each of the three forms and enumerates their rights: personal, regional and global liberty.
+All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three aspects: the individual, regional social units, and global civilization.
 
-### 2.1.2. Assertions
-
-#### 2.1.2.1. Three Forms of Humanity
+### 2.1.2. Three Aspects of Humanity
 Humanity is more than the set of all human lives.  Humans self-organize into persistent, regional social structures that function as a unit, grow organically, and take on personalities, strengths and weaknesses reflecting the individual members.  Global civilization is a reflection of the combined character of human social structures, no matter how small or large, weak or powerful, isolated or interconnected.  Social structures and global civilization are greater than the sums of their parts, just as individual human lives and social structures are greater than their role as a part of a larger system. 
 
-Rational public policy must recognize each of the distinct forms of humanity and must further recognize that the concerns of each are distinct and not always complementary.  Public policy must consider the impacts on personal, regional and global liberty, and the rights of the individual should be defended as fiercely as the preservation of civilization.
+Rational public policy must recognize, protect and preserve each of the three aspects of humanity and must further recognize that the concerns of each are distinct and not always complementary.  Public policy must consider the impacts on personal, regional and global liberty, and the rights of the individual should be defended as fiercely as the preservation of civilization.  **[edit]**
 
-### 2.1.3. Priority and Resolution of conflicts
-Given three forms of humanity and the potential for overlap of concerns, conflicts among liberties will occur.
+### 2.1.3. Priority and Resolution of Conflicts
+Given three aspects of humanity and the potential for overlap of concerns, conflicts among liberties will occur.
 
 The right to survive as a species and the preservation of our ecosystems must supersede all other rights.  The individual right to live and protection of body and mind must follow in that order, although varying degrees of protection of body and mind may dictate that one might take precedence over the other. 
 
@@ -23,25 +21,28 @@ Regional social units, while important to human survival, are unique constructio
 Furthermore, the rights of the individual must be protected except where the exercise of a right would violate the liberty of others.  For example, the right to free expression does not extend to the point where such expression would cause bodily harm or duress to another individual.
 
 
-## 2.2. The Doctrine of Personal Liberty 
+2.2. The Doctrine of Intrinsic Personal Liberty 
+---------------------------------
 
-### 2.2.1. Introduction
-Personal liberty is based on these assumptions:
+### 2.2.1. Summary
+Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on the lives of others, regional societies and global civilization.
 
--  Beyond the overall ecosystem that sustains life, time and human life are the most precious commodities known to man
--  Individual human lives are the building blocks of all social structures
--  Less than a tenth of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, but every individual has the potential to help a social structure succeed
--  No one can predict the success or degree of success of a single person
--  The full impact of an individual is often not felt until late in life
+### 2.2.2. Assertions
+-  *__2.2.2.1. Beyond the overall ecosystem that sustains humanity, time and human life are the most precious commodities known to man.__*
+-  *__2.2.2.2. Individual human lives are the building blocks of all social structures.__*
+-  *__2.2.2.3. Less than a tenth of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, but every individual has the potential to help a social structure succeed.__*
+-  *__2.2.2.4. No one can predict the success or degree of success of a single person.__*
+-  *__2.2.2.5. The full impact of an individual is often not felt until late in life.__*
+-  *__2.2.2.6. More.__*
 
+### 2.2.3. Doctrine
 If we assume that each person has the potential to be anything from a fully contributing member of society to the most impactful human to have ever lived, we should assume that each life is worth preserving and that each life is equal in worth to all other lives.  It is imperative that we recognize the value in each individual, whether we agree, disagree, find attraction or disgust.
 
 Individual lives, however, are transient.  Once damaged, repair may not be an option.  Once lost, an individual is gone forever.
 
-Beyond what some would consider to be basic human decency and respect for fellow humans, a rational view of human liberty dictates that if each individual has the potential to benefit society at any age, and that individuals more easily reach their potential if when their liberty is respected, and that if individual lives are easily lost, and that, once lost, the potential of that individual for a positive impact is also permanently lost, then we must make every effort to preserve the liberty of individual humans in order to maximize their potential for a positive impact on regional society and global civilization.  Beyond the rational argument, the preservation of human life and the respect of personal liberty are both morally and ethically correct. [reword]
+Beyond what some would consider to be basic human decency and respect for fellow humans, a rational view of human liberty dictates that if each individual has the potential to benefit society at any age, and that if individuals more easily reach their potential when their liberty is respected, and that if individual lives are easily lost, and that, once lost, the potential of that individual for a positive impact is also permanently lost, then we must make every effort to preserve the liberty of individual humans in order to maximize their potential for a positive impact on regional society and global civilization.  Beyond the rational argument, the preservation of human life and the respect of personal liberty are both morally and ethically defensible. *[reword]*
 
-### 2.2.1. Rights
-A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each of these rights is marked with an A if the right applies to all adults, a C if the right applies to all children, or an asterisk if a proxy may override an individual’s wishes.
+A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each of these rights is marked with an **A** if the right applies to all adults, a **C** if the right applies to all children, or an asterisk (**\***) if a proxy may override an individual’s wishes.
 
 Additional Note: A middle classification between Adult and Child may be necessary in some cases. For example, a 10 year old may be mature enough to make a decision regarding the right to property, depending on the property, just as a 15 year old may be mature enough to make decisions regarding freedom of movement, but in general those are rights associated with adults.
 
@@ -49,16 +50,16 @@ Additional Note: A middle classification between Adult and Child may be necessar
 Every person must be allowed to live a normal human lifespan.  See section 4 for the definition of life necessary for a clear understanding of this right.
 
 #### 2.2.1.2. The right to die (A*)
-Barring disease, nautural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Any ambiguity in making such a decision should favor life over death.
+Barring disease, natural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Due to the irreversible nature of such a decision, any ambiguity in making such a decision should favor life over death.
 
 #### 2.2.1.3. The right to regulate access to one’s body (AC*)
 Every person must have sovereignty over their own bodies, deciding who, how, when and why any one or any thing may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.
 
 #### 2.2.1.4. The right to free expression of thought (AC)
-Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes expression of thought from speech or other communication that coerces, violates or interferes with any other personal right, or encourages others to violate or interfere with any other persona right.  See section 4 for further definitions of [coercion] necessary for a clear understanding of this right.
+Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes expression of thought from speech or other communication over any medium that coerces, or that violates or interferes with any other personal right, or encourages others to violate or interfere with any other personal right.  See section 4 for further definitions of **[unprotected speech, coercion, propaganda]** necessary for a clear understanding of this right.
 
 #### 2.2.1.5. The right to freedom of movement (A*)
-Every person must have freedom from restraint or captivity, and every person must have the freedom to travel unrestrained through public areas.  This is not a guarantee of access to personal property that would facilitate the travel.  This is a guarantee that so long as an individual has the resources to do so, an individual may travel freely through public areas and that intrinsic qualities may not be considered a barrier to access.  See [ section 4 ] for further definitions of [personal property and public areas] necessary for a clear understanding of this right.
+Every person must have freedom from restraint or captivity, and every person must have the freedom to travel unrestrained through public areas.  This is not a guarantee of access to personal property that would facilitate the travel.  This is a guarantee that so long as an individual has the resources to do so, an individual may travel freely through public areas and that intrinsic qualities may not be considered a barrier to access.  See section 4  for further definitions of [personal property and public areas] necessary for a clear understanding of this right.
 
 #### 2.2.1.6. The right to freedom from duress (AC)
 Every person must be allowed free will to make decisions without implicit or explicit threats of harm or other violations of their rights.  Harrassment or coercion based on any imbalance of power are violations of this right.
