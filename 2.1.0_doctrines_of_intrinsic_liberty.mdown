@@ -46,98 +46,118 @@ A note on the scope and application of these rights: Some rights apply only to a
 
 Additional Note: A middle classification between Adult and Child may be necessary in some cases. For example, a 10 year old may be mature enough to make a decision regarding the right to property, depending on the property, just as a 15 year old may be mature enough to make decisions regarding freedom of movement, but in general those are rights associated with adults.
 
-#### 2.2.1.1. The right to live (AC)
+#### 2.2.3.1. The right to live (AC)
 Every person must be allowed to live a normal human lifespan.  See section 4 for the definition of life necessary for a clear understanding of this right.
 
-#### 2.2.1.2. The right to die (A*)
+#### 2.2.3.2. The right to die (A*)
 Barring disease, natural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Due to the irreversible nature of such a decision, any ambiguity in making such a decision should favor life over death.
 
-#### 2.2.1.3. The right to regulate access to one’s body (AC*)
+#### 2.2.3.3. The right to regulate access to one’s body (AC*)
 Every person must have sovereignty over their own bodies, deciding who, how, when and why any one or any thing may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.
 
-#### 2.2.1.4. The right to free expression of thought (AC)
+#### 2.2.3.4. The right to free expression of thought (AC)
 Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes expression of thought from speech or other communication over any medium that coerces, or that violates or interferes with any other personal right, or encourages others to violate or interfere with any other personal right.  See section 4 for further definitions of **[unprotected speech, coercion, propaganda]** necessary for a clear understanding of this right.
 
-#### 2.2.1.5. The right to freedom of movement (A*)
+#### 2.2.3.5. The right to freedom of movement (A*)
 Every person must have freedom from restraint or captivity, and every person must have the freedom to travel unrestrained through public areas.  This is not a guarantee of access to personal property that would facilitate the travel.  This is a guarantee that so long as an individual has the resources to do so, an individual may travel freely through public areas and that intrinsic qualities may not be considered a barrier to access.  See section 4  for further definitions of [personal property and public areas] necessary for a clear understanding of this right.
 
-#### 2.2.1.6. The right to freedom from duress (AC)
+#### 2.2.3.6. The right to freedom from duress (AC)
 Every person must be allowed free will to make decisions without implicit or explicit threats of harm or other violations of their rights.  Harrassment or coercion based on any imbalance of power are violations of this right.
 
-Every person must be allowed access to full and factual publicly available information in order to properly exercise free will.  Any systematic or intentional withholding or distortion of publicly available information in order to influence or coerce a person into a decision or away from another decision is a direct violation of this right.  See [ section 4 ] for further definitions of [publicly available information, free will, intent and harrassment] necessary for a clear understanding of this right.
+Every person must be allowed access to full and factual publicly available information in order to properly exercise free will.  Any systematic or intentional withholding or distortion of publicly available information in order to influence or coerce a person into a decision or away from another decision is a direct violation of this right.  See section 4 for further definitions of [publicly available information, free will, intent and harrassment] necessary for a clear understanding of this right.
 
-#### 2.2.1.7. The right to freedom from bodily harm (AC*)
+#### 2.2.3.7. The right to freedom from bodily harm (AC*)
 Every person must have sovereignty over the physical integrity of their bodies, meaning no one has the right to injure, maim, or otherwise cause harm to another person without explicit, publicly recorded consent to do so.  Physicians and others qualified to perform modifications to the body of another may do so with such consent, but care must be taken in considering the age of consent for such actions.  A caretaker or legal proxy may make decisions relating to medical need in place of the consent of a child.
 
-This right extends to protection from intentional and negligent bodily harm.  True accidents may be unforeseen and unavoidable, but reasonably avoidable accidental harm is still a violation of this right.  See [ section 4 ] for further definitions of [harm, negligence, age of consent and intent] necessary for a clear understanding of this right.
+This right extends to protection from intentional and negligent bodily harm.  True accidents may be unforeseen and unavoidable, but reasonably avoidable accidental harm is still a violation of this right.  See section 4 for further definitions of [harm, negligence, age of consent and intent] necessary for a clear understanding of this right.
 
-#### 2.2.1.8. The right to freedom from emotional harm (AC)
+#### 2.2.3.8. The right to freedom from emotional harm (AC)
 Every person must be allowed freedom from emotional harm.  Emotional injuries must be given equal consideration and protection as physical injuries, though proof of such an injury is difficult.
 
 This right extends to protection from intentional and negligent emotional harm.  See [ section 4 ] for further definitions of [emotional harm, negligence, age of consent and intent] necessary for a clear understanding of this right.
 
-#### 2.2.1.9. The right to property (A)
+#### 2.2.3.9. The right to property (A)
 Every person has the right to retain and protect legally obtained property. Intentional or negligent harm, theft or other causes of loss of property are violations of this right.  Property includes real property, durable goods, and salable items.  See [ section 4 ] for further definitions of [property and loss] necessary for a clear understanding of this right.
 
-#### 2.2.1.10. The right to religion (AC)
+#### 2.2.3.10. The right to religion (AC)
 Individuals must have the right to choose and practice one’s religion of choice.  It is reasonable for the tenants of a recognized religion to require adjustments to dress codes, diet, and other social norms that employers and public institutions must respect.
 
 This right, as with any others, may not limit or interfere with the rights of other individuals.  It is important to distinguish between the interference with the rights of others and a fully informed and uncoerced choice to give up a personal right in observance of a religious custom.
 
-#### 2.2.1.11. The right to non-discrimination 
-Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population identified by age or gender.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
+#### 2.2.3.11. The right to non-discrimination
+Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population disadvantaged by particular intrinsic properties.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
 
 This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.
 
-## 2.3. The Doctrine of Regional Liberty
+## 2.3. The Doctrine of Intrinsic Regional Liberty
 
-### 2.3.1. Introduction
-Regional liberty applies to social units large and small, from municipalities to nations.  While this typically applies to civic regions legally recognized by a governing body, but this can also apply to indigenous or native communities that continue to exist outside of any larger society or legal framework.  Civic regions within a nation may include states or provinces or similar divisions of territory defined by the nation.  These regions may be subdivided further into counties, towns, cities or other municipalities.  Civic and indigenous regions of each size generally bind the members together with a shared sense of community, purpose, and identity.  These social units behave organically and exist to provide the structure necessary for individual human lives to thrive.  Due to their value and their organic nature, these units of society must be granted certain rights as if they were a separate class of individuals, though not equal to nor more important than people.
+### 2.3.1. Summary
+*Needs work* 
+Humans naturally self-organize into a variety of social structures, some temporary, some permanent or semi-permanent.  Some social structures are regional, defined by geographic or artificial boundaries.  Such regional social units are often bound by legal incorporation (from Latin _incorporare_, to form into a body).  Regional social units grow organically and take on individual personalities reflecting the attitudes, morals, strengths and weaknesses of the individual members.  Over time, a regional social unit begins to define or redefine the attitudes, morals and personalities of its members.  Regional social units may be embedded in a hierarchy as towns belong to counties, counties belong to states, states belong to countries, and countries belong to continents.  Each region takes on the aggregate properties of the regions that it contains, and each region is shaped in part by the regions containing it.
 
-Regional social units are porous and generally survive the loss of individuals without lasting consequence.  Regional social units are also largely interchangeable, as an individual may belong to multiple regional units with overlapping jurisdiction at any given time, and individuals may move from one region to another without lasting consequences on the well-being of the individual.  Given their flexible nature and resilience, regional units of society are given less priority than individual lives or global civilization when it comes to the consideration of conflicting rights.
+Regional social units of each size generally bind the members together with a shared sense of community, purpose, and identity.  The bond between the individual and the regional social units containing the individual may be quite strong, and the cohesion among the individuals in a regional social unit may be equally strong.  These social units behave organically and exist to provide the structure necessary for individual human lives to thrive.  Due to their value and their organic nature, these units of society must be granted certain rights as if they were a separate class of individuals, though not equal to nor more important than people.
 
-### 2.3.2. Rights
+### 2.3.2. Assertions
+-  *__2.3.2.1. Regional social units allow humanity to survive and thrive from year to year.__*
+-  *__2.3.2.1. Regional social units develop personalities and other anthropomorphic features, grow organically, create bonds among the participants.__*
+-  *__2.3.2.1. Regional social units include civic regions defined by law and indigenous communities defined by geography and culture.__*
+-  *__2.3.2.2. Regional social units are porous and generally survive the loss of individuals without lasting consequence.__*
+-  *__2.3.2.3. Regional social units are fluid and unbounded.__*
+      -  An individual may belong to multiple regional units with overlapping jurisdiction at any given time.
+      -  Individuals may move from one social unit to another without lasting consequences on the well-being of the individual.
 
-#### 2.3.2.1. The right to self-preservation
-Civic and indigenous regions, once established, must be allowed continued existence within the framework of any governing entities.  For example, once a township is established, it must be allowed continued existence in that form until such time that the community can no longer meet any legal requirements mandated by the governing entity such as ability to pay creditors.  See [ section 4 ] for further definitions of [civic regions, indigenous regions and governing entity] necessary for a clear understanding of this right.
+### 2.3.3. Doctrine
+Regional social units, having anthropomorphic features such as personality, attitude, and a moral code, have intrinsic liberties that must be recognized and protected.
 
-#### 2.3.2.2. The right to self-governance 
+Intrinsic Regional Liberty applies to all regional social units, large and small, from municipalities to nations, and must apply to indigenous or native communities that continue to exist outside of any larger society or legal framework.
+
+Given their flexible nature and resilience, regional units of society are given less priority than individual lives or global civilization when it comes to the consideration of conflicting rights.
+
+#### 2.3.3.1. The right to self-preservation
+Civic and indigenous regions, once established, must be allowed continued existence within the framework of any governing entities.  For example, once a township is established, it must be allowed continued existence in that form until such time that the community can no longer meet any legal requirements mandated by the governing entity such as ability to pay creditors.  See section 4 for further definitions of [civic regions, indigenous regions and governing entity] necessary for a clear understanding of this right.
+
+#### 2.3.3.2. The right to self-governance 
 Civic regions must be allowed self-governance within the legal framework of any governing entities.  This includes the right to a regional charter or constitution, selection of regional officials, a regional police force, methods for collecting revenue, etc.
 
-#### 2.3.2.3. The right to boundaries
+#### 2.3.3.3. The right to boundaries
 Legally recognized civic regions must be allowed to preserve and protect legally recognized boundaries within the legal framework of any governing entities.
 
-#### 2.3.2.4. The right to preservation and use of resources
+#### 2.3.3.4. The right to preservation and use of resources
 Legally recognized civic regions must be allowed to preserve and use resources found within its boundaries according to the legal framework of any governing entities.
 
-#### 2.3.2.5. The right to representation 
-Legally recognized civic regions must be allowed to represent their interests to governing entities through petitions, elections, representatives, etc.  (senators, representatives, etc).
+#### 2.3.3.5. The right to representation 
+Legally recognized civic regions must be allowed to represent their interests to governing entities through petitions, elections, representatives, etc.
 
-#### 2.3.2.6. The right to express regional identity
+#### 2.3.3.6. The right to express regional identity
 Legally recognized civic regions must be allowed freedom to express the identify of the community through flags, art, print or electronic media, festivals, etc.  It is possible for members of a civic region to have allegiance to that region as well as other governing entities such as state and country.  No governing body may restrict the free expression of identity of any other legally recognized body within its jurisdiction.
 
 Inversely, individuals may not be forced to participate in such identification and may not be persecuted or expelled for abstaining.
 
 
-## 2.4. The Doctrine of Global Liberty
+## 2.4. The Doctrine of Intrinsic Global Liberty
 
-### 2.4.1. Introduction
-Global liberty applies to all of human civilization and includes the ecosystems necessary for its survival.
+### 2.4.1. Summary
+Individual human lives have interests pertaining to the survival and success of the self.  Civic and indigenous regions have interests pertaining to the survival and success of as many of its members as possible.  Global civilization, as a singular entity, has interests pertaining to the survival and success of as many of its civic and indigenous regions as possible as well as the preservation of knowledge, culture, art and other achievements of humanity throughout time.
 
-Individual human lives have interests pertaining to the survival and success of the self.  Civic and indigenous regions have interests pertaining to the survival and success of as many of its members as possible.  Global civilization, as a singular entity, has interests pertaining to the survival and success of as many of its civic and indigenous regions as possible as will as the preservation of knowledge, culture, art and other achievements of man throughout time.
+### 2.4.2. Assertions
+-  *__2.4.2.1. Global civilization allows humanity to survive and thrive from century to century.__*
+-  *__2.4.2.1. Global civilization spans all regional social units across the Earth and across all of recorded history.__*
+-  *__2.4.2.1. Global civilization reflects and should continue to reflect all of humanity, including the objectively good and bad times in our history.__*
+-  *__2.4.2.1. Global civilization must be protected for future generations.__*
 
-### 2.4.2. Rights
+### 2.4.3. Doctrine
+Humanity, as a species, has the intrinsic global liberty to survive as a species and to preserve human achievements in science, technology, art, music, literature, and philosophical thought.  This, above all else, must drive public policy and inspire those in power. Intrinsic Global Liberty applies to all of human civilization and includes the ecosystems necessary for its survival.
 
-#### 2.4.2.1. The right to survival as a species
-Inarguably the most important right among the Three Liberties, the human race must, above all else, survive as a species.  While this seems to be self-evident, human society has shown that it has self-destructive tendencies.  To state it plainly, no scientific advancement, economic concern, private interest, political goal or social convenience should ever take precedence over the continued survival of the human race.  This single right should shape all other policy.
+#### 2.4.3.1. The right to survival as a species
+Inarguably the most important right among the Intrinsic Liberties, the human race must, above all else, survive as a species.  While this should be self-evident, human societies have repeatedly shown self-destructive tendencies.  To state it plainly, no scientific advancement, economic concern, private interest, political goal or social convenience should ever take precedence over the continued survival of the human race.  This single right should shape all other policy.
 
-#### 2.4.2.2. The right to preservation of ecosystems essential for survival
+#### 2.4.3.2. The right to preservation of ecosystems essential for survival
 As a corollary to the first right, humanity must recognize its own right to the preservation of ecosystems essential for its own survival.  No scientific advancement, economic concern, private interest, political goal or social convenience should ever take precedence over preservation of the ecosystems that support human life.
 
-#### 2.4.2.3. The right to preservation of human knowledge and artistic achievement
+#### 2.4.3.3. The right to preservation of human knowledge and artistic achievement
 Humanity has a unique gift for artistic achievement and the preservation of knowledge.  Humanity as a whole must have access to its own full history and body of knowledge in order to advance as a species.  This knowledge includes accurate accounts of history rather than opinionated or edited versions.  Repetition of historical cycles that failed expend an enormous amount of time, resources and human life.  In order to advance and to find new ways to preserve life, humanity must not only have access to this knowledge but must be taught objectively and factually the foundations of that knowledge.  To do otherwise in a world of advancing technology is to risk the loss of civilization and human life.
 
 Regardless of subjective merit, human art must be preserved when and if practical.  Any species developing intelligence may uncover universal mathematical and scientific truths and apply them to technology; being universal, creations through the application of math and science may take similar forms across all societies of intelligent being.  Art, however, is the reflection of the character of humanity, good and bad.  Art in all of its forms truly sets humanity apart and should be preserved for our own enjoyment, for future generations, and as a legacy beyond our own lifespans.
 
-#### 2.4.2.4. The right to preservation of natural wonders
+#### 2.4.3.4. The right to preservation of natural wonders
 Humanity has the right to the preservation of natural wonders on earth and elsewhere.  Just as humans appreciate man-made art, we also appreciate the unintended beauty found in nature.  Once destroyed, these wonders can never be recreated.  As such, humanity has the right to protect such natural wonders so that future generations may enjoy them.  
