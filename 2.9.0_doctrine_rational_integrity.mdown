@@ -1,47 +1,50 @@
-2.9. Doctrine of Rational Integrity 
+2.9. Doctrine of Rational Integrity
 ---------------------------------
 
 ### 2.9.1. Summary
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.  Nor should public policy be created in the absence of rational and objective input from subject matter experts.
+Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other irrational sentiments and emotions lead to bad policy decisions.  Nor should public policy be created in the absence of rational and objective input from subject matter experts.  Nor should public policy be created without consideration for the context of existing policies and institutions.  
 
 ### 2.9.2. Assertions
 -  *__2.9.2.1. Positive Policy includes legislative or executive actions that create, expand, support, or enable.__*
       -  Legislative or executive actions enacting the creation of new agencies, creating new protections, expanding state or federal powers, etc.
-      -  Legislation providing funding or support for private initiatives aligned with public interests. 
--  *__2.9.2.2. Negative Policy includes legislative or executive actions that restrict, penalize, destroy, or disable.__* 
+      -  Legislation providing funding or support for private initiatives aligned with public interests.
+-  *__2.9.2.2. Negative Policy includes legislative or executive actions that restrict, penalize, destroy, or disable.__*
       -  Legislation limiting, preventing or punishing behavior; laws preventing or punishing the creation, sale or use of an item or class of items.
       -  Legislation removing funding or support for private initiatives.
 -  *__2.9.2.3. Neutral Policy includes legislative or executive actions that assert, name, declare or maintain.__*
       -  Legislation naming things and places, honoring individuals, declaring support of an individual or institution, condemning an act, etc
       -  Legislation providing funding or support for basic public functions (emergency services, first responders, elected officials and other government employees, etc).
--  *__2.9.2.4. Both Positive and Negative Policy have the potential for corruption.__*
+-  *__2.9.2.4. Positive and Negative Policy have the potential for corruption.__*
       -  Positive Policy enacted without scrutiny may benefit some at the expense of others.
-      -  Negative Policy enacted without scrutiny may punish some to the benefit of others. 
--  *__2.9.2.5. Both Positive and Negative Policy have the potential for unforeseen consequences.__*
+      -  Negative Policy enacted without scrutiny may punish some to the benefit of others.
+-  *__2.9.2.5. Positive and Negative Policy have the potential for unforeseen consequences.__*
       -  Policy enacted without rational consideration with expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
-
+-  *__2.9.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*      
 
 ### 2.9.3. Doctrine
-Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.
+Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.
 
--  *__2.9.3.1. Positive and Negative policy must have clearly defined goals.__*
-      -  New policy must define the problem to be solved or goal to be achieved.
--  *__2.9.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.__*
-      -  Positive and Negative policy must meet rationally objective scrutiny.
-      -  A hybrid entity of mixed public, private and academic members with expert domain knowledge must perform such scrutiny.
-      -  The results of such scrutiny must be easily available to the public.
--  *__2.9.3.3. Positive and Negative policy must have defined monitors, measures and remedies.__*
-      -  New or existing entities must be defined to monitor new policy to ensure its effectiveness and to detect unforeseen consequences or signs of corruption.
-      -  Measurements of success must be defined at the time that policy is created.
-      -  Remedies must be defined to mitigate consequences or corruption.
-      -  Remedies must be defined to address the failure of the policy to meet the intended objectives.
--  *__2.9.3.4. Negative Policy must meet additional rationally objective scrutiny.__*
-      -  Who is harmed by the current policy or current lack of policy?
-      -  Who benefits by the current policy or current lack of policy?
-      -  Who profits politically or economically from the creation of the policy?
--  *__2.9.3.5. Positive Policy must meet additional rationally objective scrutiny.__*
-      -  Who benefits by the current policy or current lack of policy?
-      -  Who profits politically or economically from the creation of the policy?
-      -  What pays for the policy?
--  *__2.9.3.6. Neutral Policy must remain consistent with existing norms.__*
-      -  When creating neutral policy, an independent body should be consulted to ensure consistency with existing ethics and norms.
+Irrational sentiments and emotions are often necessary and useful for generating the momentum, energy or political will to create or modify policy.  However, those same sentiments and emotions must not be involved in policy decisions or the implementation of policy through legislative or executive action.
+
+#### 2.9.3.1. Positive and Negative policy must have clearly defined goals.
+-  Any new policy must start with a clearly defined problem (or set of problems) to be solved or goal (or a set of goals) to be achieved.
+
+#### 2.9.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.
+-  Positive and Negative policy must meet rationally objective scrutiny.
+-  A hybrid entity of mixed public, private and academic members with expert domain knowledge must perform such scrutiny.
+-  The results of such scrutiny must be easily available to the public.
+
+#### 2.9.3.3. Positive and Negative Policy must meet additional rationally objective scrutiny by answering 4 important questions:
+-  Who is harmed by the current policy or current lack of policy?
+-  Who benefits by the current policy or current lack of policy?
+-  Who profits politically or economically from the creation of the policy?
+-  Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
+
+#### 2.9.3.4. Positive and Negative policy must have defined monitors, measures and remedies.
+-  New or existing entities must be defined to monitor new policy to ensure its effectiveness and to detect unforeseen consequences or signs of corruption.
+-  Measurements of success must be defined at the time that policy is created.
+-  Remedies must be defined to mitigate consequences or corruption.
+-  Remedies must be defined to address the failure of the policy to meet the intended objectives.
+
+#### 2.9.3.5. Neutral Policy must remain consistent with existing norms.
+-  When creating neutral policy, an independent body should be consulted to ensure consistency with existing ethics and norms.
