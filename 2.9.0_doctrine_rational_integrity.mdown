@@ -2,7 +2,7 @@
 ---------------------------------
 
 ### 2.9.1. Summary
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.
+Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other negative sentiments and emotions lead to bad policy decisions.  Nor should public policy be created in the absence of rational and objective input from subject matter experts.
 
 ### 2.9.2. Assertions
 -  *__2.9.2.1. Positive Policy includes legislative or executive actions that create, expand, support, or enable.__*

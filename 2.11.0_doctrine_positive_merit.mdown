@@ -1,32 +1,33 @@
 ## 2.11. Doctrine of Positive Merit
-NEEDS WORK
 
 ### 2.11.1. Summary
+*Needs work*
 A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
 
 ### 2.11.2. Assertions
--  *__2.11.2.1. A political or social position that cannot stand on its own merits is irrational.__*
--  *__2.11.2.2. Positive or Negative Policy change through the use of amendments is irrational.__*
--  *__2.11.2.1. Ad hominem attacks are irrational and illegitimate arguments for a position.__*
+-  *__2.11.2.1. A political or social position that cannot stand on its own merits is irrational and illegitimate.__*
+-  *__2.11.2.2. Positive or Negative Policy change through indirect legislation, deceit or subterfuge is irrational and illegitimate.__*
+-  *__2.11.2.1. Ad hominem attacks, circular reasoning, moral equivalence and other logical fallacies are irrational and illegitimate arguments for a position.__*
 -  *__2.11.2.2. Gerrymandering is an illegitimate method of retaining power.__*
 
 ### 2.11.3. Doctrine
-All Positive and Negative Policy and public social positions must be asserted and defended through objective, rational argument.  Such policies and positions must stand on their own merit.  Policy or social positions without objective, rational argument are to be considered irrational, invalid, and ineligible for legislative or executive action.  Policies and positions that have no positive merit but exist solely as opposition to another policy, position, institution, group or individual are to be considered irrational, invalid, and ineligible for legislative or executive action.
+A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.   All Positive and Negative Policy and public social positions must be asserted and defended through objective, rational argument.  Such policies and positions must stand on their own merit.  Policy or social positions without objective, rational argument are to be considered irrational, invalid, and ineligible for legislative or executive action.  Policies and positions that have no positive merit but exist solely as opposition to another policy, position, institution, group or individual are to be considered irrational, invalid, and ineligible for legislative or executive action.
 
--  *__2.11.3.1. All Positive and Negative Policy change must have .__*
+#### 2.11.3.1. All Positive and Negative Policy change must have rational assertions of positive merit.
 
--  *__2.11.3.1. Neutral Policy instruments must not be used to effect Positive or Negative Policy change.__*
-      -  Intentional sabotage of existing law by manipulating or withholding funds in support of the law 
+#### 2.11.3.1. Neutral Policy instruments must not be used to effect Positive or Negative Policy change.
+  -  Intentional sabotage of existing law by manipulating or withholding funds in support of the law 
 
--  *__2.11.3.1. Riders and other types of amendments to legislation that change policy but are unrelated to the original legislation should be abolished.__*
-      -  Riders bypass the legislative process.
-      -  Riders are used as political extortion.
-      -  Riders do not receive formal debates on merit, public comment or assessment of impact.
-      -  Riders may go unnoticed in large bills, effectively allowing legislators to enact new laws unlawfully.
-      -  Existing riders on existing legislation should be moved to separate pieces of legislation for new votes.
--  *__2.11.3.1. Earmarks on appropriation bills should be allowed as long as no policy changes are effected.__*
-      -  Earmarks are effective negotiating tools.
-      -  Earmarks should be capped to a percentage of the overall appropriation bill.
-      -  Earmarks must be included in the assessment of impact of the appropriation bill.
-      -  Earmarks may not enact new policy or carry any restrictions.
-      -  Earmarks should be single allocations, not be recurring allocations of funds.
+#### 2.11.3.1. Riders and other types of amendments to legislation that change policy but are unrelated to the original legislation should be abolished.
+  -  Riders bypass the legislative process.
+  -  Riders are used as political extortion.
+  -  Riders do not receive formal debates on merit, public comment or assessment of impact.
+  -  Riders may go unnoticed in large bills, effectively allowing legislators to enact new laws unlawfully.
+  -  Existing riders on existing legislation should be moved to separate pieces of legislation for new votes.
+  
+#### 2.11.3.1. Earmarks on appropriation bills should be allowed as long as no policy changes are effected.
+  -  Earmarks are effective negotiating tools.
+  -  Earmarks should be capped to a percentage of the overall appropriation bill.
+  -  Earmarks must be included in the assessment of impact of the appropriation bill.
+  -  Earmarks may not enact new policy or carry any restrictions.
+  -  Earmarks should be single allocations, not be recurring allocations of funds.
