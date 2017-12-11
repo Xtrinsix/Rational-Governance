@@ -2,7 +2,7 @@
 ---------------------------------
 
 ### 2.9.1. Summary
-Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other irrational sentiments and emotions lead to bad policy decisions.  Nor should public policy be created in the absence of rational and objective input from subject matter experts.  Nor should public policy be created without consideration for the context of existing policies and institutions.  
+Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other irrational sentiments and emotions lead to bad policy decisions.  Public policy must not be created in the absence of rational and objective input from subject matter experts.  Public policy must always be created with consideration for the context of existing policies and institutions.  Irrational sentiments and emotions are often necessary and useful for generating the momentum, energy or political will to create or modify policy.  However, those same sentiments and emotions must not replace rational thought and deliberation when making policy decisions or when implementing policy through legislative or executive action.
 
 ### 2.9.2. Assertions
 -  *__2.9.2.1. Positive Policy includes legislative or executive actions that create, expand, support, or enable.__*
@@ -19,32 +19,30 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
       -  Negative Policy enacted without scrutiny may punish some to the benefit of others.
 -  *__2.9.2.5. Positive and Negative Policy have the potential for unforeseen consequences.__*
       -  Policy enacted without rational consideration with expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
--  *__2.9.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*      
+-  *__2.9.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*
 
 ### 2.9.3. Doctrine
-Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.
-
-Irrational sentiments and emotions are often necessary and useful for generating the momentum, energy or political will to create or modify policy.  However, those same sentiments and emotions must not be involved in policy decisions or the implementation of policy through legislative or executive action.
+A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.
 
 #### 2.9.3.1. Positive and Negative policy must have clearly defined goals.
--  Any new policy must start with a clearly defined problem (or set of problems) to be solved or goal (or a set of goals) to be achieved.
+-  Proposals for policy creation or change must start with a clearly defined problem (or set of problems) to be solved or a clearly defined goal (or a set of goals) to be achieved.
 
 #### 2.9.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.
--  Positive and Negative policy must meet rationally objective scrutiny.
--  A hybrid entity of mixed public, private and academic members with expert domain knowledge must perform such scrutiny.
--  The results of such scrutiny must be easily available to the public.
+-  Positive and Negative policy must meet rationally objective scrutiny through an organized review.
+-  Such a review board must include a hybrid entity of mixed public, private and academic members with expert domain knowledge.
+-  The results of such scrutiny must be easily accessible to the public.
 
-#### 2.9.3.3. Positive and Negative Policy must meet additional rationally objective scrutiny by answering 4 important questions:
+#### 2.9.3.3. Positive and Negative Policy review must answer these questions:
 -  Who is harmed by the current policy or current lack of policy?
 -  Who benefits by the current policy or current lack of policy?
 -  Who profits politically or economically from the creation of the policy?
 -  Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
 
-#### 2.9.3.4. Positive and Negative policy must have defined monitors, measures and remedies.
+#### 2.9.3.4. Positive and Negative policy must include clearly defined monitors, measures and remedies.
 -  New or existing entities must be defined to monitor new policy to ensure its effectiveness and to detect unforeseen consequences or signs of corruption.
 -  Measurements of success must be defined at the time that policy is created.
 -  Remedies must be defined to mitigate consequences or corruption.
 -  Remedies must be defined to address the failure of the policy to meet the intended objectives.
 
-#### 2.9.3.5. Neutral Policy must remain consistent with existing norms.
--  When creating neutral policy, an independent body should be consulted to ensure consistency with existing ethics and norms.
+#### 2.9.3.5. Neutral Policy must maintain consistency with other policies.
+-  When creating neutral policy, an independent body should be consulted to ensure consistency with existing policy, ethics and norms.
