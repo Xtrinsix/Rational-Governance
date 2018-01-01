@@ -3,39 +3,42 @@ Rational Governance
 
 Governance in an age of advanced technology and global civilization.
 
-### 1.0.0. Introduction
+1.0. Introduction
+------------------
+
+### 1.0.1. Summary
 In the 21st century, humanity faces a combination of dangers of extraordinary magnitude: deepening tribal behavior among history's largest populations, exploitation of tribal instincts through mass distribution of disinformation over digital media, easily available technology of unprecedented power and scope, undisciplined innovation with misplaced priorities and lack of governance, and systematic consolidation and corruption of economic and political power.  Our scientific knowledge and advances in technology have grown too powerful to remain unchecked and unrestrained.  Continued extreme and irrational actions and behaviors within and among global powers will lead to conflicts or disasters that threaten all of global civilization.  Global powers must rise above tribalism and make efforts to eliminate corruption and other irrational behaviors before we no longer have the option to make rational choices.  Human preservation and prosperity can be achieved, but only through rational, thoughtful, unified actions and behaviors within and among global powers.
 
 Said more bluntly, technology in the Digital Age and beyond is too dangerous and so easily available that we have to redefine how we govern.  Tribal behavior, isolationism, extremism, class divisions, corruption of power, seditious rhetoric, undisciplined release of new technologies, and lack of controls around existing destructive applications of science and technology are all unbelievably irrational and irresponsible.  Economic and political leaders who ignore the need to change how we govern and innovate in a modern age are complicit in the tragedies and destruction that will follow.  It is not only irrational and irresponsible to maintain a status quo in the face of such danger, it approaches betrayal and treason, not just of country but of mankind.  We can put our collective knowledge and manpower to constructive use and solve our existential threats, but we must set aside tribal instincts, recognize and replace corruption, and rally around shared goals and ideals.  There is no middle ground: we change and prosper or we continue on the present course and annihilate ourselves.
 
-### 1.0.1. Modern Challanges
+### 1.0.2. Modern Challanges
 
-#### 1.0.1.1. The Tragedy of Tribalism
+#### 1.0.2.1. The Tragedy of Tribalism
 Tribalism served humanity well as a survival strategy for many millennia during times of true scarcity and before modern medicine.  However, since the mid 20th century, advancements in medicine, agriculture, construction, communication and transportation have provided the means for longer, healthier lives without the need for the brutality, xenophobia and isolationism that accompanies tribal behavior.  The continued dominance of tribalism on the collective human psyche grows more dangerous with each advancement in science and technology, and with historically large populations, the likelihood that bad actors will surface in each tribe increases to approach absolute certainty.  Indeed, the adherence to tribalism is counterproductive and impedes progress in the most crucial areas of science.
 
 Class, race, ethnic, regional and economic strife are all distractions from real and resolvable issues that face humanity and the planet.  No special interest, personal profit or tribal victory is worth risking the future of mankind.  And, yet, public policies of the greatest world powers serve only to deepen internal and external divisions and to consolidate control and power.  There are only a handful of truly global issues that can threaten the planet or mankind as a whole, but there are 7 billion intelligent, creative, resourceful humans who can work together to solve those problems.  Humans have an enormous capacity to solve problems, but we can only do that if we stop fighting amongst ourselves over irrational and ultimately trivial issues.
 
-#### 1.0.1.2. Polarization and Irrational Extremism in the Digital Age
+#### 1.0.2.2. Polarization and Irrational Extremism in the Digital Age
 The Digital Age is defined by miniaturization and remote control of electronics, improved communication and shared knowledge, all of which have enabled advancements in chemistry, biotechnology, transportation, medicine, physics, mathematics, and manufacturing.  Globalization, robotics, artificial intelligence, automation, efficient forms of mass communication, shared knowledge, and smaller and more capable computing devices resulting from advancements in the Digital Age all empower and endanger humanity. Many new and powerful breakthroughs that can benefit mankind are also new and powerful vectors for potential desctruction.  Intentional and accidental misuse of increasingly powerful technology grows more likely over time, moving us closer to global disaster.
 
 At the same time, mass dissemination of propaganda, seditious and inflammatory disinformation and unrestrained demagoguery have deepened existing tribal divisions, increasing the frequency and intensity of conflicts.  A bad actor with limited resources can spread false information, inflame tensions, create rifts where none exist, and can turn millions of people against each other.
 
 Economic, social and political forces move more quickly and with more power and destructive potential than at any other time in history.  Public policy must take a larger view of the world than ever before in order to keep those forces from causing serious or irreparable harm to individual societies, ecosystems or global civilization.  Policies with a focus on humanity must be in place to help guide us through these advancements and to protect us from ourselves.
 
-#### 1.0.1.3. Increasingly Destructive Technologies
+#### 1.0.2.3. Increasingly Destructive Technologies
 Since the Industrial Age, advancements in science have increased the scope and scale of the destructive potential of human technology.  Accidental, negligent or malicious application of technology is no longer locally or regionally confined.  A bad actor with enough resources can affect millions of people with direct and immediate physical damage, exposure to harmful pathogens or theft of digitally stored assets.
 
 Laws, institutions, police forces and attitudes toward detection and prevention have not kept up with the scope and scale of technology.  As a global civilization, we are unprepared to handle modern social, economic and physical threats.  We lack adequate controls or even an understanding of what needs to be controlled or what the full affects of a lack of control might be.
 
-#### 1.0.1.4. Innovation Without Discipline
+#### 1.0.2.4. Innovation Without Discipline
 Humanity innovates without self-discipline or planning.  The human race has an enormous capacity for innovation and exploration.  We are creative and intelligent and eager to create new things or discover things first.  We race to innovate and to implement new technology immediately after each scientific advancement without a pause to consider whether we should rather than whether we can.  Such innovation without discipline grows increasingly dangerous as technology improves the scale of production, the magnitude of potential impact, and the broad availability of any innovation.  Accidents and unforeseen consequences are just and dangerous as malicious use, but we innovate and implement and mass produce without adequate controls around safety and sustainability.  The reliance on detection and correction of problems after new technology is already mass produced and broadly available is irrational, irresponsible, inefficient and willfully dangerous.  What good are short term profits or a competitive advantage or a more convenient way to clean a toilet if we poison the air, food or water supply for any population of humans?
 
-#### 1.0.1.5. Consolidation and Corruption of Economic and Political Power
+#### 1.0.2.5. Consolidation and Corruption of Economic and Political Power
 Since the onset of the Digital Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and inviduals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, instititutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power and the expense of smaller companies, the middle class and the poor.
 
 Political parties, over time, succumb to private interests, greed, corruption of power and the influence of money.  The desires to win, to achieve power or to hold on to power push parties toward extremes.  As parties move toward ideological extremes, they portray other parties as enemies rather than fellow citizens with different views or solutions to a problem.  This results in one of two conditions: public policy fluctuations grow more extreme as political parties become more polarized; or, parties lose the ability to work together, leading to a paralyzed or dysfunctional government.  Both conditions easily allow corruption of the government and other institutions.  Both conditions are inefficient and counterproductive, and they lead to loss of resources, opportunities, and lives.
 
-### 1.0.2. Timeless Challenges
+### 1.0.3. Timeless Challenges
 Looking beyond the dangers we have brought upon ourselves, humanity faces real and timeless challenges, all of which are resolvable through changing attitudes or applied technology:
 
 - Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
@@ -48,18 +51,18 @@ Looking beyond the dangers we have brought upon ourselves, humanity faces real a
 
 Poverty, hunger, renewable energy, shelter, disease, climate changes and other threats to human ecosystem can and must be solved.  Among 7 billion people, we have the talent and the resources.  We must stop wasting both.  The nations of the world can do better.  Humanity deserves better. And, to do otherwise is to betray humanity's past and future.
 
-### 1.0.3. Rational Governance: The Path to Prosperity
+### 1.0.4. Rational Governance: The Path to Prosperity
 This document describes a political philosophy and a framework for creating principled and disciplined public policy in an age of advanced technology and globalization based on a single set of humanitarian principles rather than special interests, agendas or economic theories.  While it could be used as a party platform, this framework is intended to transcend political parties.  The goal of this treatise is to define the philosophy and framework that will minimize the influence of tribalism, break down artificial barriers that have led to conflict instead of cooperation, apply technology to lasting solutions to humanity's challenges, and transform the Digital Age into a period of true prosperity and peace.
 
 This treatise is not used to make the logical case for Rational Governance.  Justifications and arguments can be held in separate dissertations, essays and other outlets.  This document provides the definitions and framework for governing rationally.
 
-### 1.0.4. Structure
+### 1.0.5. Document Structure
 This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
 
 2.0. Principles
 ------------------
 
-### 2.0.1. Introduction
+### 2.0.1. Summary
 Rational, principled and disciplined public policy has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few.
 
 In order to achieve these goals, public policy must put humanity ahead of institutions, personal profit, special interests or tribal associations.  Public policy must be driven by reason, not sentiment.  Public policy must encourage unity within and across borders.  And, public policy must strike a balance between individual, social, global and economic concerns.
