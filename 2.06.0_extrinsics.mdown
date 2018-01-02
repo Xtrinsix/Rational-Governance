@@ -1,6 +1,7 @@
 ## 2.6. Extrinsics
 
 * Needs work!!!
+* Needs to be moved out of the treatise.  This is a separate system of thought.
 
 ### 2.6.1. Introduction
 

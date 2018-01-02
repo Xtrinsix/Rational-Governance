@@ -1,7 +1,7 @@
 ## 2.11. Doctrine of Positive Merit
 
 ### 2.11.1. Summary
-A political or social position is only valid if it has merits that can be asserted or defended through objective, rational argument without contrast or opposition to another policy, position, institution, group or individual.
+A political or social position is only valid if it has merits that can be asserted or defended through objective, rational argument without contrast or opposition to another policy, position, institution, group or individual.  Political and social authority are likewise valid only if earned through legitimate, unbiased means.  For political authority, this means aggressively fair and unbiased elections.  For social authority, this means displays of extrinsic behavior and qualities rather than intrinsic qualities such as gender, race and status of birth.
 
 ### 2.11.2. Assertions
 -  *__2.11.2.1. A political or social position that cannot stand on its own merits is irrational and illegitimate.__*
@@ -10,13 +10,9 @@ A political or social position is only valid if it has merits that can be assert
 -  *__2.11.2.4. Gerrymandering is an illegitimate method of retaining power.__*
 -  *__2.11.2.5. Electing politicians solely for their party affiliation is irrational.__*
 -  *__2.11.2.6. A politically strategic policy without other positive merit is irrational and illegitimate.__*
--  *__2.11.2.6. .__*
-
 
 ### 2.11.3. Doctrine
 All Positive and Negative Policy and public social positions must have objective, rational assertions of positive merit.  Policies and social positions without objective, rational argument should be considered irrational, invalid, and ineligible for legislative or executive action.  Policies and positions that exist solely as opposition to another policy, position, institution, group or individual are to be considered irrational, invalid, and ineligible for legislative or executive action.
-
-Parties and individuals must earn authority through legitimate, unbiased elections
 
 #### 2.11.3.1. All Positive and Negative Policy change must have rational assertions of positive merit.
 
@@ -42,3 +38,4 @@ Parties and individuals must earn authority through legitimate, unbiased electio
   -  Earmarks should be single allocations, not be recurring allocations of funds.
 
 #### 2.11.3.1. Elections must be securely and fairly managed.
+  -  Parties and individuals must earn authority through legitimate, unbiased elections
