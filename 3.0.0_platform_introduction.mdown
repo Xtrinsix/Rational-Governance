@@ -1,25 +1,5 @@
-## 3.0.0. Platform
+3.0. Platform Name
+------------------
 
 ### 3.0.1.  Introduction
-The Doctrine of the Intrinsic Liberty encapsulates a philosophical view of the roles of people and societies within the global view of human civilization.  This section describes a platform for public policy through the application of the Intrinsic Liberty. 
-
-### 3.0.2.  Justification
-Here's the policy platform guided by the Three Liberties.  [say why]
-
-
-### 3.1.0. Structure
-
-- The role of government
-- Taxation and use of government revenue
-- Isolationism vs globalism
-- Climate Science
-- Regulation of business practices
-- Citizenship and humanity
-- Punishment for crimes
-- Education
-- Health Care
-- Gender and Sex (Gender identity + marriage equality + gender discrimination)
-- Religion and state
-- Race and Immigration
-- Abortion
-- Access to weapons
+This section describes a platform for public policy through the application of the Rational Governance. 

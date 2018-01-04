@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.2.0  Access to Weapons
 #### 3.1.1.1.  Introduction
 In the United States, the constitutional "right to bear arms" has been interpreted in many ways, and an artificial political divide has been manufacturered by parties with economic interest in the manufacture and sale of weapons.  Efforts to put limits on the number of types of weapons available to an individual have been conflated with attempts to abolish the right altogether or to take away personal freedoms.  As of the time of this writing, facts have been lost to rhetoric, and neither side of the debate are actually listening to the other side.  Looking beyond this moment in time and this debate in the United States, there must be agreement that public interest dictates the creation of fair and rational policy regarding personal access to weapons. 

@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.10.0.  Regulation of Business Practices
 #### 3.1.10.1.  Introduction
 Regulation of business practices is a classic divide between the political left and right.  The practice of regulation is highly polarizing.  Improper regulation can interfere with a free market and can incur unnecessary expenses, while lack of regulation can allow businesses and industries to harm the public and the environment with little or no awareness from the public or power to mitigate the harm.  This is complicated by special interests lobbying introducing money and personal agendas into what should be factual discussions of policy. 

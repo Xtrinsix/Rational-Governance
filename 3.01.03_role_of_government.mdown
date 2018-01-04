@@ -1,15 +1,22 @@
-### 3.1.3.0  The Role of Government
-#### 3.1.3.1.  Introduction
-#### 3.1.3.2.  Policy Problems
-#### 3.1.3.2.  Policy Recommendations
+3.1.  The Role of Government
+--------------------------------------
+
+### 3.1.1.  Summary
 
 Government is nothing but a tool for protecting and organizing public resources, protecting access to private resources  and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
 
 
+### 3.1.2.  Policy Challenges
+Democracies, in particular, face the challenge of undefined scope.  
 
-Protect the Three Liberties
-Support the society within its boundaries
-Establish and maintain infrastructure necessary for commerce
+
+### 3.1.3.  Policy Recommendations
+
+#### 3.1.3.1. Government Scope
+
+-  Protect the Intrinsic Liberties 
+-  Protect and support the society within its boundaries
+-  Establish and maintain infrastructure necessary for commerce
 
 
 Preserve the society within its boundaries

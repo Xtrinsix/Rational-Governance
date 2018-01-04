@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.6.0  Health Care
 #### 3.1.6.1.  Introduction
 #### 3.1.6.2.  Policy Problems

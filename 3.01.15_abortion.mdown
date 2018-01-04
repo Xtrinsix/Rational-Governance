@@ -1,10 +1,11 @@
-### 3.1.1.0.  Abortion
+3.15.  Abortion
+--------------------------------------
 
-#### 3.1.1.1.  Introduction
-Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In specific, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.
+### 3.15.1.  Summary
+Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In particular, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.
 
-#### 3.1.1.2.  Policy Problems
-As with many other areas of science and medicine, humanity has a large but imperfect knowledge regarding the biological mechanisms involved in pregnancy, gestation and childbirth.  This also includes knowledge of the consequences and alternatives.  The policy problems center on questions of morality complicated by religion, tradition, and biological instincts:
+### 3.15.2.  Policy Challenges
+Humanity has a large but imperfect knowledge regarding the biological mechanisms involved in pregnancy, gestation and childbirth.  This also includes knowledge of the consequences and alternatives.  Public policy problems revolve around questions of morality complicated by religion, tradition, and biological instincts:
 
 - Where do the rights of the mother end and the rights of the fetus begin?
 - Where do the rights of the father apply?
@@ -13,25 +14,37 @@ As with many other areas of science and medicine, humanity has a large but imper
 - Which providers can legally perform abortions?
 - At which point in gestation do we legally determine that an abortion cannot occur?
 - Should medical insurance pay for abortion?
-- Should state revenue be used to subsidize abortion?
+- Should federal or state revenue be used to subsidize abortion?
 
 The answers become more clear within a framework that defines the difference between a child and a fetus.  Moral and religious arguments will continue for all of perpetuity, and they should, but a cohesive public policy needs a lasting, unequivocal agreement on facts and definitions. 
 
-- Pregnancy and childbirth cause bodily harm and are often deadly.
-- During the first half of gestation, a human fetus is incapable of survival outside of the womb.
-- During the third trimester, a human fetus is generally capable of survival outside of the womb with varying degrees of medical intervention required.
-- Women always have and always will seek abortion under some circumstances, regardless of access or legality.  In the absence of safe and legal access, women always have and - always will resort to extreme measures to obtain one.
-- Some medical conditions will dictate that the only proper course of action is an abortion.
-- The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness. 
-- Limiting access to abortion creates economic burdens on a region. 
+### 3.15.3. Assertions 
 
+-  *__3.15.3.1. Pregnancy and childbirth cause bodily harm and are often deadly.__*
+-  *__3.15.3.2. During the first half of gestation, a human fetus is incapable of survival outside of the womb.__*
+-  *__3.15.3.3. During the third trimester, a human fetus is generally capable of survival outside of the womb.__* 
+      -  Survival at this stage requires varying degrees of medical intervention.
+-  *__3.15.3.4. Women always have and always will seek abortion under some circumstances.__*
+      - In the absence of safe and legal access, women always have and always will resort to extreme measures to obtain an abortion.
+-  *__3.15.3.5. Some medical conditions will dictate that the only proper course of action is an abortion.__*
+-  *__3.15.3.6. The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness.__*
+-  *__3.15.3.7. Limiting access to abortion creates economic burdens on a region.__*
+
+
+### 3.15.4  Policy Recommendations
 Considering the facts, it is clear that there are at least some circumstances in which abortion is proper.  It is clear that regardless of safety or legality, women will seek abortion in some circumstances.  There is no definitive measure or milestone to determine viability (the ability to survive outside of the womb if delivered), nor is there even a clear way to measure gestational age.  Any policy framed around a number of week’s gestation is arbitrary, as is any policy that categorically denies abortion as an option.
 
-#### 3.1.1.2.  Policy Recommendations
-Based on these observations, the policy recommendations of this doctrine are as follows:
+Based on these observations, the policy recommendations are as follows:
 
+#### 3.15.4.1. Policy origination
 - Laws regulating abortion should be written with primary input from those who can be directly affected by them (i.e. women) and physicians that have training in maternal-fetal medicine.
+
+#### 3.15.4.2. Policy language
 - The use of gestational age should be used sparingly when writing laws regulating abortion.
+
+#### 3.15.4.3. Policy equivalency
 - Insurance should not treat abortion differently from any other medical treatment.
 - Regulation surrounding the procedure or access to the procedure should be commensurate with any other similarly invasive or risky procedure.
+
+#### 3.15.4.4. Policy details and implementation
 - Laws should leave the decision on how late into pregnancy an abortion is appropriate up to an appropriately licensed physician in conjunction with consultation with the mother.

@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.9.0  Gender and Sex
 #### 3.1.9.1.  Introduction
 #### 3.1.9.2.  Policy Problems

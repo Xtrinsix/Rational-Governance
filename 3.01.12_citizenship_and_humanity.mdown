@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.12.0  Citizenship and Humanity
 #### 3.1.12.1.  Introduction
 #### 3.1.12.2.  Policy Problems

@@ -1,3 +1,4 @@
+[ reformat and renumber ]
 ### 3.1.5.0  Education
 #### 3.1.5.1.  Introduction
 #### 3.1.5.2.  Policy Problems
