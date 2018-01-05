@@ -59,3 +59,43 @@ Waste and other byproducts of manufacturing must be disclosed along with a sched
 If you do not know the waste and/or byproducts of your manufacturing process, you have no right to be in business
 If you do not have a plan for proper disposal of such byproducts, you have no right to be in business
 Grandfathering must be limited to a small number of years
+
+
+--------------------------------------
+
+### 3.X.1.  Summary
+Summary
+
+### 3.X.2.  Policy Challenges
+Statement
+
+- List
+
+See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
+
+### 3.X.3. Assertions 
+
+-  *__3.X.3.1. First.__*
+-  *__3.X.3.2. Second.__*
+
+### 3.X.4  Policy Recommendations
+Based on these observations, the policy recommendations are as follows:
+
+#### 3.X.4.1. Policy origination
+- Recommendation one
+
+#### 3.X.4.2. Policy language
+- Recommendation one
+
+#### 3.X.4.3. Policy equivalency
+- Recommendation one
+- Recommendation two
+
+#### 3.X.4.4. Policy details and implementation
+- Recommendation one
+
+#### 3.X.4.5. Policy monitors 
+
+#### 3.X.4.6. Policy measures
+
+#### 3.X.4.7. Policy remedies
