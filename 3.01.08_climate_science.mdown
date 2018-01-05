@@ -1,5 +1,0 @@
-[ reformat and renumber ]
-### 3.1.8.0  Climate Science
-#### 3.1.8.1.  Introduction
-#### 3.1.8.2.  Policy Problems
-#### 3.1.8.2.  Policy Recommendations
