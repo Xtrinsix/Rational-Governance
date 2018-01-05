@@ -5,7 +5,7 @@
 Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In particular, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.
 
 ### 3.15.2.  Policy Challenges
-Humanity has a large but imperfect knowledge regarding the biological mechanisms involved in pregnancy, gestation and childbirth.  This also includes knowledge of the consequences and alternatives.  Public policy problems revolve around questions of morality complicated by religion, tradition, and biological instincts:
+Public policy problems revolve around questions of morality complicated by religion, tradition, and biological instincts:
 
 - Where do the rights of the mother end and the rights of the fetus begin?
 - Where do the rights of the father apply?
@@ -16,7 +16,7 @@ Humanity has a large but imperfect knowledge regarding the biological mechanisms
 - Should medical insurance pay for abortion?
 - Should federal or state revenue be used to subsidize abortion?
 
-The answers become more clear within a framework that defines the difference between a child and a fetus.  Moral and religious arguments will continue for all of perpetuity, and they should, but a cohesive public policy needs a lasting, unequivocal agreement on facts and definitions. 
+The answers become more clear within a framework that defines the difference between a child and a fetus.  Moral and religious arguments will continue for all of perpetuity, and they should, but a cohesive public policy needs a lasting, unequivocal agreement on facts and definitions.  See section 4 for further definitions of **[child, childbirth and abortion]** necessary for a clear and consistent policy.
 
 ### 3.15.3. Assertions 
 
@@ -48,3 +48,9 @@ Based on these observations, the policy recommendations are as follows:
 
 #### 3.15.4.4. Policy details and implementation
 - Laws should leave the decision on how late into pregnancy an abortion is appropriate up to an appropriately licensed physician in conjunction with consultation with the mother.
+
+#### 3.15.4.5. Policy monitors 
+
+#### 3.15.4.6. Policy measures
+
+#### 3.15.4.7. Policy remedies
