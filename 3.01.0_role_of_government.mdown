@@ -7,7 +7,9 @@ Government is nothing but a tool for protecting and organizing public resources,
 
 
 ### 3.1.2.  Policy Challenges
-Democracies, in particular, face the challenge of undefined scope.  
+
+#### 3.1.2.1. Government Scope
+Democracies, in particular, face the challenge of undefined government scope.  Competing 
 
 
 ### 3.1.3.  Policy Recommendations
@@ -16,10 +18,11 @@ Democracies, in particular, face the challenge of undefined scope.
 
 -  Protect the Intrinsic Liberties 
 -  Protect and support the society within its boundaries
+-  Protect and support public lands and resources within its boundaries
 -  Establish and maintain infrastructure necessary for commerce
+-  Protect and support the society within its boundaries
 
 
-Preserve the society within its boundaries
 Define and enforce regulations on business activity
 
 
@@ -36,3 +39,39 @@ Unelected offices
 Campaigns
 An official campaign should last no more than 6 months before the election for that office.  
 Campaigns as legal entities should continue to exist for a period of time after the election to handle settlement of debt, legal issues, etc, but may not continue to raise money or to prepare for the next election cycle.
+
+
+### 3.X.2.  Policy Challenges
+Statement
+
+- List
+
+See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
+
+### 3.X.3. Assertions 
+
+-  *__3.X.3.1. First.__*
+-  *__3.X.3.2. Second.__*
+
+### 3.X.4  Policy Recommendations
+Based on these observations, the policy recommendations are as follows:
+
+#### 3.X.4.1. Policy origination
+- Recommendation one
+
+#### 3.X.4.2. Policy language
+- Recommendation one
+
+#### 3.X.4.3. Policy equivalency
+- Recommendation one
+- Recommendation two
+
+#### 3.X.4.4. Policy details and implementation
+- Recommendation one
+
+#### 3.X.4.5. Policy monitors 
+
+#### 3.X.4.6. Policy measures
+
+#### 3.X.4.7. Policy remedies
+
