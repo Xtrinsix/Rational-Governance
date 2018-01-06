@@ -1,40 +1,58 @@
-3.X.  The Legislative Branch
+3.3.  The Legislative Branch
 --------------------------------------
 
-### 3.X.1.  Summary
+### 3.3.1.  Summary
 Summary
 
-### 3.X.2.  Policy Challenges
+### 3.3.2.  Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.X.3. Assertions 
+### 3.3.3. Assertions 
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
+-  *__3.3.3.1. First.__*
+-  *__3.3.3.2. Second.__*
+-  *__3.3.3.2. Incumbents have an unfair advantage during elections.__*
+    - Incumbents have name recognition
+    - Incumbents have organizational and financial advantages
+    - Incumbents benefit from straight line party votes
+    - Incumbents are often re-elected despite past performance
 
-### 3.X.4  Policy Recommendations
+### 3.3.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
+#### 3.3.4.2. Removal from office
+- The citizen population must have the power to remove an elected official mid-term by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
+- Annual physical and mental assessments must be held and publicly published to determine fitness for office.
+- Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
+- Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
+- Such mid-term removal processes do not apply for offices with terms of 2 years or less.  Instead, failure to pass annual assessments automatically trigger a vote within that legislative body to remove that individual from office.
+
+#### 3.3.4.3 Incumbent handicap
+- An incumbent for an office that is not subject to a mid-term removal process must have 60% of the votes instead of 50% during a general election in order to remain in office.
+
+
+#### 3.3.4.1. Policy origination
+- Constitutional scholars, 
+
+#### 3.3.4.2. Policy language
+
+
+#### 3.3.4.3. Policy equivalency
+
+
+#### 3.3.4.4. Policy details and implementation
 - Recommendation one
 
-#### 3.X.4.2. Policy language
-- Recommendation one
+#### 3.3.4.5. Policy monitors 
+- TODO: Outline an independent body to perform annual physical, mental, competency and integrity assessments
 
-#### 3.X.4.3. Policy equivalency
-- Recommendation one
-- Recommendation two
+#### 3.3.4.6. Policy measures
+- TODO: Outline top level measurements for physical, mental, competency and integrity assessments
 
-#### 3.X.4.4. Policy details and implementation
-- Recommendation one
-
-#### 3.X.4.5. Policy monitors 
-
-#### 3.X.4.6. Policy measures
-
-#### 3.X.4.7. Policy remedies
+#### 3.3.4.7. Policy remedies
+- TODO: How do we measure these policy recommendations?
 

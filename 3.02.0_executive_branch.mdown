@@ -1,40 +1,46 @@
 3.2.  The Executive Branch
 --------------------------------------
 
-### 3.X.1.  Summary
+### 3.2.1.  Summary
 Summary
 
-### 3.X.2.  Policy Challenges
+### 3.2.2.  Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.X.3. Assertions 
+### 3.2.3. Assertions 
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
+-  *__3.2.3.1. First.__*
+-  *__3.2.3.2. Second.__*
 
-### 3.X.4  Policy Recommendations
+### 3.2.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
+#### 3.2.4.1. Removal from office
+- The citizen population must have the power to remove an appointed official by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
+- Annual physical and mental assessments must be held and publicly published to determine fitness for office.
+- Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
+- Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
+
+#### 3.2.4.1. Policy origination
 - Recommendation one
 
-#### 3.X.4.2. Policy language
+#### 3.2.4.2. Policy language
 - Recommendation one
 
-#### 3.X.4.3. Policy equivalency
+#### 3.2.4.3. Policy equivalency
 - Recommendation one
 - Recommendation two
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.2.4.4. Policy details and implementation
 - Recommendation one
 
-#### 3.X.4.5. Policy monitors 
+#### 3.2.4.5. Policy monitors 
 
-#### 3.X.4.6. Policy measures
+#### 3.2.4.6. Policy measures
 
-#### 3.X.4.7. Policy remedies
+#### 3.2.4.7. Policy remedies
 
