@@ -20,22 +20,23 @@ See section 4 for further definitions of **[this and that]** necessary for a cle
 Based on these observations, the policy recommendations are as follows:
 
 #### 3.X.4.1. Policy origination
-- Recommendation one
+- Which types of subject matter experts or affected individuals may originate policy changes
 
 #### 3.X.4.2. Policy language
-- Recommendation one
+- Guidance on language that should be used, defined, avoided when creating policy changes.
 
 #### 3.X.4.3. Policy equivalency
-- Recommendation one
-- Recommendation two
+- Which other policies share equivalencies
+- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
 #### 3.X.4.4. Policy details and implementation
-- Recommendation one
+- Guidance on details and implementation of specific aspects of policy changes
 
 #### 3.X.4.5. Policy monitors 
+- What kinds of bodies or systems will monitor policy changes for efficacy
 
 #### 3.X.4.6. Policy measures
+- What kinds of measurements are necessary for determining the efficacy of policy changes
 
 #### 3.X.4.7. Policy remedies
-
-
+- What remedies should take place if policy changes prove ineffective 

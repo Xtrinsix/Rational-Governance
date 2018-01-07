@@ -1,42 +1,69 @@
 3.6.  Campaigns and Elections
 --------------------------------------
 
-### 3.X.1.  Summary
-Summary
+### 3.6.1.  Summary
+As a cornerstone of democracy, campaigns and elections must be held to the highest standards of integrity and transparency.  
 
-### 3.X.2.  Policy Challenges
-Statement
+### 3.6.2.  Policy Challenges
 
-- List
+- Equitable and transparent campaign financing
+- Fair, legal voter identification
+- Voter participation
+- Voter education on issues and candidates
+- Voter access to election sites and times
+- Clearly understood ballot structure and voting instructions
+- Citizen confidence in election results
+- Consistent and secure election processes
+- Consistent and fair voting districts
+- Qualified candidates
+- Honest campaign messaging 
+- Independent or external propaganda
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.X.3. Assertions 
+### 3.6.3. Assertions 
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
+-  *__3.6.3.1. Political campaigns lasting more than 6 months risk election integrity.__*
+-  *__3.6.3.2. Political campaigns without spending limits risk election integrity.__*
+-  *__3.6.3.3. Independent entities campaigning on behalf of a candidate or against a candidate risk election integrity through propaganda and lack of transparency.__*
+-  *__3.6.3.3. Unqualified candidates waste government and citizen time and resources.__*
+-  *__3.6.3.3. Legal challenges to election results risk election integrity.__*
+-  *__3.6.3.3. Low voter participation risks election integrity.__*
 
-### 3.X.4  Policy Recommendations
+
+### 3.6.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
+#### 3.6.4.1. Campaign limits
+- An official campaign for office should start no more than 6 months before the election for that office.
+- Campaigns as legal entities should continue to exist for a period of time after the election to handle settlement of debt, legal issues, etc, but may not continue to raise money or to prepare for the next election cycle.
+- Campaigns 
 
-#### 3.X.4.2. Policy language
+#### Political campaign financing must have full transparency easily available to the public
+#### Independent entities campaigning on behalf of a candidate or against a candidate must have full financial transparency easily available to the public
+#### Potential candidates must pass all assessments for office as a requirement to appear on the ballot for primary or general elections.
+#### Potential candidates running unopposed must have some minimum percentage of votes (e.g. 45% of all potential voters must vote for the candidate) in order to win election.
+-  There can be no free pass for office by unopposed candidates.  Citizens must elect a candidate with confidence of the candidate to fulfill the duties of the position.  A passive election victory is a victory without integrity and without the confidence of the citizenry.
+
+#### 3.6.4.1. Policy origination
+- Policy changes must be introduced by individuals with degrees in political science, sociology, law or economics.
+- Policy changes must be approved by independent entities with no stated political affiliation.
+
+#### 3.6.4.2. Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.X.4.3. Policy equivalency
+#### 3.6.4.3. Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.6.4.4. Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.X.4.5. Policy monitors 
+#### 3.6.4.5. Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.X.4.6. Policy measures
+#### 3.6.4.6. Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.X.4.7. Policy remedies
+#### 3.6.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 
