@@ -1,42 +1,53 @@
 3.17.  Education
 --------------------------------------
 
-### 3.X.1.  Summary
-Summary
+### 3.17.1.  Summary
+An educated population is healthier, solves problems and differences with less conflict, enjoys a stronger economy, and experiences less crime and poverty. Limiting education by availability of resources limits the potential of a society.  A quality education for all citizens should be an imperative,   freely available to all segments of a population.
 
-### 3.X.2.  Policy Challenges
-Statement
+### 3.17.2.  Policy Challenges
 
-- List
+- Curriculum standards
+- Testing standards
+- Questions on efficacy of tests as measures of success
+- Material resources
+- Qualified teachers
+- Expense and revenue
+- Parental participation
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.X.3. Assertions 
+### 3.17.3. Assertions 
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
+-  *__3.17.3.1. An educated population creates a stronger economy.__*
+-  *__3.17.3.1. An educated population makes better political choices.__*
+-  *__3.17.3.1. An educated population is healthier, which reduces the overall burden on the government and the rest of society.__*
+-  *__3.17.3.1. An educated population has less crime, which reduces the overall burden on the government and the rest of society.__*
+-  *__3.17.3.1. An educated population makes better life choices, which reduces the overall burden on the government and the rest of society.__*
+-  *__3.17.3.1. An educated population has manageable population growth, which reduces the overall burden on the government and the rest of society.__*
+-  *__3.17.3.1. An educated population has more successful childbirth, which reduces the overall burden on the government and the rest of society.__*
+-  *__3.17.3.2. Second.__*
 
-### 3.X.4  Policy Recommendations
+### 3.17.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
+#### 3.17.4.1. Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-#### 3.X.4.2. Policy language
+#### 3.17.4.2. Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.X.4.3. Policy equivalency
+#### 3.17.4.3. Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.17.4.4. Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.X.4.5. Policy monitors 
+#### 3.17.4.5. Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.X.4.6. Policy measures
+#### 3.17.4.6. Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.X.4.7. Policy remedies
+#### 3.17.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 

@@ -1,42 +1,37 @@
 3.8  Climate Science
 --------------------------------------
 
-### 3.X.1.  Summary
-Summary
+### 3.8.1.  Summary
+Global climate changes affect the entire global population, regardless of wealth or status.  The consequences of climate change can be devastating and widespread.  Whether or not humanity has a role in climate change, it is irrational and irresponsible to ignore and to impede the study of causes, effects and mitigation.  
 
-### 3.X.2.  Policy Challenges
-Statement
+### 3.8.2.  Policy Challenges
+Note that these are the policy challenges, not the scientific challenges.
 
-- List
+- Perception that climate change is a hoax
+- Perception that climate change is a political instrument
+- Perception that human activity cannot affect climate
+- Perception or fear that human activity cannot have a positive effect on climate change
+- Perception or fear that attempts to affect climate change will have a negative impact on business profits
+- How to determine the proper funds and to which entities to allocate the funds
+- How to manage attempts to affect climate change to avoid redundancy and/or 
 
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
+### 3.8.3. Assertions 
 
-### 3.X.3. Assertions 
+-  *__3.8.3.1. The Earth's climate is changing at a rate that will negatively affect billions of people before the year 2100.__*
+-  *__3.8.3.2. Human activities since the 19th century have contributed directly to the change in climate.__*
+-  *__3.8.3.2. Modification of human activities can mitigate and potentially reverse some but not all of the consequences.__*
+-  *__3.8.3.2. Science does not have enough information to determine when or how a tipping point will occur that leads to more rapidly escalating climate change.__*
+-  *__3.8.3.2. Climate change is the most important issue of the 21st century.__*
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
+### 3.8.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
+#### 3.8.4.1. The 20 Year Doctrine must be applied to solving climate change.
+- Nations, populations, corporations and all other institutions must give the study and mitigation of climate change the highest priority.
+- Using the 20 Year Doctrine, we must declare a 20 year deadline for altering human activity so that we may potentially reverse the course of climate change.
 
-#### 3.X.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.X.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.X.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.X.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.X.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.X.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
+#### 3.8.4.2. Global Climate Authority
+- As a global issue beyond the scope of a single nation, a global entity must be created and supported by all global powers.
+- Such a global climate authority must be made up of subject matter experts in such fields as the climate sciences, geology, astrophysics, and marine biology. 
+- No special interest must be allowed to lobby the global climate authority.
+- The global climate authority's mandate would include policy recommendations to all global powers, establishment of monitoring practices and publication of all results, recommendations and responses by global powers to the recommendations.

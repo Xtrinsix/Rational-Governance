@@ -1,42 +1,61 @@
 3.5  Taxation and Use of Government Revenue
 --------------------------------------
 
-### 3.X.1.  Summary
-Summary
+### 3.5.1.  Summary
+Taxation has always been and will always be a contentious subject.  The use of government revenue has always been and always be a contentious subject.
 
-### 3.X.2.  Policy Challenges
-Statement
+### 3.5.2.  Policy Challenges
 
-- List
 
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
+- How to make taxes fair.
+- How to make taxes less burdensome.
+- How to make taxes easier to calculate and pay.
+- Transparency of the use of taxes.
+- Tax avoidance, whether perceived or real, by entities that can afford to pay the taxes cause resentment.
+- Use of government revenue to fund entities or activities that an individual finds objectionable causes resentment.
+- Federal, state and municipal tax rates and schedules are inconsistent.
 
-### 3.X.3. Assertions 
 
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
+### 3.5.3. Assertions 
 
-### 3.X.4  Policy Recommendations
+-  *__3.5.3.1. A functional government has always been and will always be required for the existence of successful human societies.__*
+-  *__3.5.3.2. Taxation is necessary for the existence and maintenance of a functional government.__*
+-  *__3.5.3.3. .__*
+
+### 3.5.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
+- Essential Social Services must be defined for individuals and businesses with guidelines that include but are not limited to measurements of income.
+- Those who need to make use of Essential Social Services offered by a government institution and funded by tax revenue should not bear a tax burden.
+    - This includes individuals and businesses
+- For those who do not use Essential Social Services, the tax burden must be equitable and predictable.
+- Businesses and corporations must be taxed on net earnings before payment of dividends to shareholders or any calculations for profitability.
+    - This would allow for a lower tax rate but more honest calculations of tax burden.
+    - A struggling business should qualify for Essential Social Services and would not be required to pay taxes.
 
-#### 3.X.4.2. Policy language
+
+- Beyond the baseline tax bracket, additional taxes may be taken on income above the affluence line.
+- Affluence and Essential Social Services are addressed in §3.09 Affluence and Poverty.
+    
+#### 3.5.4.1. Policy origination
+- Policy changes must be introduced by individuals with degrees or equivalent experience in economics.
+- Policy changes must be approved by independent entities with no stated political affiliation.
+
+#### 3.5.4.2. Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.X.4.3. Policy equivalency
+#### 3.5.4.3. Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.5.4.4. Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.X.4.5. Policy monitors 
+#### 3.5.4.5. Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.X.4.6. Policy measures
+#### 3.5.4.6. Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.X.4.7. Policy remedies
+#### 3.5.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 

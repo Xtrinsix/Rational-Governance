@@ -2,7 +2,7 @@
 --------------------------------------
 
 ### 3.6.1.  Summary
-As a cornerstone of democracy, campaigns and elections must be held to the highest standards of integrity and transparency.  
+As a cornerstone of democracy, campaigns and elections must be held to the highest standards of integrity and transparency.
 
 ### 3.6.2.  Policy Challenges
 
@@ -24,6 +24,7 @@ See section 4 for further definitions of **[this and that]** necessary for a cle
 ### 3.6.3. Assertions 
 
 -  *__3.6.3.1. Political campaigns lasting more than 6 months risk election integrity.__*
+-  *__3.6.3.1. Political campaigns lasting more than 6 months create divisions among the population.__*
 -  *__3.6.3.2. Political campaigns without spending limits risk election integrity.__*
 -  *__3.6.3.3. Independent entities campaigning on behalf of a candidate or against a candidate risk election integrity through propaganda and lack of transparency.__*
 -  *__3.6.3.3. Unqualified candidates waste government and citizen time and resources.__*
