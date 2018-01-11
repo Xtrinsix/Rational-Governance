@@ -1,0 +1,48 @@
+3.9.  Affluence and Poverty
+--------------------------------------
+
+### 3.X.1.  Summary
+Summary
+
+### 3.X.2.  Policy Challenges
+Statement
+
+- Like the calculation for poverty which determines the minimal acceptable income for an individual or family, calculations must exist to establish affluence.
+    - Affluence shall be defined as a state of wealth in which the income is no longer necessary for meeting basic needs.
+    - Example: if $250,000 annual income is determined to be the amount at which all conceivable basic needs will be met for the size of the family and the location, income above that line will be considered affluence.
+    
+- List
+
+See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
+
+### 3.X.3. Assertions 
+
+-  *__3.X.3.1. First.__*
+-  *__3.X.3.2. Second.__*
+
+### 3.X.4  Policy Recommendations
+Based on these observations, the policy recommendations are as follows:
+
+optional further sub-sections
+
+#### 3.X.4.1. Policy origination
+- Which types of subject matter experts or affected individuals may originate policy changes
+
+#### 3.X.4.2. Policy language
+- Guidance on language that should be used, defined, avoided when creating policy changes.
+
+#### 3.X.4.3. Policy equivalency
+- Which other policies share equivalencies
+- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
+
+#### 3.X.4.4. Policy details and implementation
+- Guidance on details and implementation of specific aspects of policy changes
+
+#### 3.X.4.5. Policy monitors 
+- What kinds of bodies or systems will monitor policy changes for efficacy
+
+#### 3.X.4.6. Policy measures
+- What kinds of measurements are necessary for determining the efficacy of policy changes
+
+#### 3.X.4.7. Policy remedies
+- What remedies should take place if policy changes prove ineffective 
