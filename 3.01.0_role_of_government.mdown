@@ -3,7 +3,7 @@
 
 ### 3.1.1.  Summary
 
-Government is nothing but a tool for protecting and organizing public resources, protecting access to private resources, and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
+The rational view of the politics recognizes that government is nothing but a tool for protecting and organizing public resources, protecting access to private resources, and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
 
 
 ### 3.1.2.  Policy Challenges
@@ -27,37 +27,22 @@ Government scope at the national, regional and local levels needs more clear def
 
 
 
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
+#### 3.1.4.1. Policy origination
 - Recommendation one
 
-#### 3.X.4.2. Policy language
+#### 3.1.4.2. Policy language
 - Recommendation one
 
-#### 3.X.4.3. Policy equivalency
+#### 3.1.4.3. Policy equivalency
 - Recommendation one
 - Recommendation two
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.1.4.4. Policy details and implementation
 - Recommendation one
 
-#### 3.X.4.5. Policy monitors 
+#### 3.1.4.5. Policy monitors 
 
-#### 3.X.4.6. Policy measures
+#### 3.1.4.6. Policy measures
 
-#### 3.X.4.7. Policy remedies
+#### 3.1.4.7. Policy remedies
 

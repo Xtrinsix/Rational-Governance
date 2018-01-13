@@ -2,7 +2,7 @@
 --------------------------------------
 
 ### 3.2.1.  Summary
-Summary
+The rational view of the executive branch of any democracy recognizes that the highest office of that branch can hold an imbalance of power that can lead to tyranny.
 
 ### 3.2.2.  Policy Challenges
 Statement
@@ -25,24 +25,24 @@ Based on these observations, the policy recommendations are as follows:
 - Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
 - Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
 
-#### 3.X.4.1. Policy origination
+#### 3.2.4.1. Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-#### 3.X.4.2. Policy language
+#### 3.2.4.2. Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.X.4.3. Policy equivalency
+#### 3.2.4.3. Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.2.4.4. Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.X.4.5. Policy monitors 
+#### 3.2.4.5. Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.X.4.6. Policy measures
+#### 3.2.4.6. Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.X.4.7. Policy remedies
+#### 3.2.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 

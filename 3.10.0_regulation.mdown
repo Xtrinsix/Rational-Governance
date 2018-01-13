@@ -1,9 +1,11 @@
-[ reformat and renumber ]
-### 3.1.10.0.  Regulation of Business Practices
-#### 3.1.10.1.  Introduction
+Regulation of Business Practices
+--------------------------------------
+
+### 3.10.1.  Summary
+
 Regulation of business practices is a classic divide between the political left and right.  The practice of regulation is highly polarizing.  Improper regulation can interfere with a free market and can incur unnecessary expenses, while lack of regulation can allow businesses and industries to harm the public and the environment with little or no awareness from the public or power to mitigate the harm.  This is complicated by special interests lobbying introducing money and personal agendas into what should be factual discussions of policy. 
 
-#### 3.1.10.2.  Policy Problems
+### 3.10.2.  Policy Challenges
 The arguments for and against regulation are made by well educated, intelligent people with vastly different opinions.  A discussion of regulation needs to begin with the reasons put forward in support of its existence.
 
 -  Many industries produce waste as solids, liquids or gases that must be contained or properly disposed in order to prevent harm to people, other living creatures or the environment.
@@ -38,7 +40,13 @@ These concerns can be reduced to the following questions:
 -  Without regulation, 
 
 
-#### 3.1.10.2.  Policy Recommendations
+### 3.10.3. Assertions 
+
+-  *__3.10.3.1. First.__*
+-  *__3.10.3.2. Second.__*
+
+
+### 3.10.4  Policy Recommendations
 
 Using the preservation of the three liberties as the ultimate guide, business practices may not cause irreparable harm to human habitats, may not cause 
 2.1.2.1., 2.1.2.7, 
@@ -55,51 +63,30 @@ Sold on merits, not brand
 Not advertised to public
 Panels of scientists (chemists) and physicians to determine tests and regulations, not businesses or special interests
 Processes for manufacture of products and materials may be kept proprietary for competitive advantage
-Waste and other byproducts of manufacturing must be disclosed along with a schedule for proper disposal and auditing of the disposal.  
+Waste and other byproducts of manufacturing must be disclosed along with a schedule for proper disposal and auditing of the disposal.
 If you do not know the waste and/or byproducts of your manufacturing process, you have no right to be in business
 If you do not have a plan for proper disposal of such byproducts, you have no right to be in business
 Grandfathering must be limited to a small number of years
 
-
---------------------------------------
-
-### 3.X.1.  Summary
-Summary
-
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
+#### 3.10.4.1. Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-#### 3.X.4.2. Policy language
+#### 3.10.4.2. Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.X.4.3. Policy equivalency
+#### 3.10.4.3. Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.X.4.4. Policy details and implementation
+#### 3.10.4.4. Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.X.4.5. Policy monitors 
+#### 3.10.4.5. Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.X.4.6. Policy measures
+#### 3.10.4.6. Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.X.4.7. Policy remedies
+#### 3.10.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 
