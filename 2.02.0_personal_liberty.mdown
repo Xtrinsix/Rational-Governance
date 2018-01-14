@@ -5,29 +5,31 @@
 Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on the lives of others, regional societies and global civilization.
 
 ### 2.2.2. Assertions
--  *__2.2.2.1. Beyond the overall ecosystem that sustains humanity, time and human life are the most precious commodities known to man.__*
+-  *__2.2.2.1. Beyond the overall ecosystem that sustains humanity, time and human life are the most precious known commodities.__*
 -  *__2.2.2.2. Individual human lives are the building blocks of all social structures.__*
 -  *__2.2.2.3. Less than a tenth of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, but every individual has the potential to help a social structure succeed.__*
 -  *__2.2.2.4. No one can predict the success or degree of success of a single person.__*
 -  *__2.2.2.5. The full impact of an individual is often not felt until late in life.__*
--  *__2.2.2.6. More.__*
+-  *__2.2.2.6. Human history is not a zero-sum game: Social or historical success for one individual does not diminish the success of another.__*
 
 ### 2.2.3. Doctrine
 If we assume that each person has the potential to be anything from a fully contributing member of society to the most impactful human to have ever lived, we should assume that each life is worth preserving and that each life is equal in worth to all other lives.  It is imperative that we recognize the value in each individual, whether we agree, disagree, find attraction or disgust.
 
-Individual lives, however, are transient.  Once damaged, repair may not be an option.  Once lost, an individual is gone forever.
+Individual lives, however, are transient.  Once damaged, repair may not be an option.  Once lost, an individual is gone forever and all of their potential contributions are gone with them.
 
-Beyond what some would consider to be basic human decency and respect for fellow humans, a rational view of human liberty dictates that if each individual has the potential to benefit society at any age, and that if individuals more easily reach their potential when their liberty is respected, and that if individual lives are easily lost, and that, once lost, the potential of that individual for a positive impact is also permanently lost, then we must make every effort to preserve the liberty of individual humans in order to maximize their potential for a positive impact on regional society and global civilization.  Beyond the rational argument, the preservation of human life and the respect of personal liberty are both morally and ethically defensible. **[needs edit]**
+Beyond what some would consider to be basic human decency and respect for fellow humans, a rational view of human liberty dictates that if each individual has the potential to benefit society at any age, and that if individuals more easily reach their potential when their liberty is respected, and that if individual lives are easily lost, and that, once lost, the potential of that individual for a positive impact is also permanently lost, then we must make every effort to preserve the liberty of individual humans in order to maximize their potential for a positive impact on regional society and global civilization.  Beyond the rational argument, the preservation of human life and the respect of personal liberty are both morally and ethically defensible. 
+
+This doctrine enumerates the intrinsic rights of each human that must be recognized by all people and institutions
 
 A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each of these rights is marked with an **A** if the right applies to all adults, a **C** if the right applies to all children, or an asterisk (**\***) if a proxy may override an individual’s wishes.
 
 Additional Note: A middle classification between Adult and Child may be necessary in some cases. For example, a 10 year old may be mature enough to make a decision regarding the right to property, depending on the property, just as a 15 year old may be mature enough to make decisions regarding freedom of movement, but in general those are rights associated with adults.
 
 #### 2.2.3.1. The right to live (AC)
-Every person must be allowed to live a normal human lifespan.  See section 4 for the definition of life necessary for a clear understanding of this right.
+Every person must be allowed to live a normal human lifespan.  See section 4 for the definition of **[life]** necessary for a clear understanding of this right.
 
 #### 2.2.3.2. The right to die (A*)
-Barring disease, natural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Due to the irreversible nature of such a decision, any ambiguity in making such a decision should favor life over death.
+Barring disease, natural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing as long as this does not limit or interfere the intrinsic rights of other individuals.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Due to the irreversible nature of such a decision, any ambiguity in making such a decision should favor life over death.
 
 #### 2.2.3.3. The right to regulate access to one’s body (AC*)
 Every person must have sovereignty over their own bodies, deciding who, how, when and why any one or any thing may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.
@@ -64,4 +66,4 @@ This right, as with any others, may not limit or interfere with the rights of ot
 #### 2.2.3.11. The right to non-discrimination
 Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population disadvantaged by particular intrinsic properties.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
 
-This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.
+This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of intrinsic qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.
