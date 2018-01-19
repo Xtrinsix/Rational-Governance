@@ -1,4 +1,4 @@
-3.15.  Abortion
+3.15.  Abortion and Birth Control
 --------------------------------------
 
 ### 3.15.1.  Summary
@@ -29,10 +29,11 @@ The answers become more clear within a framework that defines the difference bet
 -  *__3.15.3.5. Some medical conditions will dictate that the only proper course of action is an abortion.__*
 -  *__3.15.3.6. The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness.__*
 -  *__3.15.3.7. Limiting access to abortion creates economic burdens on a region.__*
+-  *__3.15.3.8. Women have a social and physical imbalance of power leading to situations in which men impregnate women against their will.__*
 
 
 ### 3.15.4  Policy Recommendations
-Considering the facts, it is clear that there are at least some circumstances in which abortion is proper.  It is clear that regardless of safety or legality, women will seek abortion in some circumstances.  There is no definitive measure or milestone to determine viability (the ability to survive outside of the womb if delivered), nor is there even a clear way to measure gestational age.  Any policy framed around a number of week’s gestation is arbitrary, as is any policy that categorically denies abortion as an option.
+Considering the facts, it is clear that there are at least some circumstances in which abortion is proper.  It is clear that regardless of safety or legality, women will seek abortion in some circumstances.  There is no definitive measure or milestone to determine viability (the ability to survive outside of the womb if delivered), nor is there even a clear way to measure gestational age.  Any policy framed around a number of week’s gestation is arbitrary, as is any policy that categorically denies abortion as a medical option.
 
 Based on these observations, the policy recommendations are as follows:
 
@@ -48,9 +49,3 @@ Based on these observations, the policy recommendations are as follows:
 
 #### 3.15.4.4. Policy details and implementation
 - Laws should leave the decision on how late into pregnancy an abortion is appropriate up to an appropriately licensed physician in conjunction with consultation with the mother.
-
-#### 3.15.4.5. Policy monitors 
-
-#### 3.15.4.6. Policy measures
-
-#### 3.15.4.7. Policy remedies
