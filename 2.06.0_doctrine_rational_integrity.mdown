@@ -14,12 +14,15 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
 -  *__2.6.2.3. Neutral Policy includes legislative or executive actions that assert, name, declare or maintain.__*
       -  Legislation naming things and places, honoring individuals, declaring support of an individual or institution, condemning an act, etc
       -  Legislation providing funding or support for basic public functions (emergency services, first responders, elected officials and other government employees, etc).
+      -  Other legal actions that fund or support existing legislation.
 -  *__2.6.2.4. Positive and Negative Policy have the potential for corruption.__*
       -  Positive Policy enacted without scrutiny may benefit some at the expense of others.
       -  Negative Policy enacted without scrutiny may punish some to the benefit of others.
 -  *__2.6.2.5. Positive and Negative Policy have the potential for unforeseen consequences.__*
       -  Policy enacted without rational consideration with expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
 -  *__2.6.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*
+-  *__2.6.2.7. Policy creators are inherently biased toward the policy in question.__*
+      -  An individual or entity creating policy cannot judge the policy's consistency, ethics or adherence to norms.
 
 ### 2.6.3. Doctrine
 A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.

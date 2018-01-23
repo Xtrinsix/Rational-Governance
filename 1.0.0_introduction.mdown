@@ -6,9 +6,9 @@ A rational framework for governance in an age of advanced technology and global 
 1.0. Introduction
 ------------------
 
-In the 21st century, humanity faces a combination of dangers of extraordinary magnitude: deepening tribal behavior among history's largest populations, exploitation of tribal instincts through mass distribution of disinformation over digital media, easily available technology of unprecedented power and scope, undisciplined innovation with misplaced priorities and lack of governance, and systematic consolidation and corruption of economic and political power.
+In the 21st century, humanity faces a combination of dangers of extraordinary magnitude.  We face existential threats of two varieties: timeless, natural threats to the ecosystems that sustain us and artificial, self-inflicted threats in the form of deepening tribal behavior among history's largest populations, exploitation of tribal instincts through mass distribution of disinformation over digital media, easily available technology of unprecedented power and scope, undisciplined innovation with misplaced priorities and lack of governance, and systematic consolidation and corruption of economic and political power.
 
-Our scientific knowledge and advances in technology have grown too powerful to remain unchecked and unrestrained.  Continued extreme and irrational actions and behaviors within and among global powers will lead to conflicts or disasters that threaten all of global civilization.  Said more bluntly, technology in the Information Age and beyond is too dangerous and at the same time so easily available that we have to redefine how we govern.
+Our scientific knowledge and advances in technology have grown too powerful to remain unchecked and unrestrained.  Continued extreme and irrational actions and behaviors within and among global powers will lead to conflicts or disasters that threaten all of global civilization.  Said more bluntly, technology in the Information Age and beyond is too dangerous and so easily available that we have to redefine how we govern and how we treat each other as human beings.
 
 Tribal behavior, isolationism, extremism, class divisions, corruption of power, seditious rhetoric, undisciplined release of new technologies, and lack of controls around existing destructive applications of science and technology are all unbelievably irrational and irresponsible.  Economic and political leaders who ignore the need to change how we govern and innovate in a modern age are complicit in the tragedies and destruction that will follow.  It is not only irrational and irresponsible to maintain a status quo in the face of such danger, it approaches betrayal and treason, not just of country but of mankind.
 
@@ -16,7 +16,7 @@ Global powers must rise above tribalism and make efforts to eliminate corruption
 
 This treatise is a call for rational, purposeful, ethical and cooperative governance in an age of increasing dangers of unaparalleled magnitude.  With our creativity, knowledge and innovative spirit, we can work together with purpose, recognizing that we are not a species of many tribes.  We are but one tribe.  One humanity.  We owe our allegiance and patriotism to our world and to all of mankind.  Nothing else is sustainable.  Nothing else is rational. 
 
-### 1.0.1. Modern Challanges
+### 1.0.1. Artificial Threats: The Distractions
 
 #### 1.0.1.1. The Tragedy of Tribalism
 Tribalism served humanity well as a survival strategy for many millennia during times of true scarcity and before modern medicine.  Some aspects of tribalism in the form of regional social units are still beneficial and help us to thrive as individuals. Advances in communication and transportation over centuries of human history allowed for tribes to grow beyond a small patch of land to larger and larger geographic areas.  Larger tribes introduced systems for managing resources and protecting each other.  With such widespread stability, greater advancements in human knowledge were possible.  Thus, tribalism served a vital role in human history.
@@ -47,8 +47,8 @@ Since the onset of the Information Age, the wealthy and the powerful have had ac
 
 Political parties, over time, succumb to private interests, greed, corruption of power and the influence of money.  The desires to win, to achieve power or to hold on to power push parties toward extremes.  As parties move toward ideological extremes, they portray other parties as enemies rather than fellow citizens with different views or solutions to a problem.  This results in one of two conditions: public policy fluctuations grow more extreme as political parties become more polarized; or, parties lose the ability to work together, leading to a paralyzed or dysfunctional government.  Both conditions easily allow corruption of the government and other institutions.  Both conditions are inefficient and counterproductive, and they lead to loss of resources, opportunities, and lives.
 
-### 1.0.2. Timeless Challenges
-Looking beyond the dangers we have brought upon ourselves, humanity faces real and timeless challenges, all of which are resolvable through changing attitudes or applied technology:
+### 1.0.2. Existential Threats: Timeless Challenges
+Looking beyond the dangers we have brought upon ourselves, humanity faces irrefutable existential threats, all of which are addressable through changing attitudes or applied technology:
 
 - Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
 - Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and supervolcanoes threaten human survival.
@@ -65,7 +65,7 @@ This treatise describes a political philosophy and a framework for creating prin
 
 While it could be used as a party platform, this framework is intended to transcend political parties.  The goal of this treatise is to define the philosophy and framework that will minimize the influence of tribalism, break down artificial barriers that have led to conflict instead of cooperation, apply technology to lasting solutions to humanity's challenges, and transform the Information Age into a period of true prosperity and peace. 
 
-This treatise is not used to make the logical case for Rational Governance.  Justifications and arguments can be held in separate dissertations, essays and other outlets.  This document provides the definitions and framework for governing rationally in the Information Age and beyond.  We can and must focus on humanity's timeless challenges instead of the contrived, wasteful, damaging, petty conflicts that have persisted only give greedy, narcissistic and corrupt politicians a base of power.
+This treatise is not used to make the logical case for Rational Governance.  Justifications and arguments can be held in separate dissertations, essays and other outlets.  This document provides the definitions and framework for governing rationally in the Information Age and beyond.  We can and must focus on humanity's existential threats instead of squabbling with each other over contrived, wasteful, damaging, petty conflicts that have persisted only give to greedy, narcissistic and corrupt politicians a base of power.
 
 ### 1.0.4. Document Structure
 This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.

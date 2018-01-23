@@ -38,6 +38,13 @@ Capitalism is the desired economic system for a free and open democracy, but cap
       -  In the race to the bottom, low prices are achieved at the expense of quality and through exploitation of human labor.
       -  A prosperous economy that ignores or abuses unstable or struggling economies creates deep class divisions in a society and global civilization.
       -  Life-saving products and services are treated as commodities instead of basic human rights, transferring monetary value onto human lives.
+      
+-  *__2.9.2.6. Free Market Capitalism Introduces Computing Risk__*
+      -  Computing systems are pervasive and directly or indirectly control all aspects of public and private life.
+      -  Lack of standards in software design and implementation introduces security and performance risks.
+      -  Lack of governance among free and open software that are in broad use introduces security and performance risks.
+      -  Lack of standard controls around the exchange of information introduces security, finanancial and privacy risks.
+      -  Lack of controls and transparency around the use of private information introduces security, financial and privacy risks.
 
 ### 2.9.3. Doctrine
 Capitalism is the desired economic system, but public policy must have priority over economic policy, and capitalism must not replace the values or the identity of a nation.  Capitalism must have checks and balances in order to remain an instrument in service of the people instead of a vehicle that benefits a few at the expense of the majority.  Checks and balances start with the recognition that the economy is an instrument, not a way of life.  An economy exists to support the political philosophy of a nation, not the other way around.  Once the economy is confused as a political philosophy or an end unto itself, the nation and its political philosophy will suffer.  The economy should not drive public policy.  Free markets, corporations and profit should not be given more privilege than human lives.  No economic system can replace responsible public policy and planning.  A nation focused solely on its economy will lose its values, the financially secure will give away their rights in exchange for baubles and trinkets and toys, and the financially insecure will suffer.  A nation focused solely on its economy will lose the trust of its people, even those who benefit from it.
@@ -55,22 +62,24 @@ Capitalism is the desired economic system, but public policy must have priority 
 #### 2.9.3.4. Public policy must provide mechanisms to identify competing technology standards early and assist in unification behind the proper standard in order to prevent waste and to move technology forward more efficiently.
 #### 2.9.3.5. Regulation is necessary but must be rational and predictable.
 #### 2.9.3.6. Public policy must provide incentives to produce and consume quality goods instead of low-cost goods.
-#### 2.9.3.5. Public policy must provide incentives to produce commodities and goods that are socially and environmentally beneficial.
+#### 2.9.3.7. Public policy must provide incentives to produce commodities and goods that are socially and environmentally beneficial.
 -  Tax policy providing a schedule of rates for tax deductions for R&D can be used to encourage the development of commodities and goods in some areas and discourage the development in others.
 -  Examples of socially or environmentally beneficial: 
       -  Renewable energy products and services
       -  High yield, nutritious crops that do not deplete an ecosystem
       -  Vaccinations and treatments for infection
 
-
-#### 2.9.3.5. Public policy must provide deterrents to discourage production of commodities and goods that are socially or environmentally wasteful or harmful.
+#### 2.9.3.8. Public policy must provide deterrents to discourage production of commodities and goods that are socially or environmentally wasteful or harmful.
 -  Tax policy that eliminates any tax deductions for R&D outside of those on a schedule of rates.
 -  Examples of socially or environmentally wasteful or harmful: 
       -  Crops that damage an ecosystem
       -  Chemical pesticides
       -  Resource extraction that damages an ecosystem or produces waste that harms an ecosystem
 
-#### 2.9.3.5. Public policy must not provide additional incentive or reward to the production of luxury commodities and goods that are otherwise socially or environmentally neutral.
+#### 2.9.3.9. Public policy must not provide additional incentive or reward to the production of luxury commodities and goods that are otherwise socially or environmentally neutral.
+
+#### 2.9.3.10. Public policy must support the creation of a body of standards and controls governing software systems.
+-  Robust tools for auditing software applications, services and systems for security and performance flaws must be freely available, and the results of such audits must be made publicly available for any commercial software application, service or system.
 
 
 
