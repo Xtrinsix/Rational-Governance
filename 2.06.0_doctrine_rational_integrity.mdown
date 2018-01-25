@@ -49,3 +49,6 @@ A rigorous process of scrutiny must be applied to all proposals to create or cha
 
 #### 2.6.3.5. Neutral Policy must maintain consistency with other policies.
 -  When creating neutral policy, an independent body should be consulted to ensure consistency with existing policy, ethics and norms.
+
+#### 2.6.3.6. Policy monitors must be independent entities.
+-  Entities that monitor policy or measure its effectiveness must be isolated from influence by political office.
