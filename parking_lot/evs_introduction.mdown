@@ -1,0 +1,178 @@
+Extrinsics Value System
+=======================
+
+Introduction: The Challenges of Measuring Social Virtue
+-------------
+
+Humans are social creatures and tribal by nature.  While the merits of tribal behavior may be disputable, tribal instincts in humans drive us to measure all others by their social virtue.  Social virtue is the reflection of the perceived moral and ethical character of an individual as well as the measure of that individual's contributions to society.  These are all subjective notions.  Different tribes and social groups have differing standards for moral and ethical behavior.  The measure of one's contribution to society is subject to potentially dishonest social signaling as well as biases towards or against intrinsic properties that are perceived to have value to that society.
+
+Intrinsic properties are the set of all qualities that are acquired outside of the control or consent of the individual.  For example, every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief. Some are defined at birth, some are developed during childhood through growth and other experiences before the person is capable of making rational, independent decisions.  Intrinsic properties also include any physical or mental afflictions forced upon an individual against the will of the individual, such as emotional or physical scars from an assault.  
+
+By contrast, extrinsic properties are those qualities acquired through rational and independent actions or choices.  Work experience and life skills, education, public records of actions and behavior, and intentional physical enhancements are but some examples of extrinsic properties.  
+
+Extrinsic behaviors are the rational and independent choices, actions, and decisions of a person.  Extrinsic properties are typically a record of extrinsic behaviors, whether recorded digitally, socially, on paper or on the person's own body.
+
+Intrinsic behaviors are normally immeasurable and undetectable.  These include motiviations, inner thoughts, moods and feelings.  Even if confessed or logically deduced, intrinsic behaviors are susceptible to misinterpretation even by the individual commiting them.  Intrinsic behaviors, while real and powerful, can never be measured or quantified accurately.  THe most sincere assertion of truth about intrinsic behavior may be a lie, even if it is unintentional and the result of a misunderstanding of one's own motivations.
+
+Composite properties are derived from the combination of intrinsic properties and extrinsic properties and behaviors.  Vision and hearing are such composite properties, both being a combination of innate physical characteristics and the behaviors over one's lifetime that affect the health and strength of the physical systems involved.
+
+There are important distinctions between the different types of properties and behaviors:
+
+Intrinsic properties describe who you are.
+Extrinsic properties describe what you have chosen to do.
+
+A third classification exists as a hybrid between the two.  
+
+
+
+The Extrinsics Value System provides a system for unbiased value judgements. The virtue of an extrinsic behavior or an extrinsic property is measured independently of any entity exhibiting or acquiring that behavior or property, and thus all entities sharing that property share the same associated value judgement. In this system of valuation, actions, behaviors, and decisions may be considered rationally without the entanglement of sentiment or bias for the entity responsible for those actions, behaviors or decisions. This leads to a more honest and rational measure of a person or institution.
+
+Public policy and any honest personal code of ethics should avoid considerations of intrinsic properties when judging the worth or character of an individual. Instead, a rigorous examination of extrinsic properties should should inform opinion.
+
+
+Entities
+--------
+
+### People
+
+
+### Institutions
+* **_Businesses_**
+* **_Governments_**
+
+
+
+Properties and Behavior
+-----------------------
+
+### Intrinsic Properties
+Intrinsic properties have two classifications: 
+
+* **_Innate_**
+	* existing from the time of the entity's creation
+	* do not easily change without the applications of ethically questionable science and medicine
+* **_Acquired_**
+	* developed as a result of experiences and circumstances beyond the control of the entity
+	* often developed before the entity has independence of choice or rationality of thought
+	* may be developed later in life as the result of (physical or emotional) trauma, coercion or various forms of assault
+
+### Extrinsic Behavior
+Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
+
+### Extrinsic Properties
+
+Extrinsic properties are the result of extrinsic behavior.  Extrinsic properties have two classifications:
+
+* **_Primary_**
+	* measured directly and objectively
+	* intentionally acquired physical characteristics (body modifications, some indications of fitness) and objectively measurable skills (surgical skills, technical skills, math skills, language skills, etc)
+	* directly observable, quantifiable or qualitatively measurable
+* **_Secondary_**
+	* measured indirectly and subjectively
+	* indirectly observable through evidence of extrinsic behavior (compassion, loyalty, initiative, etc)
+	* often described with pairs of opposing terms: loyal vs disloyal, ethical vs unethical, compassionate vs indifferent, etc.
+
+
+### Composite Properties
+
+Some properties are composites of more than one property type.  Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties. Examples: gender, sexuality, religious belief. Extrinsic behavior is driven by motivation, which comes in many forms. Extrinsics does not attempt to catalogue or measure motivation. Any attempt to assess motivation in a human is inexact at best.
+
+#### Innate Intrinsic + Primary Extrinsic
+Innate properties that are directly effected over time by extrinsic behavior, resulting in a composite of innate intrinsic and primary extrinsic properties
+
+Examples:
+
+	* Vision
+	* Hearing
+
+#### 
+
+Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties.
+
+Examples:
+
+	* gender
+	* sexuality
+	* religious belief
+
+
+### Motivation
+
+Extrinsic behavior is driven by motivation, which comes in many forms. Extrinsics does not attempt to catalogue or measure motivation. Any attempt to assess motivation in a human is inexact at best.
+
+
+### Value Judgements
+
+It is fair and rational to place value judgements on extrinsic properties, but only if the judgements are placed on those properties without the context of which individuals have acquired those properties. Sentiment and bias interfere with proper judgement of extrinsic qualities when viewed within the context of an individual. All questions of intent and degree being equal, the same action, performed by different entities, must carry the same value judgement, and both entities must equally acquire the corresponding value judgements of the action.
+
+These distinctions are necessary for rational value judgements. It is irrational to judge or to restrict opportunities based on intrinsic properties. It is rational to assign value to extrinsic behaviors and extrinsic properties. It is rational to assign value judgements to extrinsic behaviors and extrinsic properties. It is irrational to conflate the intrinsic values of an individual with the value judgements given to extrinsic properties. It is rational to require specific intrinsic properties in order to qualify for an opportunity (e.g. male or female, above a certain age, within a certain height range, etc) if those properties may objectively be considered fundamental qualifications for the opportunity.
+
+Said simply: Extrinsic behaviors and properties must be assessed independently of any individual. You can judge extrinsic behaviors of an individual, but those judgements must apply to the same extrinsic behaviors irrespective of the individuals exhibiting those behaviors. Judge the behaviors, not the individual. Do not judge the intrinsic properties of an individual. Social attraction (physical or otherwise) will naturally consider intrinsic and extrinsic properties. Institutional and public policy must not discriminate based on intrinsic properties.
+
+### Extrinsics and Individuals
+
+Extrinsics makes a clear distinction between intrinsic and extrinsic properties of individuals, and attempts a clear separation of extrinsic properties from the individuals who acquire them. In applying value judgements to extrinsic properties and not the individual, the justice system can be more just. [Actions, behaviors and decisions should be on trial]
+
+Intrinsic properties of individuals cannot be changed without the questionable application of science, if such change can be achieved at all. Intrinsic properties of individuals include, but are not limited to
+
+* genetics (innate physical qualities, the presence or absence of disease)
+* circumstances of birth (socioeconomic background, birthplace, ancestry)
+* race
+* age
+* gender*
+* sexuality*
+* religious belief*
+
+Gender, sexuality and religious beliefs are special cases.
+
+Gender is normally determined at birth, either through normal biology or through selection in cases where an infant is born with ambiguous or incompletely formed sex organs. Later in life, applied science and medicine may change the gender of an individual. With such ambiguity, the simple and most direct case should be considered. The assumption should be that gender is innate with the understanding that there may be exceptions.
+
+Sexual preferences can be formed at birth or influenced in early life such that the distinction between innate sexuality and acquired sexuality can be blurred. With such ambiguity, the simple and most direct case should be considered. The assumption should be that sexual preference is innate with the understanding that there may be exceptions.
+
+Religious belief is not an innate quality of an individual, but for many, religion is introduced so early and so often in life that the individual is given no conscious choice but to adopt those beliefs. It is true that many adopt religious beliefs or change religious beliefs as an adult. With such ambiguity, the simple and most direct case should be considered. The assumption should be that religious belief is acquired in such a way that it should be considered an intrinsic property of an individual.
+
+Extrinsic properties of individuals are acquired over time as the results of actions, behavior and decisions. These include objectively measurable qualities and subjective qualities that can only be measured indirectly.
+
+Extrinsic properties:
+
+* physical enhancements or modifications
+* talents and skills
+* varieties of wisdom and experience
+* character
+* citizenship
+* community
+
+
+Extrinsic actions, behaviors and decisions:
+
+* Intentional body modifications
+* Education
+* Work experience
+* Financial decisions
+* Publicly recorded actions, specifically actions affecting other individuals or institutions or the rights of such
+* Publicly recorded behavior, specifically behavior affecting other individuals or institutions or the rights of such
+* Publicly recorded decisions, specifically decisions affecting other individuals or institutions or the rights of such
+
+
+### Extrinsics and Institutions
+
+Institutions are not people.
+
+### Extrinsics and Public Policy
+
+Rational and fair public policy must ignore the intrinsic properties of an individual. There may be times when policy will address an imbalance or an injustice involving the intrinsic properties of an individual or group. Barring such responses to a need, public policy should remain neutral in regard to intrinsic properties of individuals.
+
+### Extrinsics and Liberty
+
+All entities should be accorded the rights of Personal or Regional Liberty regardless of intrinsic properties. Only extrinsic properties are cause for forfeiture of these rights.
+
+
+Math
+------------------------
+
+### Tribal behavior
+
+Logical fallacies of tribal behavior that lead to incorrect moral and ethical valuation:
+
+Members of the tribe have an inherently 
+
