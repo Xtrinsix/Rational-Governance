@@ -7,7 +7,7 @@ Every human life has the same value and must be given the same dignity and respe
 ### 2.2.2. Assertions
 -  *__2.2.2.1. Beyond the overall ecosystem that sustains humanity, time and human life are the most precious known commodities.__*
 -  *__2.2.2.2. Individual human lives are the building blocks of all social structures.__*
--  *__2.2.2.3. Less than a tenth of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, but every individual has the potential to help a social structure succeed.__*
+-  *__2.2.2.3. While a tiny fraction of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, every individual has the potential to help a social structure succeed.__*
 -  *__2.2.2.4. No one can predict the success or degree of success of a single person.__*
 -  *__2.2.2.5. The full impact of an individual is often not felt until late in life.__*
 -  *__2.2.2.6. Human history is not a zero-sum game: Social or historical success for one individual does not diminish the success of another.__*
@@ -32,10 +32,10 @@ Every person must be allowed to live a normal human lifespan.  See section 4 for
 Barring disease, natural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing as long as this does not limit or interfere the intrinsic rights of other individuals.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  Due to the irreversible nature of such a decision, any ambiguity in making such a decision should favor life over death.
 
 #### 2.2.3.3. The right to regulate access to one’s body (AC*)
-Every person must have sovereignty over their own bodies, deciding who, how, when and why any one or any thing may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.
+Every person must have sovereignty over their own bodies, deciding who, how, when and why any other individual or instrument may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.
 
 #### 2.2.3.4. The right to free expression of thought (AC)
-Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes expression of thought from speech or other communication over any medium that coerces, or that violates or interferes with any other personal right, or encourages others to violate or interfere with any other personal right.  See section 4 for further definitions of **[unprotected speech, coercion, propaganda]** necessary for a clear understanding of this right.
+Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes such expression of thought from speech or other communication over any medium that coerces, that violates or interferes with any other personal right, or that encourages others to violate or interfere with any other personal right.  See section 4 for further definitions of **[unprotected speech, coercion, propaganda]** necessary for a clear understanding of this right.
 
 #### 2.2.3.5. The right to freedom of movement (A*)
 Every person must have freedom from restraint or captivity, and every person must have the freedom to travel unrestrained through public areas.  This is not a guarantee of access to personal property that would facilitate the travel.  This is a guarantee that so long as an individual has the resources to do so, an individual may travel freely through public areas and that intrinsic qualities may not be considered a barrier to access.  See section 4  for further definitions of **[personal property and public areas]** necessary for a clear understanding of this right.
