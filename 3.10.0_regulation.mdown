@@ -26,7 +26,7 @@ Businesses are motivated more by profit than concerns over environmental impact,
 Regulation is typically enacted in one of two ways.  The first is through direct passage of law by a legislative branch of government, and the second is through indirect legislation, by which the legislative branch creates a regulatory authority that is then directed by the executive branch.  Both forms are vulnerable to political whims, but the use of regulatory authorities creates a system that is more volatile.  A new administration can uphold, reverse, ignore or more aggressively pursue existing regulation, putting legislative power by proxy directly into the hands of the executive branch.  Concerns over the power regulatory agencies give to the executive branch are shared across the political spectrum.
 
 Similarly non-partisan is the concern that regulation can exist at national and local levels without any coordination, leading to an incohesive set of rules. 
-  
+
 The more politically polarizing concern is a core existential argument over the need for regulation.  Some argue that regulation is necessary to protect people and the environment from business, industry and sometimes government practices that value profit and risk over safety, stability and the environment.  Regulation also puts de facto controls around industries that tend toward monopolistic behavior.  Others argue that regulation is expensive and inhibit economic growth, often citing regulation as an impediment to job creation and innovation.
 
 
@@ -89,4 +89,5 @@ Grandfathering must be limited to a small number of years
 
 #### 3.10.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 
+
 

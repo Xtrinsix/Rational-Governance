@@ -2,7 +2,7 @@
 ---------------------------------
 
 ### 2.3.1. Summary
-By necessity of physiology, humans naturally self-organize into a variety of social structures, some temporary, some permanent or semi-permanent.  Humans are physically incapable of thriving in solitude among the elements.  We rely on other humans to provide support through goods or services, typically through some exchange that is agreed to be mutually beneficial.  The human psyche binds us to each other through social interactions so that we will remain close and cooperate and maintain the exchanges of goods and services that allow us to thrive collectively where we would fail individually.
+By necessity of our limited physiology, humans naturally self-organize into a variety of social structures, some temporary, some permanent or semi-permanent.  Humans are physically incapable of thriving in solitude among the elements.  We rely on other humans to provide support through goods or services, typically through some exchange that is agreed to be mutually beneficial.  The human psyche binds us to each other through social interactions so that we will remain close and cooperate and maintain the exchanges of goods and services that allow us to thrive collectively where we would fail individually.
 
 Thus, social structures are necessary for human survival and prosperity.  And, just as the human psyche binds us together into social units, the same bond grows between individuals and the social unit, itself, as if the social unit is another living thing.
 
@@ -12,7 +12,7 @@ Regional social units of each size generally bind the members together with a sh
 
 ### 2.3.2. Assertions
 -  *__2.3.2.1. Regional social units allow humanity to survive and thrive from year to year.__*
--  *__2.3.2.2. Regional social units develop personalities and other anthropomorphic features, grow organically, create bonds among the participants.__*
+-  *__2.3.2.2. Regional social units develop personalities and other anthropomorphic features, grow organically, and create bonds among the participants.__*
 -  *__2.3.2.3. Regional social units include civic regions defined by law and indigenous communities defined by geography and culture.__*
 -  *__2.3.2.4. Regional social units are porous and generally survive the loss of individuals without lasting consequence.__*
 -  *__2.3.2.5. Regional social units are fluid and unbounded.__*
@@ -45,3 +45,4 @@ Legally recognized civic regions must be allowed to represent their interests to
 Legally recognized civic regions must be allowed freedom to express the identify of the community through flags, art, print or electronic media, festivals, etc.  It is possible for members of a civic region to have allegiance to that region as well as other governing entities such as state and country.  No governing body may restrict the free expression of identity of any other legally recognized body within its jurisdiction.
 
 Inversely, individuals may not be forced to participate in such identification and may not be persecuted or expelled for abstaining.
+

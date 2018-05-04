@@ -74,3 +74,4 @@ This treatise is not used to make the logical case for Rational Governance.  Jus
 
 ### 1.0.4. Document Structure
 This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
+

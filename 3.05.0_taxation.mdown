@@ -36,7 +36,7 @@ Based on these observations, the policy recommendations are as follows:
 
 - Beyond the baseline tax bracket, additional taxes may be taken on income above the affluence line.
 - Affluence and Essential Social Services are addressed in §3.09 Affluence and Poverty.
-    
+  
 #### 3.5.4.1. Policy origination
 - Policy changes must be introduced by individuals with degrees or equivalent experience in economics.
 - Policy changes must be approved by independent entities with no stated political affiliation.
@@ -59,3 +59,4 @@ Based on these observations, the policy recommendations are as follows:
 
 #### 3.5.4.7. Policy remedies
 - What remedies should take place if policy changes prove ineffective 
+

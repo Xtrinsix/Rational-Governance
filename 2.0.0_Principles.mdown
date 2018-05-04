@@ -9,22 +9,17 @@ In order to achieve these goals, public policy must put humanity ahead of instit
 Rational Governance defines individual doctrines to be used as guides for principled and disciplined public policy.
 
 -  *__Doctrines of Intrinsic Liberty__*
-All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
-
+  All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
 -  *__20 Year Doctrine__*
-Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them. 
-
+  Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them. 
 -  *__Doctrine of Rational Integrity__*
-Public policy must be shaped by subject matter experts and must be considered within the scope of broader policy to ensure coherence and rational intent. 
-
--  *__Doctrine of Positive Merit__*
-A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
-
+  Public policy must be shaped by subject matter experts and must be considered within the scope of broader policy to ensure coherence and rational intent. 
 -  *__Doctrine of Truth from Authority__*
-Rational public policy must be based on transparency, truth and availability of complete information.
-
+  Rational public policy must be based on transparency, truth and availability of complete information.
+-  *__Doctrine of Positive Merit__*
+  A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
 -  *__Doctrine of Responsible Capitalism__*
-Good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
+  Good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
 
 ### 2.0.2. Priorities and Resolution of Conflicts
@@ -36,3 +31,4 @@ The other doctrines are Secondary Principles with no particular hierarchy or pre
 Given any conflicts or ambiguity, preservation of life and civilization must take priority along with the preservation of existing liberties to the greatest extent possible.
 
 Where ambiguity is found, definitions must be adopted for clarity in order to move forward.
+

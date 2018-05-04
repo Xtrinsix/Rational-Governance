@@ -19,36 +19,38 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
       -  Positive Policy enacted without scrutiny may benefit some at the expense of others.
       -  Negative Policy enacted without scrutiny may punish some to the benefit of others.
 -  *__2.6.2.5. Positive and Negative Policy have the potential for unforeseen consequences.__*
-      -  Policy enacted without rational consideration with expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
+      -  Policy enacted without rational consideration or expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
 -  *__2.6.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*
 -  *__2.6.2.7. Policy creators are inherently biased toward the policy in question.__*
       -  An individual or entity creating policy cannot judge the policy's consistency, ethics or adherence to norms.
 
 ### 2.6.3. Doctrine
-A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.
+A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of the broader policy to ensure a coherent overall system.
 
 #### 2.6.3.1. Positive and Negative policy must have clearly defined goals.
 -  Proposals for policy creation or change must start with a clearly defined problem (or set of problems) to be solved or a clearly defined goal (or a set of goals) to be achieved.
 
 #### 2.6.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.
--  Positive and Negative policy must meet rationally objective scrutiny through an organized review.
+-  Positive and Negative policy must meet rationally objective scrutiny through an organized review board.
 -  Such a review board must include a hybrid entity of mixed public, private and academic members with expert domain knowledge.
 -  The results of such scrutiny must be easily accessible to the public.
+-  Positive and Negative Policy review must answer these questions:
+   - Who is harmed by the current policy or current lack of policy?
+   - Who benefits by the current policy or current lack of policy?
+   - Who benefits from the creation of new policy?
+   - Who is harmed by the creation of new policy?.
+   - Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
+-  Considerations of benefits and harm must include physical, political, social and economic factors
 
-#### 2.6.3.3. Positive and Negative Policy review must answer these questions:
--  Who is harmed by the current policy or current lack of policy?
--  Who benefits by the current policy or current lack of policy?
--  Who profits politically or economically from the creation of the policy?
--  Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
-
-#### 2.6.3.4. Positive and Negative policy must include clearly defined monitors, measures and remedies.
+#### 2.6.3.3. Positive and Negative policy must include clearly defined monitors, measures and remedies.
 -  New or existing entities must be defined to monitor new policy to ensure its effectiveness and to detect unforeseen consequences or signs of corruption.
 -  Measurements of success must be defined at the time that policy is created.
 -  Remedies must be defined to mitigate consequences or corruption.
 -  Remedies must be defined to address the failure of the policy to meet the intended objectives.
 
-#### 2.6.3.5. Neutral Policy must maintain consistency with other policies.
+#### 2.6.3.4. Neutral Policy must maintain consistency with other policies.
 -  When creating neutral policy, an independent body should be consulted to ensure consistency with existing policy, ethics and norms.
 
-#### 2.6.3.6. Policy monitors must be independent entities.
+#### 2.6.3.5. Policy monitors must be independent entities.
 -  Entities that monitor policy or measure its effectiveness must be isolated from influence by political office.
+
