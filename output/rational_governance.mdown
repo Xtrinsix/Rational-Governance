@@ -1,10 +1,12 @@
-Rational Governance
-===================
+# Rational Governance
 
 A framework for governance in an age of advanced technology and global civilization.
 
-1.0. Introduction
-------------------
+-------------------------------
+
+  
+
+## 1.0. Introduction
 
 The human race in the twenty-first century faces global threats of enormous magnitude: existential threats to human civilization and the ecosystems that sustain us, careless and naive use of new technology without understanding side-effects or consequences, and political threats resulting from weak leadership, corruption of power and deepening tribal behavior among history's largest populations.  
 
@@ -46,7 +48,7 @@ Laws, institutions, police forces and attitudes toward detection and prevention 
 Humanity innovates without self-discipline or planning.  The human race has an enormous capacity for innovation and exploration.  We are creative and intelligent and eager to create new things or discover things first.  We race to innovate and to implement new technology immediately after each scientific advancement without a pause to consider whether we should rather than whether we can.  Such innovation without discipline grows increasingly dangerous as technology improves the scale of production, the magnitude of potential impact, and the broad availability of any innovation.  Accidents and unforeseen consequences are just as dangerous as malicious use, but we innovate and implement and mass produce without adequate controls around safety and sustainability.  The reliance on detection and correction of problems after new technology is already broadly available is irrational, irresponsible, inefficient and willfully dangerous.  What good are short term profits or a competitive advantage or a new convenience if we poison the air, food or water supply for any population of humans?
 
 #### 1.0.1.6. Consolidation and Corruption of Economic and Political Power
-Since the onset of the Information Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and inviduals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, institutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power at the expense of smaller companies, the middle class and the poor.
+Since the onset of the Information Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and individuals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, institutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power at the expense of smaller companies, the middle class and the poor.
 
 Political parties, over time, succumb to private interests, greed, corruption of power and the influence of money.  The desire to win, to achieve power or to hold on to power push parties toward extremes.  As parties move toward ideological extremes, they portray other parties as enemies rather than fellow citizens with different views or solutions to a problem.  This results in one of two conditions: public policy fluctuations grow more extreme as political parties become more polarized; or, parties lose the ability to work together, leading to a paralyzed or dysfunctional government.  Both conditions easily allow corruption of the government and other institutions.  Both conditions are inefficient and counterproductive, and they lead to loss of resources, opportunities, and lives.
 
@@ -54,7 +56,7 @@ Political parties, over time, succumb to private interests, greed, corruption of
 Looking beyond the dangers we have brought upon ourselves, humanity faces irrefutable existential threats, all of which are addressable through changing attitudes or applied technology:
 
 - Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
-- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and supervolcanoes threaten human survival.
+- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and super-volcanoes threaten human survival.
 - Innovation followed by implementation and production without adequate controls or testing generates new threats that must be managed.
 - Economic insecurity, whether perceived or real, creates deep class divisions in a society and global civilization.
 - Institutional bias, whether perceived or real, creates deep class divisions in a society and global civilization.
@@ -75,8 +77,11 @@ This treatise is not used to make the logical case for Rational Governance.  Jus
 ### 1.0.4. Document Structure
 This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
 
-2.0. Principles
-------------------
+-------------------------------
+
+  
+
+## 2.0. Principles
 
 ### 2.0.1. Summary
 Rational, principled and disciplined public policy has a focus on the future and is mindful of the past while resolving issues of the present day.  Personal and regional identity can be preserved in the age of globalization.  Human liberty can be protected without sacrificing economic prosperity.  Universal economic security can be achieved while still allowing for accumulation of wealth.  Democracy and capitalism can work for the greater common good, not just for the benefit of the few.  Convenience and luxury are not worth the future of humanity or the planet Earth.
@@ -86,22 +91,17 @@ In order to achieve these goals, public policy must put humanity ahead of instit
 Rational Governance defines individual doctrines to be used as guides for principled and disciplined public policy.
 
 -  *__Doctrines of Intrinsic Liberty__*
-All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
-
+  All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
 -  *__20 Year Doctrine__*
-Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them. 
-
+  Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them. 
 -  *__Doctrine of Rational Integrity__*
-Public policy must be shaped by subject matter experts and must be considered within the scope of broader policy to ensure coherence and rational intent. 
-
--  *__Doctrine of Positive Merit__*
-A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
-
+  Public policy must be shaped by subject matter experts and must be considered within the scope of broader policy to ensure coherence and rational intent. 
 -  *__Doctrine of Truth from Authority__*
-Rational public policy must be based on transparency, truth and availability of complete information.
-
+  Rational public policy must be based on transparency, truth and availability of complete information.
+-  *__Doctrine of Positive Merit__*
+  A political or social position is only valid if it has merits that can be asserted or defended without contrast or opposition to another policy, position, institution, group or individual.
 -  *__Doctrine of Responsible Capitalism__*
-Good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
+  Good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
 
 
 ### 2.0.2. Priorities and Resolution of Conflicts
@@ -114,8 +114,11 @@ Given any conflicts or ambiguity, preservation of life and civilization must tak
 
 Where ambiguity is found, definitions must be adopted for clarity in order to move forward.
 
-2.1. The Doctrines of Intrinsic Liberty
----------------------------------
+-------------------------------
+
+  
+
+## 2.1. The Doctrines of Intrinsic Liberty
 
 ### 2.1.1. Summary
 All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three aspects: the individual, regional social units, and global civilization.
@@ -136,8 +139,11 @@ Regional social units, while important to human survival, are unique constructio
 
 Furthermore, the rights of the individual must be protected except where the exercise of a right would violate the liberty of others.  For example, the right to free expression does not extend to the point where such expression would cause bodily harm or duress to another individual.
 
-2.2. The Doctrine of Intrinsic Personal Liberty
----------------------------------
+-------------------------------
+
+  
+
+## 2.2. The Doctrine of Intrinsic Personal Liberty
 
 ### 2.2.1. Summary
 Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on the lives of others, regional societies and global civilization.
@@ -199,15 +205,18 @@ Every person has the right to retain and protect legally obtained property. Inte
 #### 2.2.3.10. The right to religion (AC)
 Individuals must have the right to choose and practice one’s religion of choice.  It is reasonable for the tenants of a recognized religion to require adjustments to dress codes, diet, and other social norms that employers and public institutions must respect.
 
-This right, as with any others, may not limit or interfere with the rights of other individuals.  It is important to distinguish between the interference with the rights of others and a fully informed and uncoerced choice to give up a personal right in observance of a religious custom.
+This right, as with any others, may not limit or interfere with the rights of other individuals.  It is important to distinguish between the interference with the rights of others and a fully informed and un-coerced choice to give up a personal right in observance of a religious custom.
 
 #### 2.2.3.11. The right to non-discrimination
 Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population disadvantaged by particular intrinsic properties.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
 
 This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of intrinsic qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.
 
-2.3. The Doctrine of Intrinsic Regional Liberty
----------------------------------
+-------------------------------
+
+  
+
+## 2.3. The Doctrine of Intrinsic Regional Liberty
 
 ### 2.3.1. Summary
 By necessity of our limited physiology, humans naturally self-organize into a variety of social structures, some temporary, some permanent or semi-permanent.  Humans are physically incapable of thriving in solitude among the elements.  We rely on other humans to provide support through goods or services, typically through some exchange that is agreed to be mutually beneficial.  The human psyche binds us to each other through social interactions so that we will remain close and cooperate and maintain the exchanges of goods and services that allow us to thrive collectively where we would fail individually.
@@ -254,8 +263,11 @@ Legally recognized civic regions must be allowed freedom to express the identify
 
 Inversely, individuals may not be forced to participate in such identification and may not be persecuted or expelled for abstaining.
 
-2.4. The Doctrine of Intrinsic Global Liberty
----------------------------------
+-------------------------------
+
+  
+
+## 2.4. The Doctrine of Intrinsic Global Liberty
 
 ### 2.4.1. Summary
 Individual human lives have interests pertaining to the survival and success of the self.  Civic and indigenous regions have interests pertaining to the survival and success of as many of its members as possible.  Global civilization, as a singular entity, has interests pertaining to the survival and success of as many of its civic and indigenous regions as possible as well as the preservation of knowledge, culture, art and other achievements of humanity throughout time.
@@ -283,15 +295,18 @@ Regardless of subjective merit, human art must be preserved when and if practica
 #### 2.4.3.4. The right to preservation of natural wonders
 Humanity has the right to the preservation of natural wonders on earth and elsewhere.  Just as humans appreciate man-made art, we also appreciate the unintended beauty found in nature.  Once destroyed, these wonders can never be recreated.  As such, humanity has the right to the protection of such natural wonders so that future generations may enjoy them.
 
-2.5. The 20 Year Doctrine
----------------------------------
+-------------------------------
+
+  
+
+## 2.5. The 20 Year Doctrine
 
 ### 2.5.1. Summary
-Humanity faces multiple existential threats that will materialize at unknown times which must be met with rational governance and unity of purpose.  Modern civilization has technology or the capability of developing technology that can help us face those threats, and humans achieve great things when motivated to work together toward a common goal.  However, tribalism, corruption, and other irrational motivations impede our progress.  Strong leaders and public policy can motivate a population of 7 billion creative and capable human minds to work together to face humanity's true threats and to solve our greatest problems, but political cowardice holds us back.
+Humanity faces multiple existential threats that will materialize at unknown times which must be met with rational governance and unity of purpose.  Modern civilization has the technology or the capability of developing the technology that can help us face those threats, and humans achieve great things when motivated to work together toward a common goal.  However, tribalism, corruption, and other irrational motivations impede our progress.  Strong leaders and public policy can motivate a population of 7 billion creative and capable human minds to work together to face humanity's true threats and to solve our greatest problems, but political cowardice holds us back.
 
 Most of the struggles and conflicts in the world within and between nations are based on artificial conditions brought about by irrational thought and actions. Poverty exists because we allow it.  War exists because of hubris, selfishness, greed, distrust, and tribalism.  There are no true scarcities in the modern world that necessitate war.  We have the knowledge and facilities to move people to resources or resources to people.  We have economies with unbalanced wealth distribution.  We have power centers based on fear and brutality that must persist with brutality in order to maintain a status quo.  We have solutions for renewable energy that can power the world if we could set aside profit motives and special interests and just agree as a society to switch to those power sources.  Instead, we systematically maintain that status quo to benefit the few at the expense of many.
 
-Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them.  At any moment, an undeniable, imminent threat to mankind with a discrete deadline could be discovered, and global powers will either rise together to meet the challenge or fail to cooperate and put us all at risk.  Global cooperation on issues has been rare and largely superficial.  The nations of the world need to learn to work together to solve real problems with real solutions, and citizens within the nations need to learn to stop fighting amongst themselves over trivial issues. If humanity does not learn to work together rationally, with purpose and without the corruption or self-interests on known issues for which we have prior knowledge, how can we trust that we can meet future challenges with real deadlines?
+Public policy should and must treat known existential threats as if we have a fixed 20 year deadline for solving them.  At any moment, an undeniable, imminent threat to mankind with such a fixed deadline could be discovered, and global powers will either rise together to meet the challenge or fail to cooperate and put us all at risk.  Global cooperation on issues has been rare and largely superficial.  The nations of the world need to learn to work together to solve real problems with real solutions, and citizens within the nations need to learn to stop fighting amongst themselves over trivial issues. If humanity does not learn to work together rationally, with purpose and without the corruption or self-interests on known issues for which we have prior knowledge, how can we trust that we can meet future challenges of which we are not aware?
 
 The first true 20 year deadline to an emergency could start tomorrow.  But, it might be just 10 years.  Or five.  Or one.  Is humanity ready?  Or will we be so consumed with petty causes and biases and tribalism that we care more about winning inconsequential fights than preserving the human race?
 
@@ -315,12 +330,15 @@ The first true 20 year deadline to an emergency could start tomorrow.  But, it m
 
 ### 2.5.3. Doctrine
 
-All nations, all factions, all tribes, all individuals holding an imbalance of power, need to think and act like we have a 20 year deadline.  We need to choose from the known problems facing humanity and decide to completely and fully solve them.  Treat them with the seriousness they deserve.  If we truly had 20 years and only 20 years to solve the problems, how would we, as a global society, behave differently?  How would we work together instead of in competition or isolation?  We do not need to lose our individual identities or regional pride.  We do not need to sacrifice our futures for the greater good.  We do not need to resort to state control of manufacturing or wealth. We do not need to give up free enterprise.  We do need to re-evaluate our priorities and our motivations.  We need strong leaders with unified policies that are not based on irrational motivations to guide the nations and end the irrational conflicts so we can work together toward common goals.
+All nations, all factions, all tribes, all individuals holding an imbalance of power, need to think and act like we have a fixed 20 year deadline for facing all known threats to mankind.  We need to choose from the known problems facing humanity and decide to completely and fully solve them.  We need to treat such issues with the seriousness they deserve.  If we truly had 20 years and only 20 years to solve the problems, how would we, as a global society, behave differently?  How would we work together instead of in competition or isolation?  We do not need to lose our individual identities or regional pride.  We do not need to sacrifice our futures for the greater good.  We do not need to resort to state control of manufacturing or wealth. We do not need to give up free enterprise.  We do need to re-evaluate our priorities and our motivations.  We need strong leaders with unified policies that are not based on irrational motivations to guide the nations and end the irrational conflicts so we can work together toward common goals.
 
 There are two sides to this doctrine.  In addition to facing all emergent global issues head on as.a global community, this doctrine forces a different perspective on most other policy.  In the face of true threats to the survival of humanity, we must look at conflict over smaller issues with skepticism.  For any political conflict, either within a nation or among nations, we must ask ourselves if that conflict is truly deserving of the time and energy we devote to it in the face of a true existential crisis?  We must always also ask ourselves who benefits from the current status quo.
 
-2.6. Doctrine of Rational Integrity
----------------------------------
+-------------------------------
+
+  
+
+## 2.6. Doctrine of Rational Integrity
 
 ### 2.6.1. Summary
 Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other irrational sentiments and emotions lead to bad policy decisions.  Public policy must not be created in the absence of rational and objective input from subject matter experts.  Public policy must always be created with consideration for the context of existing policies and institutions.  Irrational sentiments and emotions are often necessary and useful for generating the momentum, energy or political will to create or modify policy.  However, those same sentiments and emotions must not replace rational thought and deliberation when making policy decisions or when implementing policy through legislative or executive action.
@@ -340,136 +358,148 @@ Public policy must not be driven by sentimental or irrational concerns; fear, di
       -  Positive Policy enacted without scrutiny may benefit some at the expense of others.
       -  Negative Policy enacted without scrutiny may punish some to the benefit of others.
 -  *__2.6.2.5. Positive and Negative Policy have the potential for unforeseen consequences.__*
-      -  Policy enacted without rational consideration with expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
+      -  Policy enacted without rational consideration or expert knowledge may not solve the intended problem, may create worse problems, may be unsustainable and may be difficult to reverse.
 -  *__2.6.2.6. Good polices that are internally inconsistent or create inconsistencies in other policies can be as damaging as bad policy.__*
 -  *__2.6.2.7. Policy creators are inherently biased toward the policy in question.__*
       -  An individual or entity creating policy cannot judge the policy's consistency, ethics or adherence to norms.
 
 ### 2.6.3. Doctrine
-A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of broader policy to ensure a coherent overall system.
+A rigorous process of scrutiny must be applied to all proposals to create or change public policy.  Public policy must be created by or with approval from subject matter experts with training and knowledge on the subject of the policy.  Independent bodies must rate the effectiveness and cost of legislative or executive actions before the actions are executed.  Individual legislative and executive actions must be considered within the scope of the broader policy to ensure a coherent overall system.
 
 #### 2.6.3.1. Positive and Negative policy must have clearly defined goals.
 -  Proposals for policy creation or change must start with a clearly defined problem (or set of problems) to be solved or a clearly defined goal (or a set of goals) to be achieved.
 
 #### 2.6.3.2. A rigorous process of rationally objective scrutiny must be applied to all policy decisions.
--  Positive and Negative policy must meet rationally objective scrutiny through an organized review.
+-  Positive and Negative policy must meet rationally objective scrutiny through an organized review board.
 -  Such a review board must include a hybrid entity of mixed public, private and academic members with expert domain knowledge.
 -  The results of such scrutiny must be easily accessible to the public.
+-  Positive and Negative Policy review must answer these questions:
+   - Who is harmed by the current policy or current lack of policy?
+   - Who benefits by the current policy or current lack of policy?
+   - Who benefits from the creation of new policy?
+   - Who is harmed by the creation of new policy?.
+   - Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
+-  Considerations of benefits and harm must include physical, political, social and economic factors
 
-#### 2.6.3.3. Positive and Negative Policy review must answer these questions:
--  Who is harmed by the current policy or current lack of policy?
--  Who benefits by the current policy or current lack of policy?
--  Who profits politically or economically from the creation of the policy?
--  Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
-
-#### 2.6.3.4. Positive and Negative policy must include clearly defined monitors, measures and remedies.
+#### 2.6.3.3. Positive and Negative policy must include clearly defined monitors, measures and remedies.
 -  New or existing entities must be defined to monitor new policy to ensure its effectiveness and to detect unforeseen consequences or signs of corruption.
 -  Measurements of success must be defined at the time that policy is created.
 -  Remedies must be defined to mitigate consequences or corruption.
 -  Remedies must be defined to address the failure of the policy to meet the intended objectives.
 
-#### 2.6.3.5. Neutral Policy must maintain consistency with other policies.
+#### 2.6.3.4. Neutral Policy must maintain consistency with other policies.
 -  When creating neutral policy, an independent body should be consulted to ensure consistency with existing policy, ethics and norms.
 
-#### 2.6.3.6. Policy monitors must be independent entities.
+#### 2.6.3.5. Policy monitors must be independent entities.
 -  Entities that monitor policy or measure its effectiveness must be isolated from influence by political office.
 
-2.7. Doctrine of Positive Merit
----------------------------------
+-------------------------------
+
+  
+
+## 2.7. The Doctrine of Truth from Authority
 
 ### 2.7.1. Summary
-A political or social position is only valid if it has merits that can be asserted or defended through objective, rational argument without contrast or opposition to another policy, position, institution, group or individual.  Political and social authority are likewise valid only if earned through legitimate, unbiased means.  For political authority, this means aggressively fair and unbiased elections.  For social authority, this means displays of extrinsic behavior and qualities rather than intrinsic qualities such as gender, race and status of birth.
+Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
 
 ### 2.7.2. Assertions
--  *__2.7.2.1. A political or social position that cannot stand on its own merits is irrational and illegitimate.__*
--  *__2.7.2.2. Positive or Negative Policy change through indirect legislation, deceit or subterfuge is irrational and illegitimate.__*
--  *__2.7.2.3. Ad hominem attacks, circular reasoning, moral equivalence and other logical fallacies are irrational and illegitimate arguments for a position.__*
--  *__2.7.2.4. Gerrymandering is an illegitimate method of retaining power.__*
--  *__2.7.2.5. Electing politicians solely for their party affiliation is irrational.__*
--  *__2.7.2.6. A politically strategic policy without other positive merit is irrational and illegitimate.__*
+-  *__2.7.2.1. A free and open society can not exist without controls on propaganda and other forms of authoritative disinformation.__*
+-  *__2.7.2.2. Individuals holding public office do not enjoy the intrinsic liberty of free expression of thought while representing that office.__*
+-  *__2.7.2.3. Individuals seeking public office should be held to the same standards of those holding that public office.__*
+-  *__2.7.2.4. Individuals communicating officially on behalf of a public office or institution do not enjoy the intrinsic liberty of free expression of thought while representing that office or institution.__*
+-  *__2.7.2.5. Propaganda and other forms of authoritative disinformation do not qualify as free expression of thought.__*
+-  *__2.7.2.6. Transparency builds security and trust between a government and its citizenry.__*
+-  *__2.7.2.7. Secrecy creates insecurity and class divisions.__*
+-  *__2.7.2.7. Entertainment and opinion must not be confused as authoritative information.__*
 
 ### 2.7.3. Doctrine
+Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
+
+#### 2.7.3.1. A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information from a position of authority.
+-  Assertion of Truth must be defined.
+-  Assertion of Opinion must be defined.
+-  Source of Truth must be defined.
+-  Authoritative Information must be defined.
+
+#### 2.7.3.2. An openly funded entity must accredit Sources of Truth.
+#### 2.7.3.3. A Source of Truth must clearly identify its credentials along with any assertion of truth.
+-  Media outlets such as content aggregators must be credentialed in order to disseminate content from a Source of Truth.
+
+#### 2.7.3.4. A Source of Truth must clearly identify assertions of opinion as such.
+#### 2.7.3.5. An Assertion of Truth by a non-accredited entity may result in punitive actions.
+#### 2.7.3.6. False or misleading use of credentials may result in punitive actions.
+#### 2.7.3.7. Free Speech by individuals must be protected.
+-  Individuals clearly identifying as individuals are not subject to these standards.
+-  Individuals impersonating a credentialed entity may receive fines or other punitive actions.
+-  An authoritative Assertion of Truth is not Free speech and does not have the protections of Free Speech.
+
+#### 2.7.3.8. Punitive actions for Sources of Truth must include the following:
+-  False or misleading Assertions of Truth from a Source of Truth must be faithfully corrected in the same outlets with the same audience as soon as possible.
+-  Media outlets including aggregators publishing, broadcasting or otherwise disseminating the false or misleading Assertions of Truth must correct the assertions in the same outlet with the same audience as soon as possible after detection of the false or misleading Assertion of Truth.
+-  Outlets that fail to correct false or misleading Assertions of Truth will lose status as a Source of Truth.
+
+#### 2.7.3.9. Punitive actions for elected officials must include the following:
+-  False or misleading Assertions of Truth by elected officials must be faithfully corrected in the same outlets with the same audience as soon as possible.
+-  Elected officials who fail to correct false or misleading Assertions of Truth must not be allowed to publish, broadcast or otherwise disseminate other Assertions of Truth until making the correction.
+-  Corrections must take place before any other statements or the rest of the statements may be withheld from dissemination.
+
+#### 2.7.3.10. Dissemination of propaganda or other forms of authoritative disinformation must be a disqualification for holding public office.
+-  Political appointees responsible for a department found to violate its status as a Source of Truth must hold the department accountable for corrections or face removal from the appointment.
+-  Candidates for office found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face disqualification for holding office.
+-  Elected officials found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face removal from office.
+
+-------------------------------
+
+  
+
+## 2.8. Doctrine of Positive Merit
+
+### 2.8.1. Summary
+A political or social position is only valid if it has merits that can be asserted or defended through objective, rational argument without contrast or opposition to another policy, position, institution, group or individual.  Political and social authority are likewise valid only if earned through legitimate, unbiased means.  For political authority, this means aggressively fair and unbiased elections.  For social authority, this means displays of extrinsic behavior and qualities rather than intrinsic qualities such as gender, race and status of birth.
+
+### 2.8.2. Assertions
+-  *__2.8.2.1. A political or social position that cannot stand on its own merits is irrational and illegitimate.__*
+-  *__2.8.2.2. Positive or Negative Policy change through indirect legislation, deceit or subterfuge is irrational and illegitimate.__*
+-  *__2.8.2.3. Ad hominem attacks, circular reasoning, moral equivalence and other logical fallacies are irrational and illegitimate arguments for a position.__*
+-  *__2.8.2.4. Gerrymandering is an illegitimate method of retaining power.__*
+-  *__2.8.2.5. Electing politicians solely for their party affiliation is irrational.__*
+-  *__2.8.2.6. A politically strategic policy without other positive merit is irrational and illegitimate.__*
+
+### 2.8.3. Doctrine
 All Positive and Negative Policy and public social positions must have objective, rational assertions of positive merit.  Policies and social positions without objective, rational argument should be considered irrational, invalid, and ineligible for legislative or executive action.  Policies and positions that exist solely as opposition to another policy, position, institution, group or individual are to be considered irrational, invalid, and ineligible for legislative or executive action.
 
-#### 2.7.3.1. All Positive and Negative Policy change must have rational assertions of positive merit.
+#### 2.8.3.1. All Positive and Negative Policy change must have rational assertions of positive merit.
 
-#### 2.7.3.2. Sources of Truth must call attention to logical fallacies used to promote or defend policy.
+#### 2.8.3.2. Sources of Truth must call attention to logical fallacies used to promote or defend policy.
 
-#### 2.7.3.3. Neutral Policy instruments must not be used to effect Positive or Negative Policy change.
+- Sources of Truth, as described in the Doctrine of Truth, have a duty to publicly correct logical fallacies, lies and other forms of deception used to promote or defend policy.
+
+#### 2.8.3.3. Neutral Policy instruments must not be used to effect Positive or Negative Policy change.
   -  Intentional sabotage of existing law by manipulating or withholding funds in support of the law should be considered violations of such law.
 
-#### 2.7.3.4. Riders and other types of amendments to legislation that change policy but are unrelated to the original legislation should be abolished.
+#### 2.8.3.4. Riders and other types of amendments to legislation that change policy but are unrelated to the original legislation should be abolished.
   -  Riders bypass the legislative process.
   -  Riders are used as political extortion.
   -  Riders do not receive formal debates on merit, public comment or assessment of impact.
   -  Riders may go unnoticed in large bills, effectively allowing legislators to enact new laws in secret.
   -  Existing riders on existing legislation should be moved to separate pieces of legislation for new votes.
 
-#### 2.7.3.5. Earmarks on appropriation bills should be allowed as long as no policy changes are effected.
+#### 2.8.3.5. Earmarks on appropriation bills should be allowed as long as no policy changes are effected.
   -  Earmarks are effective negotiating tools.
   -  Earmarks should be capped to a percentage of the overall appropriation bill.
   -  Earmarks must be included in the assessment of impact of the appropriation bill.
   -  Earmarks may not enact new policy or carry any restrictions.
   -  Earmarks should be single allocations, not be recurring allocations of funds.
 
-#### 2.7.3.6. Elections must be securely and fairly managed.
+#### 2.8.3.6. Elections must be securely and fairly managed.
   -  Parties and individuals must earn authority through legitimate, unbiased elections
   -  Controls and policies around the execution of elections must be created, supported and enforced throughout a nation.
 
-2.8. The Doctrine of Truth from Authority
----------------------------------
+-------------------------------
 
-### 2.8.1. Summary
-Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
+  
 
-### 2.8.2. Assertions
--  *__2.8.2.1. A free and open society can not exist without controls on propaganda and other forms of authoritative disinformation.__*
--  *__2.8.2.2. Individuals holding public office do not enjoy the intrinsic liberty of free expression of thought while representing that office.__*
--  *__2.8.2.3. Individuals seeking public office should be held to the same standards of those holding that public office.__*
--  *__2.8.2.4. Individuals communicating officially on behalf of a public office or institution do not enjoy the intrinsic liberty of free expression of thought while representing that office or institution.__*
--  *__2.8.2.5. Propaganda and other forms of authoritative disinformation do not qualify as free expression of thought.__*
--  *__2.8.2.6. Transparency builds security and trust between a government and its citizenry.__*
--  *__2.8.2.7. Secrecy creates insecurity and class divisions.__*
--  *__2.8.2.8. Entertainment and opinion must not be confused as authoritative information.__*
-
-### 2.8.3. Doctrine
-Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
-
-#### 2.8.3.1. A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information from a position of authority.
--  Assertion of Truth must be defined.
--  Assertion of Opinion must be defined.
--  Source of Truth must be defined.
--  Authoritative Information must be defined.
-
-#### 2.8.3.2. An openly funded entity must accredit Sources of Truth.
-#### 2.8.3.3. A Source of Truth must clearly identify its credentials along with any assertion of truth.
--  Media outlets such as content aggregators must be credentialed in order to disseminate content from a Source of Truth.
-
-#### 2.8.3.4. A Source of Truth must clearly identify assertions of opinion as such.
-#### 2.8.3.5. An Assertion of Truth by a non-accredited entity may result in punitive actions.
-#### 2.8.3.6. False or misleading use of credentials may result in punitive actions.
-#### 2.8.3.7. Free Speech by individuals must be protected.
--  Individuals clearly identifying as individuals are not subject to these standards.
--  Individuals impersonating a credentialed entity may receive fines or other punitive actions.
--  An authoritative Assertion of Truth is not Free speech and does not have the protections of Free Speech.
-
-#### 2.8.3.8. Punitive actions for Sources of Truth must include the following:
--  False or misleading Assertions of Truth from a Source of Truth must be faithfully corrected in the same outlets with the same audience as soon as possible.
--  Media outlets including aggregators publishing, broadcasting or otherwise disseminating the false or misleading Assertions of Truth must correct the assertions in the same outlet with the same audience as soon as possible after detection of the false or misleading Assertion of Truth.
--  Outlets that fail to correct false or misleading Assertions of Truth will lose status as a Source of Truth.
-
-#### 2.8.3.9. Punitive actions for elected officials must include the following:
--  False or misleading Assertions of Truth by elected officials must be faithfully corrected in the same outlets with the same audience as soon as possible.
--  Elected officials who fail to correct false or misleading Assertions of Truth must not be allowed to publish, broadcast or otherwise disseminate other Assertions of Truth until making the correction.
--  Corrections must take place before any other statements or the rest of the statements may be withheld from dissemination.
-
-#### 2.8.3.10. Dissemination of propaganda or other forms of authoritative disinformation must be a disqualification for holding public office.
--  Political appointees responsible for a department found to violate its status as a Source of Truth must hold the department accountable for corrections or face removal from the appointment.
--  Candidates for office found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face disqualification for holding office.
--  Elected officials found to violate their status as a Source of Truth must correct the disinformation in the same outlets with the same (or larger) audience or face removal from office.
-
-2.9. The Doctrine of Responsible Capitalism
---------------------------------------
+## 2.9. The Doctrine of Responsible Capitalism
 
 ### 2.9.1. Summary
 Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of the majority.  Capitalism complements democracy and the human spirit, but left unchecked, free market capitalism creates class divisions, inefficiencies and corruption.  Capitalism requires checks and balances in order to avoid corruption and class divisions.  The checks and balances start with the recognition that the economy is an instrument that supports a way of lie.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
@@ -513,7 +543,7 @@ Capitalism is the desired economic system for a free and open democracy, but cap
       -  Computing systems are pervasive and directly or indirectly control all aspects of public and private life.
       -  Lack of standards in software design and implementation introduces security and performance risks.
       -  Lack of governance among free and open software that are in broad use introduces security and performance risks.
-      -  Lack of standard controls around the exchange of information introduces security, finanancial and privacy risks.
+      -  Lack of standard controls around the exchange of information introduces security, financial and privacy risks.
       -  Lack of controls and transparency around the use of private information introduces security, financial and privacy risks.
 
 ### 2.9.3. Doctrine
@@ -555,753 +585,11 @@ Capitalism is the desired economic system, but public policy must have priority 
 
 [^1]: Making Sense Of Shareholder Value: 'The World's Dumbest Idea' - Forbes [https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea](https://www.forbes.com/sites/stevedenning/2017/07/17/making-sense-of-shareholder-value-the-worlds-dumbest-idea )
 
-3.1.  The Role of Government
---------------------------------------
+-------------------------------
 
-### 3.1.1.  Summary
-
-Rational Governance recognizes that government is a tool for protecting and organizing public resources, protecting access to private resources, and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
-
-
-### 3.1.2.  Policy Challenges
-
-#### 3.1.2.1. Government Scope
-Democracies, in particular, face the challenge of undefined government scope.  Competing ideologies in the form of political parties move in and out of power, each bringing its own vision of the role and scope of government.  Fluctuations in ideology and the policies created from them create inefficiencies as we have cycles of one party dismantling the work of the other party.
-
-#### 3.1.2.2. National versus regional 
-
-### 3.1.3. Assertions 
-
--  *__3.1.3.1. National government is necessary for creation, interpretation and enforcement of laws.__*
--  *__3.1.3.2. National government is necessary for protection of public lands and resources.__*
--  *__3.1.3.3. National government is necessary to protect and support its population from internal and external threats.__*
-    - Emergency management for natural disasters and other natural or man-made threats.
-    - Police and intelligence forces.
-    - Defense forces.
--  *__3.1.3.4. National government is responsible for social infrastructure, including the following:__*
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel between major population centers.
-    - Food and water supplies for major population centers.
-    - Quality universal education.
-    - Health and human services that provide a dignified baseline quality of life.
--  *__3.1.3.4. Regional government is responsible for regional social infrastructure, including the following:__*
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel within major population centers.
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel between secondary population centers.
-    - Food and water supplies for secondary population centers.
-    - Clothing, employment and housing options that provide a dignified baseline quality of life.
-    - 
-
-### 3.1.3.  Policy Recommendations
-
-#### 3.1.3.1. Government Scope
-Government scope at the national, regional and local levels needs more clear definitions.
-
-- Protect the Intrinsic Liberties 
-- Protect and support the society within its boundaries
-- Protect and support public lands and resources within its boundaries
-- Establish and maintain infrastructure necessary for commerce
-- Protect and support the society within its boundaries
-- Establish and maintain the processes for fair elections
-- Tax the legal entities within its jurisdiction for the sole purpose of supporting the scope of government
-
-#### 3.1.3.1. National versus regional
-
-
-#### 3.1.4.1. Policy origination
-- Recommendation one
-
-#### 3.1.4.2. Policy language
-- Recommendation one
-
-#### 3.1.4.3. Policy equivalency
-- Recommendation one
-- Recommendation two
-
-#### 3.1.4.4. Policy details and implementation
-- Recommendation one
-
-#### 3.1.4.5. Policy monitors 
-
-#### 3.1.4.6. Policy measures
-
-#### 3.1.4.7. Policy remedies
-
-3.2.  The Executive Branch
---------------------------------------
-
-### 3.2.1.  Summary
-The rational view of the executive branch of any democracy recognizes that the highest office of that branch can hold an imbalance of power that can lead to tyranny.
-
-### 3.2.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.2.3. Assertions 
-
--  *__3.2.3.1. First.__*
--  *__3.2.3.2. Second.__*
-
-### 3.2.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.2.4.1. Removal from office
-- The citizen population must have the power to remove an appointed official by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
-- Annual physical and mental assessments must be held and publicly published to determine fitness for office.
-- Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
-- Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
-
-#### 3.2.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.2.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.2.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.2.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.2.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.2.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.2.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.4.  The Judicial Branch
---------------------------------------
-
-### 3.4.1.  Summary
-Summary
-
-### 3.4.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.4.3. Assertions 
-
--  *__3.4.3.1. First.__*
--  *__3.4.3.2. Second.__*
-
-### 3.4.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.4.4.1 Term limits
-- Judicial appointments should last a term of no more than 2.5 times the length of the term of the executive office making the appointment.
-    - Example: U.S. Supreme Court justices are nominated by the U.S. President, who has a term of 4 years.  Thus, the term for a U.S. Supreme Court should be 10 years.
-- Existing justices may be re-appointed through the standard nomination and approval process for that position up to a maximum of 2 terms.
-
-#### 3.4.4.2. Removal from office
-- The citizen population must have the power to remove an appointed justice by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
-- Annual physical and mental assessments must be held and publicly published to determine fitness for office.
-- Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
-- Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
-
-
-#### 3.4.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.4.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.4.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.4.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.4.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.4.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.4.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-Regulation of Business Practices
---------------------------------------
-
-### 3.10.1.  Summary
-
-Regulation of business practices is a classic divide between the political left and right.  The practice of regulation is highly polarizing.  Improper regulation can interfere with a free market and can incur unnecessary expenses, while lack of regulation can allow businesses and industries to harm the public and the environment with little or no awareness from the public or power to mitigate the harm.  This is complicated by special interests lobbying introducing money and personal agendas into what should be factual discussions of policy. 
-
-### 3.10.2.  Policy Challenges
-The arguments for and against regulation are made by well educated, intelligent people with vastly different opinions.  A discussion of regulation needs to begin with the reasons put forward in support of its existence.
-
--  Many industries produce waste as solids, liquids or gases that must be contained or properly disposed in order to prevent harm to people, other living creatures or the environment.
--  Man-made products -- especially chemicals -- are often discovered to have harmful affects on people, other living creatures or the environment, and guidelines for proper user are necessary to reduce the harm caused by such products.
--  Buildings and infrastructure must be constructed with particular specifications in order to prevent harm to the public or the environment.
--  Financial industries are susceptible to high-risk behavior that benefits a small number of people when successful but harms large numbers of innocent people when unsuccessful.
-[more]
-
-
-Businesses are motivated more by profit than concerns over environmental impact, human safety, long-term stability of markets or social welfare.  Free market capitalism in theory will force businesses to make proper choices on their own or consumers will spend their money elsewhere.  This idea fails in a number of key areas that also have the potential for the causing the most harm:
-
--  Industries requiring large amounts of initial capital and/or infrastructure (e.g. energy and telecom) tend to have a single dominant business serving any given market, leaving consumers with no competitive options or (in rural areas) no options at all, effectively resulting in monopolies.
--  Some industries and businesses sell to other business and have no direct consumers, leaving market forces at the mercy of profit-driven motivations rather than human concerns.
--  A business can make and sell harmful products to consumers and make a profit before consumers understand the harm that the products cause, at which point it is too late for the free market to protect consumers.
-... 
-
-
-Regulation is typically enacted in one of two ways.  The first is through direct passage of law by a legislative branch of government, and the second is through indirect legislation, by which the legislative branch creates a regulatory authority that is then directed by the executive branch.  Both forms are vulnerable to political whims, but the use of regulatory authorities creates a system that is more volatile.  A new administration can uphold, reverse, ignore or more aggressively pursue existing regulation, putting legislative power by proxy directly into the hands of the executive branch.  Concerns over the power regulatory agencies give to the executive branch are shared across the political spectrum.
-
-Similarly non-partisan is the concern that regulation can exist at national and local levels without any coordination, leading to an incohesive set of rules. 
-
-The more politically polarizing concern is a core existential argument over the need for regulation.  Some argue that regulation is necessary to protect people and the environment from business, industry and sometimes government practices that value profit and risk over safety, stability and the environment.  Regulation also puts de facto controls around industries that tend toward monopolistic behavior.  Others argue that regulation is expensive and inhibit economic growth, often citing regulation as an impediment to job creation and innovation.
-
-
-Monopolies and monopolistic behavior 
-
-These concerns can be reduced to the following questions:
-
--  Which entities should have the authority to create and enforce regulation?
--  What is the value of regulation versus its impact on the economy?
--  At which level of government is regulation proper?
--  Without regulation, 
-
-
-### 3.10.3. Assertions 
-
--  *__3.10.3.1. First.__*
--  *__3.10.3.2. Second.__*
-
-
-### 3.10.4  Policy Recommendations
-
-Using the preservation of the three liberties as the ultimate guide, business practices may not cause irreparable harm to human habitats, may not cause 
-2.1.2.1., 2.1.2.7, 
-
-New and existing chemical compounds:
-Vetted to determine human and environmental safety concerns (scored from a standardized battery of tests)
-Standardized regulations for disposal and handling attached to specific scores on specific tests
-Panels of scientists in the same or similar fields to determine tests and regulations, not businesses or special interests
-New and existing medicines
-Vetted to determine interactions with other treatments
-Schedule for disposal upon expiration
-Controls for abuse
-Sold on merits, not brand
-Not advertised to public
-Panels of scientists (chemists) and physicians to determine tests and regulations, not businesses or special interests
-Processes for manufacture of products and materials may be kept proprietary for competitive advantage
-Waste and other byproducts of manufacturing must be disclosed along with a schedule for proper disposal and auditing of the disposal.
-If you do not know the waste and/or byproducts of your manufacturing process, you have no right to be in business
-If you do not have a plan for proper disposal of such byproducts, you have no right to be in business
-Grandfathering must be limited to a small number of years
-
-#### 3.10.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.10.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.10.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.10.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.10.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.10.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.10.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-
-Religion and State
---------------------------------------
-
-### 3.11.1.  Summary
-It is impossible to expect that all members of an inclusive society will practice the same religion, or that all members will practice any religion at all.
-
-Policy must not target any religion or faith.
-Policy must not encourage or give advantage to any religion or faith.
-Policy allowing special consideration for religious customs must be flexible enough to allow for any recognized religion.
-In order to receive special considerations from an employer or other association for religious customs, it is fair to require a declaration of belief in the religion.  It is also fair that this declaration cannot be changed more than once per year.  
-
-
-### 3.11.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.11.3. Assertions 
-
--  *__3.11.3.1. .__*
--  *__3.11.3.2. Second.__*
-
-### 3.11.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.11.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.11.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.11.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.11.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.11.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.11.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.11.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-
-
-Citizenship and Humanity
---------------------------------------
-
-### 3.12.1.  Summary
-Government functions that protect liberty, justice and human dignity should extend to all of humanity.  Citizenship does not convey extra human rights that are not available to non-citizens.  Citizenship does provide access to economic and benefits
-
-
-### 3.12.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.12.3. Assertions 
-
--  *__3.12.3.1. First.__*
--  *__3.12.3.2. Second.__*
-
-### 3.12.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.12.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.12.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.12.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.12.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.12.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.12.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.12.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.13.  Punishment for Crimes
---------------------------------------
-
-### 3.X.1.  Summary
-Summary
-
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.X.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.X.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.X.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.X.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.X.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.X.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.14.  Race and Immigration
---------------------------------------
-
-### 3.X.1.  Summary
-Summary
-
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.X.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.X.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.X.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.X.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.X.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.X.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.15.  Abortion and Birth Control
---------------------------------------
-
-### 3.15.1.  Summary
-Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In particular, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.
-
-### 3.15.2.  Policy Challenges
-Public policy problems revolve around questions of morality complicated by religion, tradition, and biological instincts:
-
-- Where do the rights of the mother end and the rights of the fetus begin?
-- Where do the rights of the father apply?
-- Should abortion be legal?
-- Under which circumstances should abortion be legal?
-- Which providers can legally perform abortions?
-- At which point in gestation do we legally determine that an abortion cannot occur?
-- Should medical insurance pay for abortion?
-- Should federal or state revenue be used to subsidize abortion?
-
-The answers become more clear within a framework that defines the difference between a child and a fetus.  Moral and religious arguments will continue for all of perpetuity, and they should, but a cohesive public policy needs a lasting, unequivocal agreement on facts and definitions.
-
-### 3.15.3. Assertions 
-
--  *__3.15.3.1. Pregnancy and childbirth cause bodily harm and are often deadly.__*
--  *__3.15.3.2. During the first half of gestation, a human fetus is incapable of survival outside of the womb.__*
--  *__3.15.3.3. During the third trimester, a human fetus is generally capable of survival outside of the womb.__* 
-      -  Survival at this stage requires varying degrees of medical intervention.
--  *__3.15.3.4. Women always have and always will seek abortion under some circumstances.__*
-      - In the absence of safe and legal access, women always have and always will resort to extreme measures to obtain an abortion.
--  *__3.15.3.5. Some medical conditions will dictate that the only proper course of action is an abortion.__*
--  *__3.15.3.6. The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness.__*
--  *__3.15.3.7. Limiting access to abortion creates economic burdens on a region.__*
--  *__3.15.3.8. Women have a social and physical imbalance of power leading to situations in which men impregnate women against their will.__*
-
-### 3.15.5. Required Definitions
-See section 4 for definitions necessary for a clear and consistent policy.
-
-- Child
-- Childbirth
-- Abortion
-
-
-### 3.15.4  Policy Recommendations
-Considering the facts, it is clear that there are at least some circumstances in which abortion is proper.  It is clear that regardless of safety or legality, women will seek abortion in some circumstances.  There is no definitive measure or milestone to determine viability (the ability to survive outside of the womb if delivered), nor is there even a clear way to measure gestational age.  Any policy framed around a number of week’s gestation is arbitrary, as is any policy that categorically denies abortion as a medical option.
-
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.15.4.1. Policy origination
-- Laws regulating abortion should be written with primary input from those who can be directly affected by them (i.e. women) and physicians that have training in maternal-fetal medicine.
-
-#### 3.15.4.2. Policy language
-- The use of gestational age should be used sparingly when writing laws regulating abortion.
-
-#### 3.15.4.3. Policy equivalency
-- Insurance should not treat abortion differently from any other medical treatment.
-- Regulation surrounding the procedure or access to the procedure should be commensurate with any other similarly invasive or risky procedure.
-
-#### 3.15.4.4. Policy details and implementation
-- Laws should leave the decision on how late into pregnancy an abortion is appropriate up to an appropriately licensed physician in conjunction with consultation with the mother.
-
-Access to Weapons
---------------------------------------
-
-### 3.16.1.  Summary
-
-In the United States, the constitutional "right to bear arms" has been interpreted in many ways, and an artificial political divide has been manufacturered by parties with economic interest in the manufacture and sale of weapons.  Efforts to put limits on the number of types of weapons available to an individual have been conflated with attempts to abolish the right altogether or to take away personal freedoms.  As of the time of this writing, facts have been lost to rhetoric, and neither side of the debate are actually listening to the other side.  Looking beyond this moment in time and this debate in the United States, there must be agreement that public interest dictates the creation of fair and rational policy regarding personal access to weapons. 
-
-### 3.16.2.  Policy Challenges
-Public policy regarding access to weapons must address these issues:
-
--  Do private citizens (non-military, non-police) have a right to own weapons?
--  Which types of weapons are appropriate for private citizens to own?
--  Do private citizens have a right to carry weapons in public?
--  Which types of weapons are appropriate for private citizens to carry in public?
--  Which kinds of licensing should be required for ownership of weapons?
--  Which kinds of licensing should be required to carry weapons in public?
--  Which actions or conditions should disqualify an individual's access to weapons?
--  Which kinds of licensing should be required for sale of weapons?
-
-Personal rights involving self-preservation would suggest that individuals have a right to have access to weapons in order to defend self, family and personal property. These weapons, if used for such defense, may not be used to violate the rights of other individuals.  Some weapons are appropriate for defense, some are not.  Weapons with rapid rates of fire, long ranges, the ability to pierce walls and armor, explosive capabilities, etc, are just as likely to harm innocents or the properties of innocents as they are to properly defend an individual from an aggressor.  Such weapons are more appropriate for warfare or extreme situations encountered by police forces, but are not appropriate for personal defense.
-
-### 3.16.3. Assertions 
-
--  *__3.16.3.1. First.__*
--  *__3.16.3.2. Second.__*
-
-### 3.16.4  Policy Recommendations
-Application of the Three Liberties to the question of personal access to weapons can be summarized as such:
-
--  Individuals have the right to protect themselves through appropriate means and with appropriate defense mechanisms.
--  Any weapon likely to inflict accidental harm to others or damage to property in its use 
--  Entities with economic interest in the manufacture or sale of weapons may not craft policy regarding the access to weapons.
-
-
-
-Definitions:
-
-This policy differentiates between personal defense weapons, novelty weapons, hunting and survival weapons, public defense weapons and weapons of war or aggression. 
-
--  Personal defense weapons 
-  -  Handguns 
-  -  Shotguns
-  -  Hunting and survival weapons
-  -  Rifles 
-  -  Hunting knives
-  -  Bow/crossbow 
-
--  Novelty weapons
-  -  Swords and other bladed weapons longer than 10” [ I hate arbitrary numbers ]
-
--  Weapons of aggression
-  -  Handguns with high capacity ammo 
-  -  Assault rifles 
-  -  Sniper rifles
-  -  High speed automatic handguns
-  -  Portable explosives
   
--  Weapons of war
-  -  Projectile explosives
-  -  Biological or chemical agent dispersal systems of any kind
-  -  Public defense weapons
-  -  Any weapon in a category above excluding weapons of war
 
-Bearing arms in public
-Private citizens
-Must be licensed with annual renewal
-Must include accuracy test
-Must include 
-Must wear a holster meeting civilian guidelines
-Must keep the weapon holstered at all times
-Restricted to weapons of defense or hating and survival weapons
-Concealed carry for private citizens
-Meets all guidelines of “Bearing arms in public”
-Transportation
-Governing entities should allow for different guidelines for transportation
-
-#### 3.16.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.16.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.16.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.16.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.16.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.16.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.16.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.17.  Education
---------------------------------------
-
-### 3.17.1.  Summary
-An educated population is healthier, solves problems and differences with less conflict, enjoys a stronger economy, and experiences less crime and poverty. Limiting education by availability of resources limits the potential of a society.  A quality education for all citizens should be an imperative,   freely available to all segments of a population.
-
-### 3.17.2.  Policy Challenges
-
-- Curriculum standards
-- Testing standards
-- Questions on efficacy of tests as measures of success
-- Material resources
-- Qualified teachers
-- Expense and revenue
-- Parental participation
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.17.3. Assertions 
-
--  *__3.17.3.1. An educated population creates a stronger economy.__*
--  *__3.17.3.1. An educated population makes better political choices.__*
--  *__3.17.3.1. An educated population is healthier, which reduces the overall burden on the government and the rest of society.__*
--  *__3.17.3.1. An educated population has less crime, which reduces the overall burden on the government and the rest of society.__*
--  *__3.17.3.1. An educated population makes better life choices, which reduces the overall burden on the government and the rest of society.__*
--  *__3.17.3.1. An educated population has manageable population growth, which reduces the overall burden on the government and the rest of society.__*
--  *__3.17.3.1. An educated population has more successful childbirth, which reduces the overall burden on the government and the rest of society.__*
--  *__3.17.3.2. Second.__*
-
-### 3.17.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.17.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.17.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.17.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.17.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.17.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.17.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.17.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.18.  Gender and Sex
---------------------------------------
-
-### 3.X.1.  Summary
-Summary
-
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.X.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.X.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.X.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.X.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.X.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.X.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-3.19.  Health Care
---------------------------------------
-
-### 3.X.1.  Summary
-Summary
-
-### 3.X.2.  Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-### 3.X.3. Assertions 
-
--  *__3.X.3.1. First.__*
--  *__3.X.3.2. Second.__*
-
-### 3.X.4  Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-#### 3.X.4.1. Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-#### 3.X.4.2. Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-#### 3.X.4.3. Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-#### 3.X.4.4. Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-#### 3.X.4.5. Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-#### 3.X.4.6. Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-#### 3.X.4.7. Policy remedies
-- What remedies should take place if policy changes prove ineffective 
-
-4.0.  Definitions
-------------------
+## 4.0.  Definitions
 
 ### 4.0.1. Introduction
 Rational policy discussions require definitions of terms in order to avoid ambiguity and the injection of emotion or subjective opinion.

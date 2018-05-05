@@ -1,5 +1,4 @@
-3.14.  Race and Immigration
---------------------------------------
+## 3.14.  Race and Immigration
 
 ### 3.X.1.  Summary
 Summary

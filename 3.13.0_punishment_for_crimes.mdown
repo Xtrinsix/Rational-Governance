@@ -1,5 +1,4 @@
-3.13.  Punishment for Crimes
---------------------------------------
+## 3.13.  Punishment for Crimes
 
 ### 3.X.1.  Summary
 Summary

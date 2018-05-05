@@ -1,5 +1,4 @@
-2.7. The Doctrine of Truth from Authority
----------------------------------
+## 2.7. The Doctrine of Truth from Authority
 
 ### 2.7.1. Summary
 Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
@@ -15,7 +14,7 @@ Rational public policy must be based on transparency, truth and availability of 
 -  *__2.7.2.7. Entertainment and opinion must not be confused as authoritative information.__*
 
 ### 2.7.3. Doctrine
-Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
+Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth.  Policy must create and actively support controls around propaganda and other forms of authoritative disinformation.
 
 #### 2.7.3.1. A standard for truth and fact must be established to define and regulate entities publishing or otherwise promoting or dispensing factual information from a position of authority.
 -  Assertion of Truth must be defined.

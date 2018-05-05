@@ -1,5 +1,4 @@
-2.6. Doctrine of Rational Integrity
----------------------------------
+## 2.6. Doctrine of Rational Integrity
 
 ### 2.6.1. Summary
 Public policy must not be driven by sentimental or irrational concerns; fear, disgust, grief, and other irrational sentiments and emotions lead to bad policy decisions.  Public policy must not be created in the absence of rational and objective input from subject matter experts.  Public policy must always be created with consideration for the context of existing policies and institutions.  Irrational sentiments and emotions are often necessary and useful for generating the momentum, energy or political will to create or modify policy.  However, those same sentiments and emotions must not replace rational thought and deliberation when making policy decisions or when implementing policy through legislative or executive action.
@@ -38,7 +37,7 @@ A rigorous process of scrutiny must be applied to all proposals to create or cha
    - Who is harmed by the current policy or current lack of policy?
    - Who benefits by the current policy or current lack of policy?
    - Who benefits from the creation of new policy?
-   - Who is harmed by the creation of new policy?.
+   - Who is harmed by the creation of new policy?
    - Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
 -  Considerations of benefits and harm must include physical, political, social and economic factors
 

@@ -1,5 +1,4 @@
-3.9.  Affluence and Poverty
---------------------------------------
+## 3.9.  Affluence and Poverty
 
 ### 3.9.1.  Summary
 Summary

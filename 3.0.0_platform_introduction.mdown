@@ -1,5 +1,4 @@
-3.0. Platform Name
-------------------
+## 3.0. Platform Name
 
 ### 3.0.1. Introduction
 This section describes a platform for public policy through the application of the Rational Governance. 

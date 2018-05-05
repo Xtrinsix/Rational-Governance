@@ -1,10 +1,12 @@
-Rational Governance
-===================
+# Rational Governance
 
 A framework for governance in an age of advanced technology and global civilization.
 
-1.0. Introduction
-------------------
+-------------------------------
+
+  
+
+## 1.0. Introduction
 
 The human race in the twenty-first century faces global threats of enormous magnitude: existential threats to human civilization and the ecosystems that sustain us, careless and naive use of new technology without understanding side-effects or consequences, and political threats resulting from weak leadership, corruption of power and deepening tribal behavior among history's largest populations.  
 
@@ -25,7 +27,7 @@ Tribalism served humanity well as a survival strategy for many millennia during 
 
 For all of its benefits, tribalism also came with brutality, xenophobia and isolationism.  While necessary in early history, once we acquired the knowledge and technology to develop strategies for long-term resource security, the violence inherent in tribal behavior became more of a liability than a strategy for success.  Tribalism also cultivated a fear of the different and the unknown among us.  In early history, "different" often meant disease or a mutation that could harm the short-term or long-term success of the tribe.  "Different" was by necessity kept separate or eliminated through neglect or violence, which made sense in primitive tribes without access to modern science.
 
-Since the early 20th century, rapid advancements in medicine, agriculture, construction, communication and transportation have provided the means for longer, healthier lives while simultaneously providing the means for more efficient violence.  While tribalism is no longer necessary as a survival strategy, it's continued dominance of the collective human psyche grows more dangerous with each advancement in science and technology.  The instinct to repel outsiders or to expel those who are different becomes especially dangerous when violence is more efficiently and effectively delivered.  We still benefit from the regional social constructions created by tribalism, but the negative consequences of continued tribal behavior have begun to overshadow any benefits.
+Since the early twentieth century, rapid advancements in medicine, agriculture, construction, communication and transportation have provided the means for longer, healthier lives while simultaneously providing the means for more efficient violence.  While tribalism is no longer necessary as a survival strategy, it's continued dominance of the collective human psyche grows more dangerous with each advancement in science and technology.  The instinct to repel outsiders or to expel those who are different becomes especially dangerous when violence is more efficiently and effectively delivered.  We still benefit from the regional social constructions created by tribalism, but the negative consequences of continued tribal behavior have begun to overshadow any benefits.
 
 Class, race, ethnic, regional and economic strife are all distractions from real and resolvable issues that face humanity and the planet.  No special interest, personal profit or tribal victory is worth risking the future of mankind.  And, yet, public policies of the greatest world powers serve only to deepen internal and external divisions and to consolidate control and power.  There are only a handful of truly global issues that can threaten the planet or mankind as a whole, and there are 7 billion intelligent, creative, resourceful humans who can work together to solve those problems, but we can only do that if we stop fighting amongst ourselves over irrational and ultimately trivial issues.
 
@@ -46,7 +48,7 @@ Laws, institutions, police forces and attitudes toward detection and prevention 
 Humanity innovates without self-discipline or planning.  The human race has an enormous capacity for innovation and exploration.  We are creative and intelligent and eager to create new things or discover things first.  We race to innovate and to implement new technology immediately after each scientific advancement without a pause to consider whether we should rather than whether we can.  Such innovation without discipline grows increasingly dangerous as technology improves the scale of production, the magnitude of potential impact, and the broad availability of any innovation.  Accidents and unforeseen consequences are just as dangerous as malicious use, but we innovate and implement and mass produce without adequate controls around safety and sustainability.  The reliance on detection and correction of problems after new technology is already broadly available is irrational, irresponsible, inefficient and willfully dangerous.  What good are short term profits or a competitive advantage or a new convenience if we poison the air, food or water supply for any population of humans?
 
 #### 1.0.1.6. Consolidation and Corruption of Economic and Political Power
-Since the onset of the Information Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and inviduals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, institutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power at the expense of smaller companies, the middle class and the poor.
+Since the onset of the Information Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and individuals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, institutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power at the expense of smaller companies, the middle class and the poor.
 
 Political parties, over time, succumb to private interests, greed, corruption of power and the influence of money.  The desire to win, to achieve power or to hold on to power push parties toward extremes.  As parties move toward ideological extremes, they portray other parties as enemies rather than fellow citizens with different views or solutions to a problem.  This results in one of two conditions: public policy fluctuations grow more extreme as political parties become more polarized; or, parties lose the ability to work together, leading to a paralyzed or dysfunctional government.  Both conditions easily allow corruption of the government and other institutions.  Both conditions are inefficient and counterproductive, and they lead to loss of resources, opportunities, and lives.
 
@@ -54,7 +56,7 @@ Political parties, over time, succumb to private interests, greed, corruption of
 Looking beyond the dangers we have brought upon ourselves, humanity faces irrefutable existential threats, all of which are addressable through changing attitudes or applied technology:
 
 - Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
-- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and supervolcanoes threaten human survival.
+- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and super-volcanoes threaten human survival.
 - Innovation followed by implementation and production without adequate controls or testing generates new threats that must be managed.
 - Economic insecurity, whether perceived or real, creates deep class divisions in a society and global civilization.
 - Institutional bias, whether perceived or real, creates deep class divisions in a society and global civilization.
@@ -73,5 +75,5 @@ While it could be used as a party platform, this framework is intended to transc
 This treatise is not used to make the logical case for Rational Governance.  Justifications and arguments can be held in separate dissertations, essays and other outlets.  This document provides the definitions and framework for governing rationally in the Information Age and beyond.  We can and must focus on humanity's existential threats instead of squabbling with each other over contrived, wasteful, damaging, petty conflicts that have persisted only to give greedy, narcissistic and corrupt politicians a base of power.
 
 ### 1.0.4. Document Structure
-This document is divided into 4 sections.  Section 1 is comprised of the introduction.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
+This document is divided into 4 sections.  Section 1 is a short introduction and justification.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
 

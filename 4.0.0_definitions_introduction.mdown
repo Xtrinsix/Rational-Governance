@@ -1,5 +1,4 @@
-4.0.  Definitions
-------------------
+## 4.0.  Definitions
 
 ### 4.0.1. Introduction
 Rational policy discussions require definitions of terms in order to avoid ambiguity and the injection of emotion or subjective opinion.

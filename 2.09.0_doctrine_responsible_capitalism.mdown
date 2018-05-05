@@ -1,5 +1,4 @@
-2.9. The Doctrine of Responsible Capitalism
---------------------------------------
+## 2.9. The Doctrine of Responsible Capitalism
 
 ### 2.9.1. Summary
 Capitalism is the desired economic system for a free and open democracy, but capitalism can be easily corrupted and abused to benefit a few at the expense of the majority.  Capitalism complements democracy and the human spirit, but left unchecked, free market capitalism creates class divisions, inefficiencies and corruption.  Capitalism requires checks and balances in order to avoid corruption and class divisions.  The checks and balances start with the recognition that the economy is an instrument that supports a way of lie.  The economy must not drive public policy.  Instead, good public policy with a focus on social responsibility will create the conditions that allow the economy to thrive and will maintain or restore trust in public institutions.
@@ -43,7 +42,7 @@ Capitalism is the desired economic system for a free and open democracy, but cap
       -  Computing systems are pervasive and directly or indirectly control all aspects of public and private life.
       -  Lack of standards in software design and implementation introduces security and performance risks.
       -  Lack of governance among free and open software that are in broad use introduces security and performance risks.
-      -  Lack of standard controls around the exchange of information introduces security, finanancial and privacy risks.
+      -  Lack of standard controls around the exchange of information introduces security, financial and privacy risks.
       -  Lack of controls and transparency around the use of private information introduces security, financial and privacy risks.
 
 ### 2.9.3. Doctrine
@@ -51,7 +50,7 @@ Capitalism is the desired economic system, but public policy must have priority 
 
 #### 2.9.3.1. Public policy must prioritize human capital and global prosperity over shareholder value.
 -  Incentives and deterrents must exist that discourage layoffs and other employment terminations for the sake of profit or shareholder value.
--  Incentives and deterrents must exist that discourage relocation of sources of employment (e.g. moving a factory to another state or another country) for the sake of profit or shareholder value.
+-  Incentives and deterrents must exist that discourage relocation of sources of employment (e.g., moving a factory to another state or another country) for the sake of profit or shareholder value.
 -  When moving a source of employment to a new location in a way that results in employee termination, the employer must make reasonable efforts to retain employees or to find equivalent employment for those who will be terminated, and a one year of notice must be provided in order to allow adjustment to the change in income.
 
 #### 2.9.3.2. Personal profits for shareholders must not have an institutionalized priority over human lives, health or prosperity.

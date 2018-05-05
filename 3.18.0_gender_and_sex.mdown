@@ -1,5 +1,4 @@
-3.18.  Gender and Sex
---------------------------------------
+## 3.18.  Gender and Sex
 
 ### 3.X.1.  Summary
 Summary

@@ -1,5 +1,4 @@
-3.2.  The Executive Branch
---------------------------------------
+## 3.2.  The Executive Branch
 
 ### 3.2.1.  Summary
 The rational view of the executive branch of any democracy recognizes that the highest office of that branch can hold an imbalance of power that can lead to tyranny.

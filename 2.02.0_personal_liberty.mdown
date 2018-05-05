@@ -1,5 +1,4 @@
-2.2. The Doctrine of Intrinsic Personal Liberty
----------------------------------
+## 2.2. The Doctrine of Intrinsic Personal Liberty
 
 ### 2.2.1. Summary
 Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on the lives of others, regional societies and global civilization.
@@ -21,7 +20,7 @@ Beyond what some would consider to be basic human decency and respect for fellow
 
 This doctrine enumerates the intrinsic rights of each human that must be recognized by all people and institutions
 
-A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each of these rights is marked with an **A** if the right applies to all adults, a **C** if the right applies to all children, or an asterisk (**\***) if a proxy may override an individual’s wishes.
+A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each is marked with an **"A"** if the right applies to all adults, a **"C"** if the right applies to all children, or an asterisk (**"*"**) if a proxy may override an individual’s wishes.
 
 Additional Note: A middle classification between Adult and Child may be necessary in some cases. For example, a 10 year old may be mature enough to make a decision regarding the right to property, depending on the property, just as a 15 year old may be mature enough to make decisions regarding freedom of movement, but in general those are rights associated with adults.
 
@@ -61,9 +60,9 @@ Every person has the right to retain and protect legally obtained property. Inte
 #### 2.2.3.10. The right to religion (AC)
 Individuals must have the right to choose and practice one’s religion of choice.  It is reasonable for the tenants of a recognized religion to require adjustments to dress codes, diet, and other social norms that employers and public institutions must respect.
 
-This right, as with any others, may not limit or interfere with the rights of other individuals.  It is important to distinguish between the interference with the rights of others and a fully informed and uncoerced choice to give up a personal right in observance of a religious custom.
+This right, as with any others, may not limit or interfere with the rights of other individuals.  It is important to distinguish between the interference with the rights of others and a fully informed and un-coerced choice to give up a personal right in observance of a religious custom.
 
-#### 2.2.3.11. The right to non-discrimination
+#### 2.2.3.11. The right to non-discrimination (AC)
 Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population disadvantaged by particular intrinsic properties.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
 
 This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of intrinsic qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.

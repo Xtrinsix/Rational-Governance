@@ -1,5 +1,4 @@
-3.6.  Campaigns and Elections
---------------------------------------
+## 3.6.  Campaigns and Elections
 
 ### 3.6.1.  Summary
 The rational view of politics recognizes that free and fair elections are a cornerstone of democracy.  Campaigns and elections must be held to the highest standards of integrity and transparency and must be defended as vehemently as any other right or freedom.

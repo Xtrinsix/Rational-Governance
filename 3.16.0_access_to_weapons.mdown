@@ -1,5 +1,4 @@
-Access to Weapons
---------------------------------------
+## Access to Weapons
 
 ### 3.16.1.  Summary
 

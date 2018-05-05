@@ -1,5 +1,4 @@
-3.X.  Template
---------------------------------------
+## 3.X.  Template
 
 ### 3.X.1.  Summary
 Summary

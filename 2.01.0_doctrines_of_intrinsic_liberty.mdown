@@ -1,5 +1,4 @@
-2.1. The Doctrines of Intrinsic Liberty
----------------------------------
+## 2.1. The Doctrines of Intrinsic Liberty
 
 ### 2.1.1. Summary
 All public policy, at its core, must preserve the intrinsic liberty (the natural rights) of humanity in each of its three aspects: the individual, regional social units, and global civilization.
@@ -14,7 +13,7 @@ Given three aspects of humanity and the potential for overlap of concerns, confl
 
 The right to survive as a species and the preservation of our ecosystems must supersede all other rights.  The individual right to live and protection of body and mind must follow in that order, although varying degrees of protection of body and mind may dictate that one might take precedence over the other.
 
-Next are considerations of permanence.  Some rights may be restored if they are temporary violated.  Others may never be restored once lost.  Those that are permanently lost must take precedence over those that are transient.  Of those that may be permanently lost, global concerns must outweigh individual concerns, with regional concerns considered last.
+Next are considerations of permanence.  Some rights may be restored if they are temporary violated.  Others may never be restored once lost.  Those rights that may be permanently lost must take precedence over those rights that may be restored.  Of those that may be permanently lost, global concerns must outweigh individual concerns, with regional concerns considered last.
 
 Regional social units, while important to human survival, are unique constructions.  Individuals may migrate from one regional social unit to another with little or no disruption to either the social unit or the individual.  The fluid nature of social units makes them more resilient and easily reconstituted if dissolved entirely.  Regional rights, while important, have the lowest priority due to that resilience and ability to regenerate.
 

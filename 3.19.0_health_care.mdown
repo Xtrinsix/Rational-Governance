@@ -1,5 +1,4 @@
-3.19.  Health Care
---------------------------------------
+## 3.19.  Health Care
 
 ### 3.X.1.  Summary
 Summary
