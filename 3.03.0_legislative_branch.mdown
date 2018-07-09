@@ -1,9 +1,9 @@
-## 3.3.  The Legislative Branch
+### 3.3.  The Legislative Branch
 
-### 3.3.1.  Summary
+#### 3.3.1.  Summary
 The rational view of politics recognizes that politicians are elected for their personality and relationships with powerful entities and not for their expertise in policy or experience in governing.  The rational view of politics recognizes that no legislator is a subject matter expert in any or all topics of legislation. 
 
-### 3.3.2.  Policy Challenges
+#### 3.3.2.  Policy Challenges
 Statement
 
 - Good politicians may be bad at campaigning and have difficulty during elections.
@@ -13,52 +13,52 @@ Statement
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.3.3. Assertions 
+#### 3.3.3. Assertions 
 
--  *__3.3.3.1. The skills and experience necessary for a good politician are not the same skills and experience necessary for winning an election.__*
--  *__3.3.3.2. Politicians are elected without a proper screening process to ensure qualified individuals hold office.__*
--  *__3.3.3.2. The campaign process is biased toward individuals with access to special interest or corporate money.__*
--  *__3.3.3.2. The election process is biased toward candidates with strong personalities of low integrity and questionable qualifications.__*
--  *__3.3.3.2. Politicians are elected without a proper screening process to ensure qualified individuals hold office.__*
--  *__3.3.3.2. Incumbents have an unfair advantage during elections.__*
+-  *__The skills and experience necessary for a good politician are not the same skills and experience necessary for winning an election.__*
+-  *__Politicians are elected without a proper screening process to ensure qualified individuals hold office.__*
+-  *__The campaign process is biased toward individuals with access to special interest or corporate money.__*
+-  *__The election process is biased toward candidates with strong personalities of low integrity and questionable qualifications.__*
+-  *__Politicians are elected without a proper screening process to ensure qualified individuals hold office.__*
+-  *__Incumbents have an unfair advantage during elections.__*
     - Incumbents have name recognition
     - Incumbents have organizational and financial advantages
     - Incumbents benefit from straight line party votes
     - Incumbents are often re-elected despite past performance
 
-### 3.3.4  Policy Recommendations
+#### 3.3.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.3.4.2. Removal from office
+##### Removal from office
 - The citizen population must have the power to remove an elected official mid-term by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
 - Annual physical and mental assessments must be held and publicly published to determine fitness for office.
 - Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
 - Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
 - Such mid-term removal processes do not apply for offices with terms of 2 years or less.  Instead, failure to pass annual assessments automatically trigger a vote within that legislative body to remove that individual from office.
 
-#### 3.3.4.3 Incumbent handicap
+##### 3.3.4.3 Incumbent handicap
 - An incumbent for an office that is not subject to a mid-term removal process must have 60% of the votes instead of 50% during a general election in order to remain in office.
 
 
-#### 3.3.4.1. Policy origination
+##### Policy origination
 - Constitutional scholars, 
 
-#### 3.3.4.2. Policy language
+##### Policy language
 
 
-#### 3.3.4.3. Policy equivalency
+##### Policy equivalency
 
 
-#### 3.3.4.4. Policy details and implementation
+##### Policy details and implementation
 - Recommendation one
 
-#### 3.3.4.5. Policy monitors 
+##### Policy monitors 
 - TODO: Outline an independent body to perform annual physical, mental, competency and integrity assessments
 
-#### 3.3.4.6. Policy measures
+##### Policy measures
 - TODO: Outline top level measurements for physical, mental, competency and integrity assessments
 
-#### 3.3.4.7. Policy remedies
+##### Policy remedies
 - TODO: How do we measure these policy recommendations?
 
 

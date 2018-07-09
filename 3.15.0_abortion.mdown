@@ -1,9 +1,9 @@
-## 3.15.  Abortion and Birth Control
+### 3.15.  Abortion and Birth Control
 
-### 3.15.1.  Summary
+#### 3.15.1.  Summary
 Human knowledge of the causes and consequences of pregnancy is coupled with the moral dilemma of what to do with that knowledge.  In particular, the knowledge came the understanding that a pregnancy can be terminated.  We cannot ignore or forget what we know.  As with our knowledge of other areas of biology or science, we must find a balance between what is possible and what is right.
 
-### 3.15.2.  Policy Challenges
+#### 3.15.2.  Policy Challenges
 Public policy problems revolve around questions of morality complicated by religion, tradition, and biological instincts:
 
 - Where do the rights of the mother end and the rights of the fetus begin?
@@ -17,20 +17,20 @@ Public policy problems revolve around questions of morality complicated by relig
 
 The answers become more clear within a framework that defines the difference between a child and a fetus.  Moral and religious arguments will continue for all of perpetuity, and they should, but a cohesive public policy needs a lasting, unequivocal agreement on facts and definitions.
 
-### 3.15.3. Assertions 
+#### 3.15.3. Assertions 
 
--  *__3.15.3.1. Pregnancy and childbirth cause bodily harm and are often deadly.__*
--  *__3.15.3.2. During the first half of gestation, a human fetus is incapable of survival outside of the womb.__*
--  *__3.15.3.3. During the third trimester, a human fetus is generally capable of survival outside of the womb.__* 
+-  *__Pregnancy and childbirth cause bodily harm and are often deadly.__*
+-  *__During the first half of gestation, a human fetus is incapable of survival outside of the womb.__*
+-  *__During the third trimester, a human fetus is generally capable of survival outside of the womb.__* 
       -  Survival at this stage requires varying degrees of medical intervention.
--  *__3.15.3.4. Women always have and always will seek abortion under some circumstances.__*
+-  *__Women always have and always will seek abortion under some circumstances.__*
       - In the absence of safe and legal access, women always have and always will resort to extreme measures to obtain an abortion.
--  *__3.15.3.5. Some medical conditions will dictate that the only proper course of action is an abortion.__*
--  *__3.15.3.6. The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness.__*
--  *__3.15.3.7. Limiting access to abortion creates economic burdens on a region.__*
--  *__3.15.3.8. Women have a social and physical imbalance of power leading to situations in which men impregnate women against their will.__*
+-  *__Some medical conditions will dictate that the only proper course of action is an abortion.__*
+-  *__The majority of abortions are not obtained or performed with malice, thoughtlessness or carelessness.__*
+-  *__Limiting access to abortion creates economic burdens on a region.__*
+-  *__Women have a social and physical imbalance of power leading to situations in which men impregnate women against their will.__*
 
-### 3.15.5. Required Definitions
+#### 3.15.5. Required Definitions
 See section 4 for definitions necessary for a clear and consistent policy.
 
 - Child
@@ -38,21 +38,21 @@ See section 4 for definitions necessary for a clear and consistent policy.
 - Abortion
 
 
-### 3.15.4  Policy Recommendations
+#### 3.15.4  Policy Recommendations
 Considering the facts, it is clear that there are at least some circumstances in which abortion is proper.  It is clear that regardless of safety or legality, women will seek abortion in some circumstances.  There is no definitive measure or milestone to determine viability (the ability to survive outside of the womb if delivered), nor is there even a clear way to measure gestational age.  Any policy framed around a number of week’s gestation is arbitrary, as is any policy that categorically denies abortion as a medical option.
 
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.15.4.1. Policy origination
+##### Policy origination
 - Laws regulating abortion should be written with primary input from those who can be directly affected by them (i.e. women) and physicians that have training in maternal-fetal medicine.
 
-#### 3.15.4.2. Policy language
+##### Policy language
 - The use of gestational age should be used sparingly when writing laws regulating abortion.
 
-#### 3.15.4.3. Policy equivalency
+##### Policy equivalency
 - Insurance should not treat abortion differently from any other medical treatment.
 - Regulation surrounding the procedure or access to the procedure should be commensurate with any other similarly invasive or risky procedure.
 
-#### 3.15.4.4. Policy details and implementation
+##### Policy details and implementation
 - Laws should leave the decision on how late into pregnancy an abortion is appropriate up to an appropriately licensed physician in conjunction with consultation with the mother.
 

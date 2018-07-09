@@ -1,14 +1,9 @@
-# Rational Governance
+ 
+# Introduction
 
-A framework for governance in an age of advanced technology and global civilization.
+## The Case For Rational Governance
 
--------------------------------
-
-  
-
-## 1.0. Introduction
-
-The human race in the twenty-first century faces global threats of enormous magnitude: existential threats to human civilization and the ecosystems that sustain us, careless and naive use of new technology without understanding side-effects or consequences, and political threats resulting from weak leadership, corruption of power and deepening tribal behavior among history's largest populations.  
+The human race in the twenty-first century faces global threats of enormous magnitude: existential threats to human civilization and the ecosystems that sustain us, careless and naive use of technology without understanding side-effects or consequences, and political threats resulting from weak leadership, corruption of power and deepening tribal behavior among history's largest populations.  
 
 As rational creatures with modern science at our disposal, we can detect and understand the real and present dangers to our species and our planet.  Yet, as flawed creatures, our rationality gives way to the paralysis of fear and the self-delusion that we as individuals can have neither a positive nor a negative impact.  Rather than acknowledge our roles in creating some of these threats or our responsibilities to help resolve them, we individually and collectively look away, pretend that the threats are not real, or expect that others will save us so that we don't have to sacrifice our own time, resources or convenience.  Instead of acknowledging the reality of our existential threats and our ability to find solutions, we seek distractions, scapegoats or justifications for inaction.
 
@@ -18,11 +13,11 @@ Global powers must rise above tribalism and make efforts to eliminate corruption
 
 Economic and political leaders who ignore the need to change how we govern and innovate in a modern age are complicit in the tragedies and destruction that will follow.  It is not only irrational and irresponsible to maintain a status quo in the face of such danger, it approaches betrayal and treason, not just of country but of mankind.
 
-This treatise is a call for rational, purposeful, ethical and cooperative governance in an age of increasing dangers of unparalleled magnitude.  With our creativity, knowledge and innovative spirit, we can work together with purpose, recognizing that we are not a species of many tribes.  We are but one tribe.  One humanity.  We owe our allegiance and patriotism to our world and to all of mankind.  Nothing else is sustainable.  Nothing else is rational. 
+This treatise is a call for rational, purposeful, ethical and cooperative governance in an age of increasing dangers of unparalleled magnitude.  With our creativity, knowledge and innovative spirit, we can work together with purpose, recognizing that we are not a species of many tribes.  When facing the challenges to our global civilization, we are but one tribe.  One humanity.  We owe our allegiance and patriotism to our world and to all of mankind.  Nothing else is sustainable.  Nothing else is rational. 
 
-### 1.0.1. Artificial Threats: The Distractions
+#### Artificial Threats: The Distractions
 
-#### 1.0.1.1. The Tragedy of Tribalism
+###### The Tragedy of Tribalism
 Tribalism served humanity well as a survival strategy for many millennia during times of true scarcity and before modern medicine.  Some aspects of tribalism in the form of regional social units are still beneficial and help us to thrive as individuals. Advances in communication and transportation over centuries of human history allowed for tribes to grow beyond a small patch of land to larger and larger geographic areas.  Larger tribes introduced systems for managing resources and protecting each other.  With such widespread stability, greater advancements in human knowledge were possible.  Thus, tribalism served a vital role in human history.
 
 For all of its benefits, tribalism also came with brutality, xenophobia and isolationism.  While necessary in early history, once we acquired the knowledge and technology to develop strategies for long-term resource security, the violence inherent in tribal behavior became more of a liability than a strategy for success.  Tribalism also cultivated a fear of the different and the unknown among us.  In early history, "different" often meant disease or a mutation that could harm the short-term or long-term success of the tribe.  "Different" was by necessity kept separate or eliminated through neglect or violence, which made sense in primitive tribes without access to modern science.
@@ -31,32 +26,32 @@ Since the early twentieth century, rapid advancements in medicine, agriculture, 
 
 Class, race, ethnic, regional and economic strife are all distractions from real and resolvable issues that face humanity and the planet.  No special interest, personal profit or tribal victory is worth risking the future of mankind.  And, yet, public policies of the greatest world powers serve only to deepen internal and external divisions and to consolidate control and power.  There are only a handful of truly global issues that can threaten the planet or mankind as a whole, and there are 7 billion intelligent, creative, resourceful humans who can work together to solve those problems, but we can only do that if we stop fighting amongst ourselves over irrational and ultimately trivial issues.
 
-#### 1.0.1.2. The Promise and Peril of the Information Age
+###### The Promise and Peril of the Information Age
 
 The Information Age is defined by miniaturization and remote control of electronics, improved communication and shared knowledge, all of which have enabled advancements in chemistry, biotechnology, transportation, medicine, physics, mathematics, and manufacturing.  Globalization, robotics, artificial intelligence, automation, efficient forms of mass communication, shared knowledge, and smaller and more capable computing devices simultaneously empower and endanger humanity. 
 
-#### 1.0.1.3. Polarization and Irrational Extremism
+###### Polarization and Irrational Extremism
 
 Mass dissemination of propaganda, seditious and inflammatory disinformation and unrestrained demagoguery have deepened existing tribal divisions, increasing the frequency and intensity of conflicts.  A bad actor with limited resources can spread false information, inflame tensions, create rifts where none exist, and can turn millions of people against each other.
 
-#### 1.0.1.4. Increasingly Destructive Technologies
+###### Increasingly Destructive Technologies
 Since the Industrial Age, advancements in science have increased the scope and scale of the destructive potential of human technology.  Many new and powerful breakthroughs that can benefit mankind are also new and powerful vectors for potential destruction.  Accidental, negligent or malicious application of technology is no longer locally or regionally confined.  A bad actor with enough resources can affect millions of people with direct and immediate physical damage, exposure to harmful pathogens or theft of digitally stored assets.
 
 Laws, institutions, police forces and attitudes toward detection and prevention have not kept up with the scope and scale of technology.  As a global civilization, we are unprepared to handle modern social, economic and physical threats.  We lack adequate controls or even an understanding of what needs to be controlled or what the full affects of a lack of control might be.  
 
-#### 1.0.1.5. Innovation Without Discipline
+###### Innovation Without Discipline
 Humanity innovates without self-discipline or planning.  The human race has an enormous capacity for innovation and exploration.  We are creative and intelligent and eager to create new things or discover things first.  We race to innovate and to implement new technology immediately after each scientific advancement without a pause to consider whether we should rather than whether we can.  Such innovation without discipline grows increasingly dangerous as technology improves the scale of production, the magnitude of potential impact, and the broad availability of any innovation.  Accidents and unforeseen consequences are just as dangerous as malicious use, but we innovate and implement and mass produce without adequate controls around safety and sustainability.  The reliance on detection and correction of problems after new technology is already broadly available is irrational, irresponsible, inefficient and willfully dangerous.  What good are short term profits or a competitive advantage or a new convenience if we poison the air, food or water supply for any population of humans?
 
-#### 1.0.1.6. Consolidation and Corruption of Economic and Political Power
+###### Consolidation and Corruption of Economic and Political Power
 Since the onset of the Information Age, the wealthy and the powerful have had access to instruments and data that have allowed further consolidation and accumulation of wealth and power.  Vast amounts of political data, complex mathematical models, lack of transparency, targeted manipulation of tribal instincts, easy distribution of propaganda and systematic manipulation of rules, regulations, institutions and laws have allowed parties and individuals to retain power without any challenge to their authority.  Unchallenged authority leads to bad governance and further consolidation of power.  Vast amounts of financial data, complex mathematical models, lack of transparency, and systematic manipulation of rules, regulations, institutions and laws have allowed financial institutions, corporations and the wealthiest individuals to consolidate financial power at the expense of smaller companies, the middle class and the poor.
 
 Political parties, over time, succumb to private interests, greed, corruption of power and the influence of money.  The desire to win, to achieve power or to hold on to power push parties toward extremes.  As parties move toward ideological extremes, they portray other parties as enemies rather than fellow citizens with different views or solutions to a problem.  This results in one of two conditions: public policy fluctuations grow more extreme as political parties become more polarized; or, parties lose the ability to work together, leading to a paralyzed or dysfunctional government.  Both conditions easily allow corruption of the government and other institutions.  Both conditions are inefficient and counterproductive, and they lead to loss of resources, opportunities, and lives.
 
-### 1.0.2. Existential Threats: Timeless Challenges
+#### Existential Threats: Challenges to Civilization
 Looking beyond the dangers we have brought upon ourselves, humanity faces irrefutable existential threats, all of which are addressable through changing attitudes or applied technology:
 
 - Food, water and habitat insecurity generate instability, inefficiencies, struggles for power, and armed conflict.
-- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and super-volcanoes threaten human survival.
+- Climate changes and terrestrial or extraterrestrial threats such as asteroids, earthquakes, and volcanoes threaten human survival.
 - Innovation followed by implementation and production without adequate controls or testing generates new threats that must be managed.
 - Economic insecurity, whether perceived or real, creates deep class divisions in a society and global civilization.
 - Institutional bias, whether perceived or real, creates deep class divisions in a society and global civilization.
@@ -65,7 +60,7 @@ Looking beyond the dangers we have brought upon ourselves, humanity faces irrefu
 
 Poverty, hunger, renewable energy, shelter, disease, climate changes and other threats to human ecosystem can and must be solved.  Among 7 billion people, we have the talent and the resources.  We must stop wasting both.  The nations of the world can do better.  Humanity deserves better. And, to do otherwise is to betray humanity's past and future.
 
-### 1.0.3. Rational Governance: The Path Through the Future
+#### Rational Governance: The Path Through the Future
 Economic, social and political forces move more quickly and with more power and destructive potential than at any other time in history.  Public policy must take a larger view of the world than ever before in order to keep those forces from causing serious or irreparable harm to individual societies, ecosystems or global civilization.  Policies with a focus on humanity must be in place to help guide us through these advancements and to protect us from ourselves.
 
 This treatise describes a political philosophy and a framework for creating principled and disciplined public policy in an age of advanced technology and globalization based on a single set of humanitarian principles rather than special interests, agendas or economic theories.
@@ -74,6 +69,6 @@ While it could be used as a party platform, this framework is intended to transc
 
 This treatise is not used to make the logical case for Rational Governance.  Justifications and arguments can be held in separate dissertations, essays and other outlets.  This document provides the definitions and framework for governing rationally in the Information Age and beyond.  We can and must focus on humanity's existential threats instead of squabbling with each other over contrived, wasteful, damaging, petty conflicts that have persisted only to give greedy, narcissistic and corrupt politicians a base of power.
 
-### 1.0.4. Document Structure
-This document is divided into 4 sections.  Section 1 is a short introduction and justification.  Section 2 defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Section 3 defines specific policy platforms based on the application of those principles.  Section 4 provides definitions necessary for clear and rational policy decisions.
+#### Document Structure
+This document is divided into 4 sections.  Part 1 is a short introduction and justification.  Part 2, the main treatise, defines the principles used as the foundation of the philosophy and framework of Rational Governance.  Part 3 defines specific policy platforms based on the application of those principles.  Part 4 provides definitions necessary for clear and rational policy decisions.
 

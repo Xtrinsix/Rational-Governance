@@ -23,6 +23,7 @@ def main():
                     if cur_file_num < num_files:
                         fout.write('-------------------------------')
                         fout.write('\n\n  \n\n')
+                        fout.write('<div style="page-break-after: always;"></div>')
 
 
 if __name__ == '__main__':

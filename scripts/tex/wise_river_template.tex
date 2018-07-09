@@ -1,0 +1,166 @@
+\documentclass[oneside,openany]{book}  
+
+%%%% Packages and configuration of packages 
+
+\usepackage{titlesec}
+\usepackage{fontspec}
+
+\usepackage{xcolor} % Required for specifying custom colours
+\colorlet{mdtRed}{red!50!black}
+
+%% add hyperlinks to TOC
+\usepackage{hyperref}
+\hypersetup{pdfpagemode={UseOutlines},
+bookmarksopen=true,
+bookmarksopenlevel=0,
+hypertexnames=false,
+colorlinks=true,% Set to false to disable coloring links
+citecolor=magenta,% The color of citations
+linkcolor=mdtRed,% The color of references to document elements (sections, figures, etc)
+urlcolor=mdtRed,% The color of hyperlinks (URLs)
+pdfstartview={FitV},
+unicode,
+breaklinks=true,
+}
+
+%% remove chapter names from headers
+% there's probably a better way to do this
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand\headrule{}
+\setlength{\headheight}{24.7pt}
+
+%%% Formatting
+% Chapter formatting
+% \titlelabel{\bfseries\Large{\thetitle\quad}}
+
+\titleformat
+{\chapter} % command
+[block] % shape
+{\bfseries\huge} % format
+{\thechapter } % no label
+{0.5ex} % sep
+{
+    \vspace{1ex}
+} % before-code
+[
+\vspace{-0.5ex}%
+\rule{\textwidth}{0.3pt}
+] % after-code
+ 
+ 
+% \titleformat{\section}
+% {\Large\bfseries}
+% {\thesection.}
+% {1em}{}
+% \titlespacing*{\section}{0pt}{1pc}{1pc}
+
+% \titleformat{\subsection}
+% {\large\bfseries}
+% {\thesubsection.}
+% {1em}{}
+% \titlespacing*{\subsection}{0pt}{1pc}{1pc}
+
+% \titleformat{\subsubsection}
+% {\normalfont\normalsize\itshape\bfseries}
+% {\thesubsubsection.}
+% {1em}{}
+% \titlespacing*{\subsubsection}{0pt}{1pc}{1pc}
+ 
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+
+
+%%% Commands
+
+% pandoc creates tightlist, which needs to be defined
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\newcommand{\doctitle}{DocumentTitle}  % Replaced by preprocessor
+\newcommand{\docsubtitle}{DocumentSubTitle}  % Replaced by preprocessor
+\newcommand{\docauthor}{Author}  % Replaced by preprocessor
+
+\renewcommand\maketitle{%
+    \begin{center}
+        \thispagestyle{empty}
+        {\fontfamily{qcr}\selectfont
+        \textsc{\LARGE }\\[2cm]
+        \textsc{\Huge \doctitle}\\[1cm]
+        \textsf{\Large \docsubtitle}\\[1cm]
+
+        % \textsc{\LARGE Bla Bla Bla}\\[0.075cm]
+        % \textsf{\small and}\\[0.15cm]
+        % \textsf{\large Bla Bla}\\[1.5cm]
+
+        \textsf{\small by}\\[1.5cm]
+        \textsc{\large \docauthor}\\[0.25cm]
+        \textsc{\large \today}\\[1.75cm]
+        }
+        % \includegraphics[width=0.3\textwidth]{logo.png}  %Insert Your Image Here.
+    \end{center}
+    \newpage
+
+}
+
+
+% \newcommand{\ip}[2]{(#1, #2)}
+    % Defines \ip{arg1}{arg2} to mean
+    % (arg1, arg2).
+
+%\newcommand{\ip}[2]{\langle #1 | #2\rangle}
+    % This is an alternative definition of
+    % \ip that is commented out.
+
+
+
+%%% Content
+\begin{document} 
+\maketitle                   % Produces the title.
+\frontmatter
+% \setcounter{part}{0}
+% \renewcommand\thepart{\arabic{part}}
+
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{1}
+\pagenumbering{roman}
+\tableofcontents
+
+
+% \hypertarget{introduction}{%
+% \part{Introduction}\label{introduction}}
+
+\input{chapters/1.0.0_introduction}
+
+\mainmatter
+
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+\pagenumbering{arabic}
+
+
+% \hypertarget{doctrine}{%
+% \part{Doctrine}\label{doctrine}}
+%% part 2
+% \input{chapters/2.0.0_Principles}
+% \input{chapters/2.01.0_doctrines_of_intrinsic_liberty}
+% \input{chapters/2.02.0_personal_liberty}
+% \input{chapters/2.03.0_regional_liberty}
+% \input{chapters/2.04.0_global_liberty}
+% \input{chapters/2.05.0_twenty_year_doctrine}
+% \input{chapters/2.06.0_doctrine_rational_integrity}
+% \input{chapters/2.07.0_doctrine_truth}
+% \input{chapters/2.08.0_doctrine_positive_merit}
+% \input{chapters/2.09.0_doctrine_responsible_capitalism}
+
+
+% \hypertarget{platform}{%
+% \part{Platform}\label{platform}}
+%% part 3
+
+% \hypertarget{appendices}{%
+% \part{Appendices}\label{appendices}}
+%% part 4
+
+\end{document}               % End of document.

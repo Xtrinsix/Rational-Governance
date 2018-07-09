@@ -1,54 +1,54 @@
-## 3.4.  The Judicial Branch
+### 3.4.  The Judicial Branch
 
-### 3.4.1.  Summary
+#### 3.4.1.  Summary
 Summary
 
-### 3.4.2.  Policy Challenges
+#### 3.4.2.  Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.4.3. Assertions 
+#### 3.4.3. Assertions 
 
--  *__3.4.3.1. First.__*
--  *__3.4.3.2. Second.__*
+-  *__First.__*
+-  *__Second.__*
 
-### 3.4.4  Policy Recommendations
+#### 3.4.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-#### 3.4.4.1 Term limits
+##### 3.4.4.1 Term limits
 - Judicial appointments should last a term of no more than 2.5 times the length of the term of the executive office making the appointment.
     - Example: U.S. Supreme Court justices are nominated by the U.S. President, who has a term of 4 years.  Thus, the term for a U.S. Supreme Court should be 10 years.
 - Existing justices may be re-appointed through the standard nomination and approval process for that position up to a maximum of 2 terms.
 
-#### 3.4.4.2. Removal from office
+##### Removal from office
 - The citizen population must have the power to remove an appointed justice by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
 - Annual physical and mental assessments must be held and publicly published to determine fitness for office.
 - Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
 - Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
 
 
-#### 3.4.4.1. Policy origination
+##### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-#### 3.4.4.2. Policy language
+##### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.4.4.3. Policy equivalency
+##### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.4.4.4. Policy details and implementation
+##### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.4.4.5. Policy monitors 
+##### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.4.4.6. Policy measures
+##### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.4.4.7. Policy remedies
+##### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

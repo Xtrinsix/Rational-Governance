@@ -1,9 +1,9 @@
-## 3.9.  Affluence and Poverty
+### 3.9.  Affluence and Poverty
 
-### 3.9.1.  Summary
+#### 3.9.1.  Summary
 Summary
 
-### 3.9.2.  Policy Challenges
+#### 3.9.2.  Policy Challenges
 Statement
 
 - Like the calculation for poverty which determines the minimal acceptable income for an individual or family, calculations must exist to establish affluence.
@@ -14,35 +14,35 @@ Statement
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-### 3.9.3. Assertions 
+#### 3.9.3. Assertions 
 
--  *__3.9.3.1. First.__*
--  *__3.9.3.2. Second.__*
+-  *__First.__*
+-  *__Second.__*
 
-### 3.9.4  Policy Recommendations
+#### 3.9.4  Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
 optional further sub-sections
 
-#### 3.9.4.1. Policy origination
+##### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-#### 3.9.4.2. Policy language
+##### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-#### 3.9.4.3. Policy equivalency
+##### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-#### 3.9.4.4. Policy details and implementation
+##### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-#### 3.9.4.5. Policy monitors 
+##### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-#### 3.9.4.6. Policy measures
+##### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-#### 3.9.4.7. Policy remedies
+##### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

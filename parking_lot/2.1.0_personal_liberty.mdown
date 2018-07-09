@@ -1,5 +1,5 @@
-## 2.1.0. Personal Liberty 
-### 2.1.1. Justification
+### 2.1.0. Personal Liberty 
+#### 2.1.1. Justification
 Personal liberty is based on these assumptions:
 
 -  Beyond the overall ecosystem that sustains life, time and human life are the most precious commodities known to man
@@ -14,7 +14,7 @@ Personal liberty is based on these assumptions:
 It is imperative that we recognize the value in each individual, whether we agree, disagree, find attraction or disgust.
 
 
-### 2.1.2. Intrinsic and extrinsic properties
+#### 2.1.2. Intrinsic and extrinsic properties
 Every person has intrinsic properties that include genetics, circumstances of birth, race, age, gender, sexuality and belief.  These properties are assumed acquired by birth or other circumstances beyond the control of the individual, including some properties acquired during childhood before the person is capable of making rational independent decisions.  For the sake of the discussion of policy, intrinsic properties must also include any physical or mental afflictions forced upon an individual against the will of the individual.
 
 Extrinsic properties reflect the rational and independent choices made by an individual, starting with the age at which a child begins to transition into an adult.  Permanent marks or other physical modifications, consequences of decisions, public actions, and violations of the rights of others are examples of extrinsic properties.  This is by no means a comprehensive list.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
@@ -22,46 +22,46 @@ Extrinsic properties reflect the rational and independent choices made by an ind
 All humans should be accorded the rights of Personal Liberty regardless of intrinsic properties.  Only extrinsic properties such as proven past action are cause for forfeiture of these rights.  
 
 
-### 2.1.2.  Rights
+#### 2.1.2.  Rights
 A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4.0.0. for definitions).  Some rights may be exercised by a caretaker or legally recognized proxies in situations where such a proxy is needed.  Each of these rights is marked with an A if the right applies to all adults, a C if the right applies to all children, or an asterisk if a proxy may override an individual’s wishes.
 
 [ Additional Note: A middle classification between Adult and Child may be necessary in some cases. For example, a 10 year old may be mature enough to make a decision regarding the right to property, depending on the property, just as a 15 year old may be mature enough to make decisions regarding freedom of movement, but in general those are rights associated with adults.  ]
 
-#### 2.1.2.1.  The right to live (AC)
+##### 2.1.2.1.  The right to live (AC)
 Every person must be allowed to live a normal human lifespan.  See [ sections 3 and 4 ] for definitions of life necessary for a clear understanding of this right.
 
-#### 2.1.2.2.  The right to die (A*)
+##### 2.1.2.2.  The right to die (A*)
 Barring disease, nautural causes and accidents, every person must be allowed the right to die at a time and in a manner of one’s own choosing.  There will be circumstances when an individual is no longer able to make the decision, and in such cases a guardian or caretaker may have the right to make the choice.  [ Any ambiguity should favor life over death. ]
 
-#### 2.1.2.3.  The right to regulate access to one’s body (AC*)
+##### 2.1.2.3.  The right to regulate access to one’s body (AC*)
 Every person must have sovereignty over their own bodies, deciding who, how, when and why any one or any thing may have physical access to their bodies.  A caretaker or legal proxy may override this sovereignty in cases of medical need or emergencies.  
 
-#### 2.1.2.4.  The right to free expression of thought (AC)
+##### 2.1.2.4.  The right to free expression of thought (AC)
 Every person must have freedom to express thought and opinion through writing, art or speech over any medium, including media that have not been invented, yet.  This right, as with any others, may not limit or interfere with the rights of other individuals.  This doctrine distinguishes expression of thought from speech or other communication that coerces, violates or interferes with any other personal right, or encourages others to violate or interfere with any other persona right.  See [ section 4 ] for further definitions of coercion necessary for a clear understanding of this right.  
 
-#### 2.1.2.5.  The right to freedom of movement (A*)
+##### 2.1.2.5.  The right to freedom of movement (A*)
 Every person must have freedom from restraint or captivity, and every person must have the freedom to travel unrestrained through public areas.  This is not a guarantee of access to personal property that would facilitate the travel.  This is a guarantee that so long as an individual has the resources to do so, an individual may travel freely through public areas and that intrinsic qualities may not be considered a barrier to access.  See [ section 4 ] for further definitions of personal property and public areas necessary for a clear understanding of this right.  
 
-#### 2.1.2.6.  The right to freedom from duress (AC)
+##### 2.1.2.6.  The right to freedom from duress (AC)
 Every person must be allowed free will to make decisions without implicit or explicit threats of harm or other violations of their rights.  Harrassment or coercion based on any imbalance of power are violations of this right.
 
 Every person must be allowed access to full and factual publicly available information in order to properly exercise free will.  Any systematic or intentional withholding or distortion of publicly available information in order to influence or coerce a person into a decision or away from another decision is a direct violation of this right.  See [ section 4 ] for further definitions of publicly available information, free will, intent and harrassment necessary for a clear understanding of this right.
 
-#### 2.1.2.7.  The right to freedom from bodily harm (AC*)
+##### 2.1.2.7.  The right to freedom from bodily harm (AC*)
 Every person must have sovereignty over the physical integrity of their bodies, meaning no one has the right to injure, maim, or otherwise cause harm to another person without explicit, publicly stated consent to do so.  Physicians and others qualified to perform modifications to the body of another may do so with such consent, but care must be taken in considering the age of consent for such actions.  A caretaker or legal proxy may make decisions relating to medical need in place of the consent of a child.
 
 This right extends to protection from intentional and negligent bodily harm.  True accidents may be unforeseen and unavoidable, but reasonably avoidable accidental harm is still a violation of this right.  See [ section 4 ] for further definitions of harm, negligence, age of consent and intent necessary for a clear understanding of this right.
 
-#### 2.1.2.8.  The right to freedom from emotional harm (AC)
+##### 2.1.2.8.  The right to freedom from emotional harm (AC)
 Every person must be allowed freedom from emotional harm.  Emotional injuries must be given equal consideration and protection as physical injuries, though proof of such an injury is difficult.
 
 This right extends to protection from intentional and negligent emotional harm.  See [ section 4 ] for further definitions of emotional harm, negligence, age of consent and intent necessary for a clear understanding of this right.
 
-#### 2.1.2.9.  The right to property (A)
+##### 2.1.2.9.  The right to property (A)
 Every person has the right to retain and protect legally obtained property. Intentional or negligent harm, theft or other causes of loss of property are violations of this right.  Property includes real property, durable goods, and salable items.  See [ section 4 ] for further definitions of property and loss necessary for a clear understanding of this right.
 
-#### 2.1.2.10.  The right to religion (AC)
+##### 2.1.2.10.  The right to religion (AC)
 Individuals must have the right to choose and practice one’s religion of choice.  It is reasonable for the tenants of a recognized religion to require adjustments to dress codes, diet, and other social norms that employers and other associations must respect. 
 
-#### 2.1.2.11. The right to non-discrimination 
+##### 2.1.2.11. The right to non-discrimination 
 Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to the individual.  This doctrine also recognizes that some opportunities are limited by the numbers of individuals who may take part.  This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of age, gender, race, ethnicity, sexuality, opinions, belief, social or economic background may not be a factor in allowing an individual an opportunity for participation.  There will be practical exceptions in the case of organizations intended to benefit a particular segment of a population identified by age or gender.  

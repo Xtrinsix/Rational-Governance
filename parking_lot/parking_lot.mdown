@@ -5,32 +5,32 @@ We must decide who we are as species.  Are we the brutal, irrational creatures o
 
 
 
-#### 2.5.2.1. Climate is Changing
+##### 2.5.2.1. Climate is Changing
 -  Modern human civilization is not prepared for climate change at the rate detected in the early 21st century.
 -  Disputes over human causes do not change the facts that climate is changing and that the effects are being felt.
 -  Given the evidence of the changes and the risks involved, full resources should be spent on research of cause and finding any possible mitigation or solution.
 -  Paradigm shifts such as a move from fossil fuels to renewable energy drive economic growth.
 
-#### 2.5.2.2. Supervolcanoes Threaten Civilization
+##### 2.5.2.2. Supervolcanoes Threaten Civilization
 -  Modern human civilization is not prepared for the direct or indirect impacts of eruptions of supervolcanoes.
 -  The science of detecting and preventing eruptions is underfunded.
 
-#### 2.5.2.3. Nuclear War is Preventable
-#### 2.5.2.4. Population Growth is Unsustainable
+##### 2.5.2.3. Nuclear War is Preventable
+##### 2.5.2.4. Population Growth is Unsustainable
 
 
-#### 2.5.2.5. Food and Clean Water Can be Universally Available
+##### 2.5.2.5. Food and Clean Water Can be Universally Available
 -  Technology exists or can be developed to responsibly grow food for the entire population
 -  Profits and other irrational motivations prevent global availability of food.
 -  Technology exists to protect existing water supplies.
 -  Technology exists or can be developed to create new sources of fresh, clean water.
 -  Profits and other irrational motivations prevent global availability of clean water.
 
-#### 2.5.2.6. Collisions with Space Objects 
+##### 2.5.2.6. Collisions with Space Objects 
 -  Technology exists to detect near earth objects, but must be improved.
 -  Technology exists or can be developed to mitigate or prevent collisions of near earth objects.
 
-#### 2.5.2.7. Pandemics Can be Prevented
+##### 2.5.2.7. Pandemics Can be Prevented
 -  Modern human civilization is not prepared for a full-scale pandemic.
 
 
@@ -50,7 +50,7 @@ Extreme ideologies grow more dangerous with advances in science and technology. 
 
 
 
-#### 1.0.0.6. Constitution Versus Policy
+##### 1.0.0.6. Constitution Versus Policy
 Being the foundation upon which a government exists and being the supreme law of the land, a constitution must have permanence, evolving slowly through intentionally onerous processes.  By contrast, public policy must adapt to constantly changing internal and external forces.  Public policy must be constrained by the laws defined by a constitution and executed by the entities created and empowered by a constitution.  However, a constitution does not guarantee moral, ethical or even rational policy decisions.  With no persistent guidelines in place, public policy fluctuates with political tides that are driven largely by sentiment, fear, rhetoric, and private interests.  Such fluctuations have economic and social costs that impede progress and waste lives and resources.
 
 
@@ -62,13 +62,13 @@ Most of the struggles and conflicts in the world within and between nations are 
 2.8. The Doctrine of Least Intrusion
 ————————————
 
-### 2.8.1. Summary
+#### 2.8.1. Summary
 Extremes in policy, action and ideology are the result of irrational behavior and lead to irrational decisions with poor outcomes.  
 
-### 2.8.2. Assertions
+#### 2.8.2. Assertions
 -  *__2.8.2.1. This.__*
 
-### 2.8.3. Doctrine
+#### 2.8.3. Doctrine
 When presented with multiple approaches to solving a problem, the least intrusive solution should be sought and implemented, and existing liberties must take priority.
 
 -  Public matters should be kept public.

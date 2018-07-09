@@ -33,10 +33,10 @@ Public policy and any honest personal code of ethics should avoid considerations
 Entities
 --------
 
-### People
+#### People
 
 
-### Institutions
+#### Institutions
 * **_Businesses_**
 * **_Governments_**
 
@@ -45,7 +45,7 @@ Entities
 Properties and Behavior
 -----------------------
 
-### Intrinsic Properties
+#### Intrinsic Properties
 Intrinsic properties have two classifications: 
 
 * **_Innate_**
@@ -56,10 +56,10 @@ Intrinsic properties have two classifications:
 	* often developed before the entity has independence of choice or rationality of thought
 	* may be developed later in life as the result of (physical or emotional) trauma, coercion or various forms of assault
 
-### Extrinsic Behavior
+#### Extrinsic Behavior
 Extrinsic behavior is rational and independent choices, actions and decisions.  Rational and independent in this context does not forgive or excuse actions performed as a member of a group or in a moment when emotion interferes with rational thought.
 
-### Extrinsic Properties
+#### Extrinsic Properties
 
 Extrinsic properties are the result of extrinsic behavior.  Extrinsic properties have two classifications:
 
@@ -73,11 +73,11 @@ Extrinsic properties are the result of extrinsic behavior.  Extrinsic properties
 	* often described with pairs of opposing terms: loyal vs disloyal, ethical vs unethical, compassionate vs indifferent, etc.
 
 
-### Composite Properties
+#### Composite Properties
 
 Some properties are composites of more than one property type.  Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties. Examples: gender, sexuality, religious belief. Extrinsic behavior is driven by motivation, which comes in many forms. Extrinsics does not attempt to catalogue or measure motivation. Any attempt to assess motivation in a human is inexact at best.
 
-#### Innate Intrinsic + Primary Extrinsic
+##### Innate Intrinsic + Primary Extrinsic
 Innate properties that are directly effected over time by extrinsic behavior, resulting in a composite of innate intrinsic and primary extrinsic properties
 
 Examples:
@@ -85,7 +85,7 @@ Examples:
 	* Vision
 	* Hearing
 
-#### 
+##### 
 
 Some intrinsic properties may be developed or altered extrinsically, but without voluntary disclosure by the entity, these should always be assumed to be pure innate or acquired intrinsic properties.
 
@@ -96,12 +96,12 @@ Examples:
 	* religious belief
 
 
-### Motivation
+#### Motivation
 
 Extrinsic behavior is driven by motivation, which comes in many forms. Extrinsics does not attempt to catalogue or measure motivation. Any attempt to assess motivation in a human is inexact at best.
 
 
-### Value Judgements
+#### Value Judgements
 
 It is fair and rational to place value judgements on extrinsic properties, but only if the judgements are placed on those properties without the context of which individuals have acquired those properties. Sentiment and bias interfere with proper judgement of extrinsic qualities when viewed within the context of an individual. All questions of intent and degree being equal, the same action, performed by different entities, must carry the same value judgement, and both entities must equally acquire the corresponding value judgements of the action.
 
@@ -109,7 +109,7 @@ These distinctions are necessary for rational value judgements. It is irrational
 
 Said simply: Extrinsic behaviors and properties must be assessed independently of any individual. You can judge extrinsic behaviors of an individual, but those judgements must apply to the same extrinsic behaviors irrespective of the individuals exhibiting those behaviors. Judge the behaviors, not the individual. Do not judge the intrinsic properties of an individual. Social attraction (physical or otherwise) will naturally consider intrinsic and extrinsic properties. Institutional and public policy must not discriminate based on intrinsic properties.
 
-### Extrinsics and Individuals
+#### Extrinsics and Individuals
 
 Extrinsics makes a clear distinction between intrinsic and extrinsic properties of individuals, and attempts a clear separation of extrinsic properties from the individuals who acquire them. In applying value judgements to extrinsic properties and not the individual, the justice system can be more just. [Actions, behaviors and decisions should be on trial]
 
@@ -154,15 +154,15 @@ Extrinsic actions, behaviors and decisions:
 * Publicly recorded decisions, specifically decisions affecting other individuals or institutions or the rights of such
 
 
-### Extrinsics and Institutions
+#### Extrinsics and Institutions
 
 Institutions are not people.
 
-### Extrinsics and Public Policy
+#### Extrinsics and Public Policy
 
 Rational and fair public policy must ignore the intrinsic properties of an individual. There may be times when policy will address an imbalance or an injustice involving the intrinsic properties of an individual or group. Barring such responses to a need, public policy should remain neutral in regard to intrinsic properties of individuals.
 
-### Extrinsics and Liberty
+#### Extrinsics and Liberty
 
 All entities should be accorded the rights of Personal or Regional Liberty regardless of intrinsic properties. Only extrinsic properties are cause for forfeiture of these rights.
 
@@ -170,7 +170,7 @@ All entities should be accorded the rights of Personal or Regional Liberty regar
 Math
 ------------------------
 
-### Tribal behavior
+#### Tribal behavior
 
 Logical fallacies of tribal behavior that lead to incorrect moral and ethical valuation:
 

@@ -1,40 +1,40 @@
-## 3.1.  The Role of Government
+## The Role of Government
 
-### 3.1.1.  Summary
+#### 3.1.1.  Summary
 
 Rational Governance recognizes that government is a tool for protecting and organizing public resources, protecting access to private resources, and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
 
 
-### 3.1.2.  Policy Challenges
+#### 3.1.2.  Policy Challenges
 
-#### 3.1.2.1. Government Scope
+###### Government Scope
 Democracies, in particular, face the challenge of undefined government scope.  Competing ideologies in the form of political parties move in and out of power, each bringing its own vision of the role and scope of government.  Fluctuations in ideology and the policies created from them create inefficiencies as we have cycles of one party dismantling the work of the other party.
 
-#### 3.1.2.2. National versus regional 
+###### National versus regional 
 
-### 3.1.3. Assertions 
+#### 3.1.3. Assertions 
 
--  *__3.1.3.1. National government is necessary for creation, interpretation and enforcement of laws.__*
--  *__3.1.3.2. National government is necessary for protection of public lands and resources.__*
--  *__3.1.3.3. National government is necessary to protect and support its population from internal and external threats.__*
+-  *__National government is necessary for creation, interpretation and enforcement of laws.__*
+-  *__National government is necessary for protection of public lands and resources.__*
+-  *__National government is necessary to protect and support its population from internal and external threats.__*
     - Emergency management for natural disasters and other natural or man-made threats.
     - Police and intelligence forces.
     - Defense forces.
--  *__3.1.3.4. National government is responsible for social infrastructure, including the following:__*
+-  *__National government is responsible for social infrastructure, including the following:__*
     - Roads, bridges, tunnels and other artifacts necessary for secure travel between major population centers.
     - Food and water supplies for major population centers.
     - Quality universal education.
     - Health and human services that provide a dignified baseline quality of life.
--  *__3.1.3.4. Regional government is responsible for regional social infrastructure, including the following:__*
+-  *__Regional government is responsible for regional social infrastructure, including the following:__*
     - Roads, bridges, tunnels and other artifacts necessary for secure travel within major population centers.
     - Roads, bridges, tunnels and other artifacts necessary for secure travel between secondary population centers.
     - Food and water supplies for secondary population centers.
     - Clothing, employment and housing options that provide a dignified baseline quality of life.
     - 
 
-### 3.1.3.  Policy Recommendations
+#### 3.1.3.  Policy Recommendations
 
-#### 3.1.3.1. Government Scope
+###### Government Scope
 Government scope at the national, regional and local levels needs more clear definitions.
 
 - Protect the Intrinsic Liberties 
@@ -45,25 +45,25 @@ Government scope at the national, regional and local levels needs more clear def
 - Establish and maintain the processes for fair elections
 - Tax the legal entities within its jurisdiction for the sole purpose of supporting the scope of government
 
-#### 3.1.3.1. National versus regional
+###### National versus regional
 
 
-#### 3.1.4.1. Policy origination
+###### Policy origination
 - Recommendation one
 
-#### 3.1.4.2. Policy language
+###### Policy language
 - Recommendation one
 
-#### 3.1.4.3. Policy equivalency
+###### Policy equivalency
 - Recommendation one
 - Recommendation two
 
-#### 3.1.4.4. Policy details and implementation
+###### Policy details and implementation
 - Recommendation one
 
-#### 3.1.4.5. Policy monitors 
+###### Policy monitors 
 
-#### 3.1.4.6. Policy measures
+###### Policy measures
 
-#### 3.1.4.7. Policy remedies
+###### Policy remedies
 
