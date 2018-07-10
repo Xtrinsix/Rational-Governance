@@ -1,9 +1,9 @@
-### 3.6.  Campaigns and Elections
+### Campaigns and Elections
 
-#### 3.6.1.  Summary
+#### Summary
 The rational view of politics recognizes that free and fair elections are a cornerstone of democracy.  Campaigns and elections must be held to the highest standards of integrity and transparency and must be defended as vehemently as any other right or freedom.
 
-#### 3.6.2.  Policy Challenges
+#### Policy Challenges
 
 - Equitable and transparent campaign financing
 - Fair, legal voter identification
@@ -20,51 +20,52 @@ The rational view of politics recognizes that free and fair elections are a corn
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### 3.6.3. Assertions 
+#### Assertions 
 
--  *__Political campaigns lasting more than 6 months risk election integrity.__*
--  *__Political campaigns lasting more than 6 months create divisions among the population.__*
--  *__Political campaigns without spending limits risk election integrity.__*
--  *__Independent entities campaigning on behalf of a candidate or against a candidate risk election integrity through propaganda and lack of transparency.__*
--  *__Unqualified candidates waste government and citizen time and resources.__*
--  *__Legal challenges to election results risk election integrity.__*
--  *__Low voter participation risks election integrity.__*
+###### Political campaigns lasting more than 6 months risk election integrity
+###### Political campaigns lasting more than 6 months create divisions among the population
+###### Political campaigns without spending limits risk election integrity
+###### Independent entities campaigning on behalf of a candidate or against a candidate risk election integrity through propaganda and lack of transparency
+###### Unqualified candidates waste government and citizen time and resources
+###### Legal challenges to election results risk election integrity
+###### Low voter participation risks election integrity
 
 
-#### 3.6.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-##### Campaign limits
+###### Campaign limits
 - An official campaign for office should start no more than 6 months before the election for that office.
 - Campaigns as legal entities should continue to exist for a period of time after the election to handle settlement of debt, legal issues, etc, but may not continue to raise money or to prepare for the next election cycle.
 - Campaigns 
 
-##### Political campaign financing must have full transparency easily available to the public
-##### Independent entities campaigning on behalf of a candidate or against a candidate must have full financial transparency easily available to the public
-##### Potential candidates must pass all assessments for office as a requirement to appear on the ballot for primary or general elections.
-##### Potential candidates running unopposed must have some minimum percentage of votes (e.g. 45% of all potential voters must vote for the candidate) in order to win election.
+###### Political campaign financing must have full transparency easily available to the public
+###### Independent entities campaigning on behalf of a candidate or against a candidate must have full financial transparency easily available to the public
+###### Potential candidates must pass all assessments for office as a requirement to appear on the ballot for primary or general elections.
+###### Unopposed candidate handicap
+Potential candidates running unopposed must have some minimum percentage of votes (e.g. 45% of all potential voters must vote for the candidate) in order to win election.
 -  There can be no free pass for office by unopposed candidates.  Citizens must elect a candidate with confidence of the candidate to fulfill the duties of the position.  A passive election victory is a victory without integrity and without the confidence of the citizenry.
 
-##### Policy origination
+#### Policy origination
 - Policy changes must be introduced by individuals with degrees in political science, sociology, law or economics.
 - Policy changes must be approved by independent entities with no stated political affiliation.
 
-##### Policy language
+#### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+#### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+#### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+#### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+#### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+#### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

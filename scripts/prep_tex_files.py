@@ -38,8 +38,8 @@ class MarkdownConverter(object):
 
         filenames = sorted(
             [filename for filename in os.listdir(self.source_directory)
-             if filename.startswith(('0.0', '1.0', '2.', '4.0')) 
-             or filename in ['3.0.0_platform_introduction.mdown', '3.01.0_role_of_government.mdown']])
+             if filename.startswith(('0.0', '1.0', '2.', '3.', '4.0')) 
+             or filename in ['3.0.0_platform_introduction.mdown', '3.01.0_government.mdown', '3.01.0_role_of_government.mdown', '3.02.0_executive_branch.mdown']])
 
         print(filenames)
         # with open(self.template_file, 'a') as tout:
@@ -117,24 +117,24 @@ class MarkdownConverter(object):
             # end subsection
             self.in_subsection = False
             end_section = self.current_section
-            cleanup += '\t\\end{{{section}}}\n\n'.format(section=end_section)
+            cleanup += '\n\t\\end{{{section}}}\n\n'.format(section=end_section)
         elif self.in_subsection and not section:
             self.in_subsection = False
             end_section = self.current_section
-            cleanup += '\t\\end{{{section}}}\n\n'.format(section=end_section)
+            cleanup += '\n\t\\end{{{section}}}\n\n'.format(section=end_section)
 
         # section logic similar to subsection
         if self.current_section and not section:
             end_section = self.current_section
             self.current_section = None
-            cleanup += '\\end{{{section}}}\n\n'.format(section=end_section)
+            cleanup += '\n\\end{{{section}}}\n\n'.format(section=end_section)
         elif section and section != self.current_section:
             self.current_section = section
             cleanup += '\\begin{{{section}}}\n'.format(section=section)
         elif not section and self.current_section:
             end_section = self.current_section
             self.current_section = None
-            cleanup += '\\end{{{section}}}\n\n'.format(section=end_section)
+            cleanup += '\n\\end{{{section}}}\n\n'.format(section=end_section)
         
         return cleanup
 

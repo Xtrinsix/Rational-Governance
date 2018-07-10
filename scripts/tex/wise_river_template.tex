@@ -34,6 +34,7 @@ breaklinks=true,
 %%% Formatting
 % Chapter formatting
 % \titlelabel{\bfseries\Large{\thetitle\quad}}
+\newcommand{\sectionbreak}{\clearpage}
 
 \titleformat
 {\chapter} % command
@@ -50,11 +51,11 @@ breaklinks=true,
 ] % after-code
  
  
-% \titleformat{\section}
-% {\Large\bfseries}
-% {\thesection.}
-% {1em}{}
-% \titlespacing*{\section}{0pt}{1pc}{1pc}
+\titleformat{\section}
+{\Large\bfseries}
+{\thesection.}
+{1em}{}
+\titlespacing*{\section}{0pt}{1pc}{1pc}
 
 % \titleformat{\subsection}
 % {\large\bfseries}

@@ -1,48 +1,51 @@
-### 3.2.  The Executive Branch
+### The Judicial Branch
 
-#### 3.2.1.  Summary
-The rational view of the executive branch of any democracy recognizes that the highest office of that branch can hold an imbalance of power that can lead to tyranny.
+#### Summary
+Summary
 
-#### 3.2.2.  Policy Challenges
+#### Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### 3.2.3. Assertions 
+#### Assertions 
 
--  *__First.__*
--  *__Second.__*
-
-#### 3.2.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-##### Removal from office
-- The citizen population must have the power to remove an appointed official by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
+###### Term limits
+- Judicial appointments should last a term of no more than 2.5 times the length of the term of the executive office making the appointment.
+    - Example: U.S. Supreme Court justices are nominated by the U.S. President, who has a term of 4 years.  Thus, the term for a U.S. Supreme Court should be 10 years.
+- Existing justices may be re-appointed through the standard nomination and approval process for that position up to a maximum of 2 terms.
+
+###### Removal from office
+- The citizen population must have the power to remove an appointed justice by vote during any general election or mid-term election cycle if given enough support by petition to include such a measure on a ballot.
 - Annual physical and mental assessments must be held and publicly published to determine fitness for office.
 - Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
 - Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
 
-##### Policy origination
+
+#### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-##### Policy language
+#### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+#### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+#### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+#### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+#### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+#### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

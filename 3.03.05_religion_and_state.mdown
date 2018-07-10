@@ -1,6 +1,6 @@
-### 3.11. Religion and State
+### Religion and State
 
-#### 3.11.1.  Summary
+#### Summary
 It is impossible to expect that all members of an inclusive society will practice the same religion, or that all members will practice any religion at all.
 
 Policy must not target any religion or faith.
@@ -9,40 +9,40 @@ Policy allowing special consideration for religious customs must be flexible eno
 In order to receive special considerations from an employer or other association for religious customs, it is fair to require a declaration of belief in the religion.  It is also fair that this declaration cannot be changed more than once per year.  
 
 
-#### 3.11.2.  Policy Challenges
+#### Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### 3.11.3. Assertions 
+#### Assertions 
 
 -  *__.__*
 -  *__Second.__*
 
-#### 3.11.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-##### Policy origination
+#### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-##### Policy language
+#### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+#### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+#### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+#### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+#### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+#### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

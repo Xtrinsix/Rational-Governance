@@ -1,9 +1,9 @@
-### 3.8  Climate Science
+### Climate Science
 
-#### 3.8.1.  Summary
+#### Summary
 The rational view of the world recognizes that global climate changes affect the entire global population, regardless of wealth or status.  The consequences of climate change can be devastating and widespread.  Whether or not humanity has a role in climate change, it is irrational and irresponsible to ignore and to impede the study of causes, effects and mitigation.  
 
-#### 3.8.2.  Policy Challenges
+#### Policy Challenges
 Note that these are the policy challenges, not the scientific challenges.
 
 - Perception that climate change is a hoax
@@ -14,22 +14,22 @@ Note that these are the policy challenges, not the scientific challenges.
 - How to determine the proper funds and to which entities to allocate the funds
 - How to manage attempts to affect climate change to avoid redundancy and/or 
 
-#### 3.8.3. Assertions 
+#### Assertions 
 
--  *__The Earth's climate is changing at a rate that will negatively affect billions of people before the year 2100.__*
--  *__Human activities since the 19th century have contributed directly to the change in climate.__*
--  *__Modification of human activities can mitigate and potentially reverse some but not all of the consequences.__*
--  *__Science does not have enough information to determine when or how a tipping point will occur that leads to more rapidly escalating climate change.__*
--  *__Climate change is the most important issue of the 21st century.__*
+###### The Earth's climate is changing at a rate that will negatively affect billions of people before the year 2100
+###### Human activities since the 19th century have contributed directly to the change in climate
+###### Modification of human activities can mitigate and potentially reverse some but not all of the consequences
+###### Science does not have enough information to determine when or how a tipping point will occur that leads to more rapidly escalating climate change
+###### Climate change is the most important issue of the 21st century
 
-#### 3.8.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-##### The 20 Year Doctrine must be applied to solving climate change.
+###### The 20 Year Doctrine must be applied to solving climate change.
 - Nations, populations, corporations and all other institutions must give the study and mitigation of climate change the highest priority.
 - Using the 20 Year Doctrine, we must declare a 20 year deadline for altering human activity so that we may potentially reverse the course of climate change.
 
-##### Global Climate Authority
+###### Global Climate Authority
 - As a global issue beyond the scope of a single nation, a global entity must be created and supported by all global powers.
 - Such a global climate authority must be made up of subject matter experts in such fields as the climate sciences, geology, astrophysics, and marine biology. 
 - No special interest must be allowed to lobby the global climate authority.

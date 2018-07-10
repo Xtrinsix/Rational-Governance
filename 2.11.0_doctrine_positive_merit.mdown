@@ -4,12 +4,12 @@
 A political or social position is only valid if it has merits that can be asserted or defended through objective, rational argument without contrast or opposition to another policy, position, institution, group or individual.  Political and social authority are likewise valid only if earned through legitimate, unbiased means.  For political authority, this means aggressively fair and unbiased elections.  For social authority, this means displays of extrinsic behavior and qualities rather than intrinsic qualities such as gender, race and status of birth.
 
 #### Assertions
--  *__A political or social position that cannot stand on its own merits is irrational and illegitimate.__*
--  *__Positive or Negative Policy change through indirect legislation, deceit or subterfuge is irrational and illegitimate.__*
--  *__Ad hominem attacks, circular reasoning, moral equivalence and other logical fallacies are irrational and illegitimate arguments for a position.__*
--  *__Gerrymandering is an illegitimate method of retaining power.__*
--  *__Electing politicians solely for their party affiliation is irrational.__*
--  *__A politically strategic policy without other positive merit is irrational and illegitimate.__*
+###### A political or social position that cannot stand on its own merits is irrational and illegitimate.
+###### Positive or Negative Policy change through indirect legislation, deceit or subterfuge is irrational and illegitimate.
+###### Ad hominem attacks, circular reasoning, moral equivalence and other logical fallacies are irrational and illegitimate arguments for a position.
+###### Gerrymandering is an illegitimate method of retaining power.
+###### Electing politicians solely for their party affiliation is irrational.
+###### A politically strategic policy without other positive merit is irrational and illegitimate.
 
 #### Doctrine
 All Positive and Negative Policy and public social positions must have objective, rational assertions of positive merit.  Policies and social positions without objective, rational argument should be considered irrational, invalid, and ineligible for legislative or executive action.  Policies and positions that exist solely as opposition to another policy, position, institution, group or individual are to be considered irrational, invalid, and ineligible for legislative or executive action.

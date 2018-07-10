@@ -1,28 +1,32 @@
 
-### Doctrine of Urgency
+### 20 Year Doctrine
 
 #### Summary
 Humanity faces multiple existential threats that will materialize at unknown times which must be met with rational governance and unity of purpose.  Modern civilization has the technology or the capability of developing the technology that can help us face those threats, and humans achieve great things when motivated to work together toward a common goal.  However, tribalism, corruption, and other irrational motivations impede our progress.  Strong leaders and public policy can motivate a population of 7 billion creative and capable human minds to work together to face humanity's true threats and to solve our greatest problems, but political cowardice holds us back.
 
 Most of the struggles and conflicts in the world within and between nations are based on artificial conditions brought about by irrational thought and actions. Poverty exists because we allow it.  War exists because of hubris, selfishness, greed, distrust, and tribalism.  There are no true scarcities in the modern world that necessitate war.  We have the knowledge and facilities to move people to resources or resources to people.  We have economies with unbalanced wealth distribution.  We have power centers based on fear and brutality that must persist with brutality in order to maintain a status quo.  We have solutions for renewable energy that can power the world if we could set aside profit motives and special interests and just agree as a society to switch to those power sources.  Instead, we systematically maintain that status quo to benefit the few at the expense of many.
 
-Public policy should and must treat known existential threats as if we have a fixed 20 year deadline for solving them.  At any moment, an undeniable, imminent threat to mankind with such a fixed deadline could be discovered, and global powers will either rise together to meet the challenge or fail to cooperate and put us all at risk.  Global cooperation on issues has been rare and largely superficial.  The nations of the world need to learn to work together to solve real problems with real solutions, and citizens within the nations need to learn to stop fighting amongst themselves over trivial issues. If humanity does not learn to work together rationally, with purpose and without the corruption or self-interests on known issues for which we have prior knowledge, how can we trust that we can meet future challenges of which we are not aware?
+Public policy should and must treat known existential threats as if we have a fixed 20 year deadline for solving them.  Some known threats already have approximate deadlines, but humanity as a whole lacks the political will to treat them seriously.  At any moment, an undeniable, imminent threat to mankind with such a fixed deadline could be discovered, and global powers will either rise together to meet the challenge or fail to cooperate and put us all at risk.  Global cooperation on issues has been rare and largely superficial.  The nations of the world need to learn to work together to solve real problems with real solutions, and citizens within the nations need to learn to stop fighting amongst themselves over trivial issues. If humanity does not learn to work together rationally, with purpose and without the corruption or self-interests on known issues for which we have prior knowledge, how can we trust that we can meet future challenges of which we are not aware?
 
 The first true 20 year deadline to an emergency could start tomorrow.  But, it might be just 10 years.  Or five.  Or one.  Is humanity ready?  Or will we be so consumed with petty causes and biases and tribalism that we care more about winning inconsequential fights than preserving the human race?
 
 #### Assertions
 
--  *__Humanity faces known existential threats with unknown timelines:__*
-      -  Climate change
-      -  Large scale seismic activity
-      -  Nuclear war
-      -  Population growth
-      -  Famine
-      -  Collisions with interstellar objects
-      -  Pandemics
--  *__Technology exists or can be developed to protect against the known threats.__*
--  *__Common goals lead to bursts of economic activity and advancements in technology.__*
--  *__Tribalism, corruption, irrational motivations and political cowardice impede progress.__*
+###### Humanity faces many dangers
+Humanity faces known existential threats with unknown timelines:
+-  Climate change
+-  Large scale seismic activity
+-  Nuclear war
+-  Population growth
+-  Famine
+-  Collisions with interstellar objects
+-  Pandemics
+###### Humanity can protect itself
+Technology exists or can be developed to protect against the known threats.
+###### Humanity can be motivated through common goals
+Common goals lead to bursts of economic activity and advancements in technology.
+###### Irrational motiviations endanger humanity
+Tribalism, corruption, irrational motivations and political cowardice impede progress.
 
 
 #### Doctrine

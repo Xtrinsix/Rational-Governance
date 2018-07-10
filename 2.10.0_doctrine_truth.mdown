@@ -4,14 +4,14 @@
 Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth, and there must be controls around propaganda and other forms of authoritative disinformation.
 
 #### Assertions
--  *__A free and open society can not exist without controls on propaganda and other forms of authoritative disinformation.__*
--  *__Individuals holding public office do not enjoy the intrinsic liberty of free expression of thought while representing that office.__*
--  *__Individuals seeking public office should be held to the same standards of those holding that public office.__*
--  *__Individuals communicating officially on behalf of a public office or institution do not enjoy the intrinsic liberty of free expression of thought while representing that office or institution.__*
--  *__Propaganda and other forms of authoritative disinformation do not qualify as free expression of thought.__*
--  *__Transparency builds security and trust between a government and its citizenry.__*
--  *__Secrecy creates insecurity and class divisions.__*
--  *__Entertainment and opinion must not be confused as authoritative information.__*
+###### A free and open society can not exist without controls on propaganda and other forms of authoritative disinformation
+###### Individuals holding public office do not enjoy the intrinsic liberty of free expression of thought while representing that office
+###### Individuals seeking public office should be held to the same standards of those holding that public office
+###### Individuals communicating officially on behalf of a public office or institution do not enjoy the intrinsic liberty of free expression of thought while representing that office or institution
+###### Propaganda and other forms of authoritative disinformation do not qualify as free expression of thought
+###### Transparency builds security and trust between a government and its citizenry
+###### Secrecy creates insecurity and class divisions
+###### Entertainment and opinion must not be confused as authoritative information
 
 #### Doctrine
 Rational public policy must be based on transparency, truth and availability of complete information. Government agencies, news outlets and other positions of authority must be held to a higher standard of truth.  Policy must create and actively support controls around propaganda and other forms of authoritative disinformation.

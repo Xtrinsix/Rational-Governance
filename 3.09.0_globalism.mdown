@@ -1,48 +1,42 @@
-### 3.9.  Affluence and Poverty
+### Globalism
 
-#### 3.9.1.  Summary
+#### Summary
 Summary
 
-#### 3.9.2.  Policy Challenges
+#### Policy Challenges
 Statement
 
-- Like the calculation for poverty which determines the minimal acceptable income for an individual or family, calculations must exist to establish affluence.
-    - Affluence shall be defined as a state of wealth in which the income is no longer necessary for meeting basic needs.
-    - Example: if $250,000 annual income is determined to be the amount at which all conceivable basic needs will be met for the size of the family and the location, income above that line will be considered affluence.
-    
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### 3.9.3. Assertions 
+#### Assertions 
 
 -  *__First.__*
 -  *__Second.__*
 
-#### 3.9.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-optional further sub-sections
-
-##### Policy origination
+###### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-##### Policy language
+###### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+###### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+###### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+###### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+###### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+###### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

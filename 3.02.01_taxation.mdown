@@ -1,9 +1,9 @@
-### 3.5  Taxation and Use of Government Revenue
+### Taxation and Use of Government Revenue
 
-#### 3.5.1.  Summary
+#### Summary
 Taxation has always been and will always be a contentious subject.  The use of government revenue has always been and always be a contentious subject.
 
-#### 3.5.2.  Policy Challenges
+#### Policy Challenges
 
 
 - How to make taxes fair.
@@ -15,13 +15,12 @@ Taxation has always been and will always be a contentious subject.  The use of g
 - Federal, state and municipal tax rates and schedules are inconsistent.
 
 
-#### 3.5.3. Assertions 
+#### Assertions 
 
--  *__A functional government has always been and will always be required for the existence of successful human societies.__*
--  *__Taxation is necessary for the existence and maintenance of a functional government.__*
--  *__.__*
+###### A functional government has always been and will always be required for the existence of successful human societies
+###### Taxation is necessary for the existence and maintenance of a functional government
 
-#### 3.5.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
 - Essential Social Services must be defined for individuals and businesses with guidelines that include but are not limited to measurements of income.
@@ -36,26 +35,26 @@ Based on these observations, the policy recommendations are as follows:
 - Beyond the baseline tax bracket, additional taxes may be taken on income above the affluence line.
 - Affluence and Essential Social Services are addressed in §3.09 Affluence and Poverty.
   
-##### Policy origination
+#### Policy origination
 - Policy changes must be introduced by individuals with degrees or equivalent experience in economics.
 - Policy changes must be approved by independent entities with no stated political affiliation.
 
-##### Policy language
+#### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+#### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+#### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+#### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+#### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+#### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 

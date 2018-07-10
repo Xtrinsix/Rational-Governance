@@ -6,94 +6,33 @@ This section describes a platform for public policy through the application of t
 Missing: governing principles
 Missing: required definitions
 
-#### 3.0.2. Format
+#### Format
 
 ###### Summary
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.1. Summary
-```
-
 Each topic of policy begins with an introduction.  This is a required section for any topic of policy.  This serves as a summary and a brief justification for the topic.  Some persuasive language may be used in the justification of the topic, but no partisan or other irrational language may be used.
 
 ###### Policy Challenges
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.2. Policy Challenges
-```
-
 This section is optional.  This section enumerates the challenges involved in creating rational policy for the topic at hand.  Many topics of public policy are influenced by emotion or misunderstanding.  These common challenges need to be listed and then specifically addressed in the policy recommendations.  Each sub topic in the policy challenges should have a reference to the policy recommendation that addresses it.
-
-Policy challenges may be a simple list represented in markdown as such:
-
-```markdown
-- Item 1
-- Item 2
-```
 
 References to other sections should be referenced with § and the section number.
 
 Additional background and informative text may be interspersed among the list items.
 
 ###### Assertions
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.3. Assertions
-```
-
 This section is required.  The **Assertions** section enumerates simple assertions of fact.  These should be supported by references to impartial sources of data.  These should be as simple and direct as possible and should avoid any persuasive or biased language.  The assertions are meant to be the baseline set of irrefutable facts from which the policy should be derived.
-
-These are represented in markdown as such:
-
-```markdown
--  *__3.X.3.1. First.__*
-    - Supporting fact
--  *__3.X.3.2. Second.__*
-```
 
 
 ###### Policy Recommendations
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.4. Policy Recommendations
-```
-
-This section is required.  This may be a single section with the full recommendation as free text, or it may be broken down into subsections represented in markdown as such:
-
-```markdown
-###### 3.X.4.1. Subsection
-```
+This section is required.  This may be a single section with the full recommendation as free text, or it may be broken down into subsections.
 
 
 ###### Policy Origination
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.5. Policy Origination
-```
-
 This section is strongly recommended but not required.
 
 This section suggestions the types of subject matter experts or affected individuals who may originate policy changes. 
 
 
 ###### Governing Principles
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.5X. Governing Principles
-```
-
 This section is strongly recommended but not required.
 
 This section suggestions the principles of Rational Governance that apply to the policy topic and that should be used as a guide.
@@ -101,87 +40,37 @@ This section suggestions the principles of Rational Governance that apply to the
 
 
 ###### Policy Language
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Language
-```
-
 This section is strongly recommended but not required.
 
 This section provides guidance on language that should be used, defined, avoided when creating policy changes.
 
 ###### Policy Equivalency
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Equivalency
-```
-
 This section is optional.
 
 This section enumerates other policy topics that share equivalencies and should be kept consistent.
 This section can also enumerate policies that should **not** be conflated with this one (non-equivalencies).
 
 ###### Policy Details and Implementation
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Details and Implementation
-```
-
 This section is strongly recommended but not required.
 
 This section provides guidance on details and implementation of specific aspects of policy changes.
 
 ###### Policy Monitors
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Monitors
-```
-
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the kinds of bodies or systems will monitor policy changes for efficacy.
 
 ###### Policy Measures
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Measures
-```
-
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the kinds of measurements necessary for determining the efficacy of policy changes.
 
 ###### Policy Remedies
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Policy Remedies
-```
-
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the types of remedies that should take place if policy changes prove ineffective.
 
 ###### Required Definitions
-
-Represented in markdown as such: 
-
-```markdown
-#### 3.X.X. Required Definitions
-```
-
 This section is strongly recommended but not required.
 
 This section enumerates the definitions that apply to the policy topic and that should be used as a guide. 
-

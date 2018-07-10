@@ -1,4 +1,4 @@
-## The Role of Government
+### The Role of Government
 
 #### Summary
 
@@ -14,22 +14,27 @@ Democracies, in particular, face the challenge of undefined government scope.  C
 
 #### Assertions 
 
--  *__National government is necessary for creation, interpretation and enforcement of laws.__*
--  *__National government is necessary for protection of public lands and resources.__*
--  *__National government is necessary to protect and support its population from internal and external threats.__*
-    - Emergency management for natural disasters and other natural or man-made threats.
-    - Police and intelligence forces.
-    - Defense forces.
--  *__National government is responsible for social infrastructure, including the following:__*
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel between major population centers.
-    - Food and water supplies for major population centers.
-    - Quality universal education.
-    - Health and human services that provide a dignified baseline quality of life.
--  *__Regional government is responsible for regional social infrastructure, including the following:__*
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel within major population centers.
-    - Roads, bridges, tunnels and other artifacts necessary for secure travel between secondary population centers.
-    - Food and water supplies for secondary population centers.
-    - Clothing, employment and housing options that provide a dignified baseline quality of life.
+###### National Laws
+National government is necessary for creation, interpretation and enforcement of laws.
+###### Protection of Public Resources
+National government is necessary for protection of public lands and resources.
+###### Protection of the Population
+National government is necessary to protect and support its population from internal and external threats.
+- Emergency management for natural disasters and other natural or man-made threats.
+- Police and intelligence forces.
+- Defense forces.
+###### National Infrastructure
+National government is responsible for social infrastructure, including the following:
+- Roads, bridges, tunnels and other artifacts necessary for secure travel between major population centers.
+- Food and water supplies for major population centers.
+- Quality universal education.
+- Health and human services that provide a dignified baseline quality of life.
+###### Regional Infrastructure
+Regional government is responsible for regional social infrastructure, including the following:
+- Roads, bridges, tunnels and other artifacts necessary for secure travel within major population centers.
+- Roads, bridges, tunnels and other artifacts necessary for secure travel between secondary population centers.
+- Food and water supplies for secondary population centers.
+- Clothing, employment and housing options that provide a dignified baseline quality of life.
     - 
 
 #### Policy Recommendations
@@ -46,7 +51,7 @@ Government scope at the national, regional and local levels needs more clear def
 - Tax the legal entities within its jurisdiction for the sole purpose of supporting the scope of government
 
 ###### National versus regional
-
+Something about regional
 
 #### Policy origination
 - Recommendation one
@@ -66,4 +71,4 @@ Government scope at the national, regional and local levels needs more clear def
 #### Policy measures
 
 #### Policy remedies
-
+- Remedy one

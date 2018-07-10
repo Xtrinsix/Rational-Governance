@@ -1,4 +1,4 @@
-### Regional Liberty
+### Doctrine of Regional Liberty
 
 #### Summary
 By necessity of our limited physiology, humans naturally self-organize into a variety of social structures, some temporary, some permanent or semi-permanent.  Humans are physically incapable of thriving in solitude among the elements.  We rely on other humans to provide support through goods or services, typically through some exchange that is agreed to be mutually beneficial.  The human psyche binds us to each other through social interactions so that we will remain close and cooperate and maintain the exchanges of goods and services that allow us to thrive collectively where we would fail individually.
@@ -10,13 +10,13 @@ Some social structures are regional, defined by geographic or artificial boundar
 Regional social units of each size generally bind the members together with a shared sense of community, purpose, and identity.  The bond between the individual and the regional social units containing the individual may be quite strong, and the cohesion among the individuals in a regional social unit may be equally strong.  These social units behave organically and exist to provide the structure necessary for individual human lives to thrive.  Due to their value and their organic nature, these units of society must be granted certain rights as if they were a separate class of individuals, though not equal to nor more important than people.
 
 #### Assertions
--  *__Regional social units allow humanity to survive and thrive from year to year.__*
--  *__Regional social units develop personalities and other anthropomorphic features, grow organically, and create bonds among the participants.__*
--  *__Regional social units include civic regions defined by law and indigenous communities defined by geography and culture.__*
--  *__Regional social units are porous and generally survive the loss of individuals without lasting consequence.__*
--  *__Regional social units are fluid and unbounded.__*
-      -  An individual may belong to multiple regional units with overlapping jurisdiction at any given time.
-      -  Individuals may move from one social unit to another without lasting consequences on the well-being of the individual.
+###### Regional social units allow humanity to survive and thrive from year to year.
+###### Regional social units develop personalities and other anthropomorphic features, grow organically, and create bonds among the participants.
+###### Regional social units include civic regions defined by law and indigenous communities defined by geography and culture.
+###### Regional social units are porous and generally survive the loss of individuals without lasting consequence.
+###### Regional social units are fluid and unbounded.
+-  An individual may belong to multiple regional units with overlapping jurisdiction at any given time.
+-  Individuals may move from one social unit to another without lasting consequences on the well-being of the individual.
 
 #### Doctrine
 Regional social units, having anthropomorphic features such as personality, attitude, and a moral code, have intrinsic liberties that must be recognized and protected.

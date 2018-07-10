@@ -1,42 +1,40 @@
-### 3.7.  Isolationism Versus Globalism
+### Health Care
 
-#### 3.7.1.  Summary
-The rational view of global civilization recognizes that in the Digital Age, all global powers are connected and interdependent.  The actions of any one global power affects populations and ecosystems around the globe.  
+#### Summary
+Summary
 
-#### 3.7.2.  Policy Challenges
+#### Policy Challenges
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### 3.7.3. Assertions 
+#### Assertions 
 
--  *__First.__*
--  *__Second.__*
 
-#### 3.7.4  Policy Recommendations
+#### Policy Recommendations
 Based on these observations, the policy recommendations are as follows:
 
-##### Policy origination
+###### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
 
-##### Policy language
+###### Policy language
 - Guidance on language that should be used, defined, avoided when creating policy changes.
 
-##### Policy equivalency
+###### Policy equivalency
 - Which other policies share equivalencies
 - Alternately call out other policies that should not be conflated with this one (non-equivalencies)
 
-##### Policy details and implementation
+###### Policy details and implementation
 - Guidance on details and implementation of specific aspects of policy changes
 
-##### Policy monitors 
+###### Policy monitors 
 - What kinds of bodies or systems will monitor policy changes for efficacy
 
-##### Policy measures
+###### Policy measures
 - What kinds of measurements are necessary for determining the efficacy of policy changes
 
-##### Policy remedies
+###### Policy remedies
 - What remedies should take place if policy changes prove ineffective 
 
