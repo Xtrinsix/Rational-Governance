@@ -164,30 +164,33 @@ class MarkdownConverter(object):
         if match_results:
             # print('matched {0} with {1}'.format(match_results.groups(), heading_2_re))
             title = match_results.groups()[0]
-            return '{cleanup}\hypertarget{{{title}}}{{%\n\chapter{{{title}}}\label{{{title}}}}}\n'.format(
+            return '{cleanup}\hypertarget{{chapter_{title}}}{{%\n\chapter{{{title}}}\label{{{title}}}}}\n'.format(
                 cleanup=self.cleanup_section(),
                 title=title)
         match_results = heading_3_re.match(line)
         if match_results:
             # print('matched {0} with {1}'.format(match_results.groups(), heading_2_re))
             title = match_results.groups()[0]
-            return '{cleanup}\hypertarget{{{title}}}{{%\n\section{{{title}}}\label{{{title}}}}}\n'.format(
+            return '{cleanup}\hypertarget{{section_{title}}}{{%\n\section{{{title}}}\label{{{title}}}}}\n'.format(
                 cleanup=self.cleanup_section(),
                 title=title)
         match_results = heading_4_re.match(line)
         if match_results:
             # print('matched {0}'.format(match_results.groups()))
             title = match_results.groups()[0]
-            return '{cleanup}\hypertarget{{{title}}}{{%\n\subsection{{{title}}}\label{{{title}}}}}\n'.format(
+            return '{cleanup}\hypertarget{{subsection_{title}}}{{%\n\subsection{{{title}}}\label{{{title}}}}}\n'.format(
                 cleanup=self.cleanup_section(),
                 title=title)
         match_results = heading_6_re.match(line)
         if match_results:
             # print('matched {0}'.format(match_results.groups()))
             title = match_results.groups()[0]
-            return '{cleanup}\hypertarget{{{title}}}{{%\n\subsubsection{{{title}}}\label{{{title}}}}}\n'.format(
+            return '{cleanup}\hypertarget{{subsubsection_{title}}}{{%\n\subsubsection{{{title}}}\label{{{title}}}}}\n'.format(
                 cleanup=self.cleanup_section(),
                 title=title)
+            # return '{cleanup}\hypertarget{{subsubsection_{title}}}{{%\n\subsubsection{{{title}}}\label{{{title}}}}}\n'.format(
+            #     cleanup=self.cleanup_section(),
+            #     title=title)
         match_results = unordered_list_re.match(line)
         if match_results:
             # print('matched unordered_list: {0}'.format(line))

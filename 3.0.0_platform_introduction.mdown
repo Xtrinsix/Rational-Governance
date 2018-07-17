@@ -1,6 +1,6 @@
 # Platform
 
-## Platform Name
+## Introduction
 
 This section describes a platform for public policy through the application of the Rational Governance. 
 Missing: governing principles
