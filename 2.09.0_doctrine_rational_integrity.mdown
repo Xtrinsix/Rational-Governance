@@ -33,11 +33,11 @@ A rigorous process of scrutiny must be applied to all proposals to create or cha
 -  Such a review board must include a hybrid entity of mixed public, private and academic members with expert domain knowledge.
 -  The results of such scrutiny must be easily accessible to the public.
 -  Positive and Negative Policy review must answer these questions:
-   - Who is harmed by the current policy or current lack of policy?
-   - Who benefits by the current policy or current lack of policy?
-   - Who benefits from the creation of new policy?
-   - Who is harmed by the creation of new policy?
-   - Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
+      -  Who is harmed by the current policy or current lack of policy?
+      -  Who benefits by the current policy or current lack of policy?
+      -  Who benefits from the creation of new policy?
+      -  Who is harmed by the creation of new policy?
+      -  Is the proposed policy or policy change consistent with the broader policies and frameworks of the governing systems and institutions?
 -  Considerations of benefits and harm must include physical, political, social and economic factors
 
 ###### Positive and Negative policy must include clearly defined monitors, measures and remedies.

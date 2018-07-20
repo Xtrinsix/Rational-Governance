@@ -1,6 +1,5 @@
 ### Doctrine of Personal Liberty
 
-#### Summary
 Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on global civilization, regional societies and the lives of others.
 
 #### Assertions
@@ -18,7 +17,7 @@ Individual lives, however, are transient.  Once damaged, repair may not be an op
 
 Beyond what some would consider to be basic human decency and respect for fellow humans, a rational view of human liberty dictates that if each individual has the potential to benefit society at any age, and that if individuals more easily reach their potential when their liberty is respected, and that if individual lives are easily lost, and that, once lost, the potential of that individual for a positive impact is also permanently lost, then we must make every effort to preserve the liberty of individual humans in order to maximize their potential for a positive impact on regional society and global civilization.  Beyond the rational argument, the preservation of human life and the respect of personal liberty are both morally and ethically defensible as the ultimate goal of civilization. 
 
-This doctrine enumerates the intrinsic rights of each human that must be recognized by all people and institutions
+This doctrine enumerates the intrinsic rights of each human that must be recognized by all people and institutions.
 
 A note on the scope and application of these rights: Some rights apply only to adults, some to both adults and children (see section 4 for definitions).  Some rights may be exercised by a caretaker or a legally recognized proxy in situations where such a proxy is needed.  Each is marked with an **"A"** if the right applies to all adults, a **"C"** if the right applies to all children, or an asterisk (**"*"**) if a proxy may override an individual’s wishes.
 
