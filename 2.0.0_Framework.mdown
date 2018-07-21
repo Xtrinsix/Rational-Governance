@@ -6,7 +6,7 @@ Rational Governance is a framework for the rational, principled and disciplined 
 Within this framework, Rational Governance defines individual doctrines, grouped into sets of primary and secondary principles, to be used as guides for creation and execution of such principled and disciplined public policy.  
 
 #### Primary Principles
--  *__Intrinsic Liberty__* All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
+-  *__Doctrine of Intrinsic Liberty__* All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
 -  *__20 Year Doctrine__* Public policy should and must treat known existential threats as if we have a 20 year deadline for solving them. 
 
 #### Secondary Principles
