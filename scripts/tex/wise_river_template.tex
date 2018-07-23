@@ -62,12 +62,23 @@ breaklinks=true,
 % {\thesubsection.}
 % {1em}{}
 % \titlespacing*{\subsection}{0pt}{1pc}{1pc}
+% \titleformat{\subsection}
+% {\large\bfseries}
+% {\thesubsection.}
+% {1em}{}
+% \titlespacing*{\subsection}{0pt}{1pc}{1pc}
 
 % \titleformat{\subsubsection}
 % {\normalfont\normalsize\itshape\bfseries}
 % {\thesubsubsection.}
 % {1em}{}
 % \titlespacing*{\subsubsection}{0pt}{1pc}{1pc}
+
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries}
+{\thesubsubsection.}
+{1em}{\normalfont\normalsize\bfseries}
+\titlespacing*{\subsubsection}{0pt}{1pc}{1pc}
  
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{1}
@@ -86,15 +97,10 @@ breaklinks=true,
 \renewcommand\maketitle{%
     \begin{center}
         \thispagestyle{empty}
-        {\fontfamily{qcr}\selectfont
+        {\normalfont
         \textsc{\LARGE }\\[2cm]
-        \textsc{\Huge \doctitle}\\[1cm]
+        \textsc{\Huge\bfseries \doctitle}\\[1cm]
         \textsf{\Large \docsubtitle}\\[1cm]
-
-        % \textsc{\LARGE Bla Bla Bla}\\[0.075cm]
-        % \textsf{\small and}\\[0.15cm]
-        % \textsf{\large Bla Bla}\\[1.5cm]
-
         \textsf{\small by}\\[1.5cm]
         \textsc{\large \docauthor}\\[0.25cm]
         \textsc{\large \today}\\[1.75cm]
@@ -105,17 +111,6 @@ breaklinks=true,
 
 }
 
-
-% \newcommand{\ip}[2]{(#1, #2)}
-    % Defines \ip{arg1}{arg2} to mean
-    % (arg1, arg2).
-
-% \newcommand{\ip}[2]{\langle #1 | #2\rangle}
-    % This is an alternative definition of
-    % \ip that is commented out.
-
-
-
 %%% Content
 \begin{document} 
 \maketitle                   % Produces the title.
@@ -124,7 +119,7 @@ breaklinks=true,
 % \renewcommand\thepart{\arabic{part}}
 
 \setcounter{secnumdepth}{1}
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{3}
 \pagenumbering{roman}
 \tableofcontents
 

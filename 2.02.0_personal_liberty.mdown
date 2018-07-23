@@ -3,12 +3,27 @@
 Every human life has the same value and must be given the same dignity and respect as every other human life.  Every human life has equal opportunity to have a positive impact on global civilization, regional societies and the lives of others.
 
 #### Assertions
-###### Beyond the overall ecosystem that sustains humanity, time and human life are the most precious known commodities.
-###### Individual human lives are the building blocks of all social structures.
-###### While a tiny fraction of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, every individual has the potential to help a social structure succeed.
-###### No one can predict the success or degree of success of a single person.
-###### The full impact of an individual is often not felt until late in life.
-###### Human history is not a zero-sum game: Social or historical success for one individual does not diminish the success of another.
+###### Individual human lives are irreplaceable.
+
+Beyond the overall ecosystem that sustains humanity, time and human life are the most precious known commodities.  Neither time nor individual lives can be replaced when lost.  
+
+###### Humans are the building blocks of social structures.
+
+Individual human lives are the building blocks of all social structures.
+
+###### Every life can contribute to regional success.
+
+While a tiny fraction of one percent of all humans throughout time have had a direct impact on global civilization or the course of human history, every individual has the potential to help a social structure succeed.
+
+###### Individual contributions are not predictable.
+
+No one can predict the success or degree of success of a single person.
+
+###### Contributions to society happen throughout a lifetime.
+
+The full impact of an individual is often not felt until late in life.
+
+
 
 #### Doctrine
 If we assume that each person has the potential to be anything from a fully contributing member of society to the most impactful human to have ever lived, we should assume that each life is worth preserving and that each life is equal in worth to all other lives.  It is imperative that we recognize the value in each individual, whether we agree, disagree, find attraction or disgust.
@@ -53,6 +68,14 @@ Every person must be allowed freedom from emotional harm.  Emotional injuries mu
 
 This right extends to protection from intentional and negligent emotional harm.  See section 4 for further definitions of **[emotional harm, negligence, age of consent and intent]** necessary for a clear understanding of this right.
 
+###### The right to family (C)
+
+Every child has the right to the protection, comfort and bonds of the family known to that child.  Whether a natural (biological) or adopted family, a child's world is the family the child knows.  The separation of a child from that family is a violation of a fundamental right of that child.  Society and public policy must make every effort to minimize or otherwise limit the separation of a child from that family.  The public may not involuntary separate a child from the child's family and then only after careful consideration of particular circumstances and if other personal liberties are endangered.
+
+This doctrine recognizes the difference between forced separation by society or public policy and temporary absences arranged by or within the family whereupon the child is left in the care of other family, trusted individuals or establishments.
+
+This doctrine explicitly states this as a right of the child, not a right of the family.
+
 ###### The right to property (A)
 Every person has the right to retain and protect legally obtained property. Intentional or negligent harm, theft or other causes of loss of property are violations of this right.  Property includes real property, durable goods, and salable items.  See section 4 for further definitions of **[property and loss]** necessary for a clear understanding of this right.
 
@@ -65,3 +88,4 @@ This right, as with any others, may not limit or interfere with the rights of ot
 Individuals have the right to the same opportunities and treatment as any other individuals in the same civic region.  This applies to opportunities available to the general public as opposed to organizations or programs intended to benefit a particular segment of a population disadvantaged by particular intrinsic properties.  This doctrine recognizes that resources available to an individual or family will differ, and that some opportunities are dependent on resources available to that individual.  This doctrine also recognizes that opportunities may have practical requirements of skill, expertise, or physical capability, and that some opportunities are limited by the numbers of individuals who may take part.  This doctrine does not seek to limit or interfere with such resource or capability requirements.
 
 This doctrine is concerned with the equal consideration of each individual who otherwise would meet the requirements for participation in an opportunity, whether that is membership in a club, attendance to a school, employment, etc.  Considerations of intrinsic qualities such as age, gender, race, ethnicity, social or economic background, sexuality, opinions, or belief may not be a factor in allowing an individual an opportunity for participation.
+

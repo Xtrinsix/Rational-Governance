@@ -5,22 +5,24 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 #### Assertions 
 
 ###### Capitalism Is the Preferred Economic System
-      
+
 -  Humans are natural entrepreneurs.
 -  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.
 -  Capitalism matches the human spirit and temperament and is a natural fit for the human entrepreneurial drive.
 -  Competition can inspire product innovation, and pursuit of profits can inspire process and manufacturing efficiencies.
 -  All other economic systems are masking humanity's natural capitalistic tendencies and suppressing the spirit of innovation.
 
-###### Free Market Capitalism Risks Economic insecurity and class divisions
-     
+###### Free Market Capitalism Carries Risk
+
+Free Market Capitalism risks economic insecurity and class divisions.  
+
 -  Stock markets disproportionately reward the wealthy when the markets are strong and disproportionately punish everyone else when the markets are weak.
 -  Corporate prioritization of profit over employee prosperity creates economic insecurity.
 -  Economic insecurity, whether perceived or real, creates deep class divisions in a society.
 -  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
 
-###### Free Market Capitalism Generates Inefficiencies
-      
+###### Free Markets Generate Inefficiencies
+
 -  Free market competition can stall progress as resources are divided among competing standards until a clear winner emerges.
 -  Free markets are not historically good at selecting the best medical or technological protocol or standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the best marketing wins over technology, efficiency, or efficacy.
 -  Competing standards mean product waste and slower evolution.
@@ -33,7 +35,9 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 -  Business or industry monopolies control the public message and the market for their exclusive benefit.
 -  Personal profits for shareholders have an institutionalized priority over the well-being or livelihood of employees.
 
-###### Free Market Capitalism Cultivates Misplaced Priorities
+###### Free Markets Cultivate Misplaced Priorities
+
+Free Market Capitalism cultivates misplaced priorities.
 
 -  Market forces in prosperous economies focus on luxury over need and ignore unstable or struggling regional sub-economies.
 -  Resources and innovation follow the demand for luxury instead of products, services or technologies that support unstable or struggling economies.
@@ -42,7 +46,9 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 -  A prosperous economy that ignores or abuses unstable or struggling economies creates deep class divisions in a society and global civilization.
 -  Life-saving products and services are treated as commodities instead of basic human rights, transferring monetary value onto human lives.
       
-###### Free Market Capitalism Introduces Computing Risk
+###### Free Markets Encourage Computing Risk
+
+Free Market Capitalism in the Information Age encourages computing risk.
 
 -  Computing systems are pervasive and directly or indirectly control all aspects of public and private life.
 -  Lack of standards in software design and implementation introduces security and performance risks.
@@ -74,7 +80,7 @@ Regulation is necessary but must be rational and predictable.
 ###### Quality Preceds Low Cost
 Public policy must provide incentives to produce and consume quality goods instead of low-cost goods.
 
-###### Promote Production of Beneficial Goods and Services
+###### Promote Beneficial Goods and Services
 Public policy must provide incentives to produce commodities and goods that are socially and environmentally beneficial.
 
 -  Tax policy providing a schedule of rates for tax deductions for R\&D can be used to encourage the development of commodities and goods in some areas and discourage the development in others.
@@ -83,7 +89,7 @@ Public policy must provide incentives to produce commodities and goods that are 
       -  High yield, nutritious crops that do not deplete an ecosystem
       -  Vaccinations and treatments for infection
 
-###### Discourage Production of Harmful Goods and Services
+###### Discourage Harmful Goods and Services
 Public policy must provide deterrents to discourage production of commodities and goods that are socially or environmentally wasteful or harmful.
 
 -  Tax policy that eliminates any tax deductions for R\&D outside of those on a schedule of rates.

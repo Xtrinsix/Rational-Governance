@@ -1,36 +1,69 @@
 ## Primary Principles
 
-The primary principles of Rational Governance includes two parts: a set of interrelated doctrine enumerated the rights and liberties intrinsic to all of humanity, and a mandate that humanity must proactively work to protect itself from internal and external threats.
+The primary principles of Rational Governance include two parts: First is a set of interrelated doctrines enumerating the rights and liberties intrinsic to all of humanity; Second is a mandate that those in positions of power must proactively work to protect humanity from internal and external threats and to properly prioritize the real threats over political or economic gain.
 
 
 
 
-### The Doctrine of Intrinsic Liberty
+### Doctrine of Intrinsic Liberty
 
 #### Summary
 
-The human race cannot be viewed as a set of individual human beings.  Alone in the world in our natural state, we are weak and defenseless.  Collectively, through social bonds and knowledge retained through millennia of discovery, we dominate our world.  The human race in its modern form is composed of three distinct but interconnected aspects: the individual, regional social units, and global civilization.  Each aspect of humanity relies on the other, and the destruction of any aspect would lead to the destruction of the entire human race as we know it.
+The human race cannot be viewed as merely a set of individual human beings.  Alone in the world in our natural state, we are weak and defenseless.  Collectively, through social bonds and knowledge retained through millennia of discovery, we dominate our world.  Humanity's power and place in the world depend upon complex relationships among humans within societies, relationships among those societies within civilization, and the relationship of civilization with its past.  The human race in its modern form is composed of these three distinct but interconnected aspects of humanity: the individual, regional social units, and global civilization.  Each aspect of humanity relies on the other, and the destruction of any aspect would lead to the destruction of the entire human race as we know it.
 
-The Doctrine of Intrinsic Liberty first recognizes the distinct aspects of humanity and their roles in defining and sustaining the human race.  Second, the doctrine provides guidance on the its use in the creation of public policy.  Third, the doctrine serves as an umbrella for three other doctrines: The Doctrines of Personal Liberty, Regional Liberty, and Global Liberty.  While each of these can be considered in isolation, and should be understood thoroughly in their own regard, they are just as interconnected as the three aspects of humanity that they described.  
+The Doctrine of Intrinsic Liberty first recognizes these distinct aspects of humanity and their roles in defining and sustaining the human race.  Second, the doctrine provides guidance on the its use in the creation of public policy.  Third, the doctrine serves as an umbrella for three other doctrines: The Doctrines of Personal Liberty, Regional Liberty, and Global Liberty.  While each of these can be considered in isolation, and should be understood thoroughly in their own regard, they are just as interconnected as the three aspects of humanity that they described.  
 
 
 
 #### Assertions
 
-###### The human race is more than the set of all individual human lives.  
-###### Humans self-organize into persistent, regional social structures that function as a unit, grow organically, and take on personalities, strengths and weaknesses reflecting the individual members.  
-###### Global civilization is a reflection of the combined character of human social structures, no matter how small or large, weak or powerful, isolated or interconnected.  
-###### Social structures and global civilization are greater than the sums of their parts, just as individual human lives and social structures are greater than their role as a part of a larger system.
+###### Individual human lives are dependent on social structures.  
+
+Humans are physically weak relative to nature and other forms of life.  Humans rely on social structures and collected wisdom to survive and thrive.  Individual human prosperity is dependent on the strength of supporting social structures.
+
+###### Regional social structures are organic systems.  
+
+Humans naturally self-organize into persistent, regional social structures that function as a unit, grow organically, and take on personalities, strengths and weaknesses reflecting the individual members.  These social structures act as organic beings in their own right.
+
+###### Social structures are dependent on civilization.
+
+The prosperity of a regional social structure is dependent on the strength of relationships with other social structures and the rest of civilization.
+
+###### Social structures are dependent on individual lives.
+
+Social structures cannot survive without the individual lives that fill all of the roles necessary to sustain the other individuals.  A regional social structure without a doctor will eventually grow sick or dissolve as individuals seek out more supportive social structures.  A regional social structure without a carpenter will literally fall apart over time from disrepair.  Individuals fill necessary roles in social structures, and without the individual, such social structures will dissolve.
+
+###### Civilization is an organic system.
+
+Social structures and global civilization are greater than the sums of their parts, just as individual human lives and social structures are greater than their role as a part of a larger system.  Global civilization is a reflection of the combined character of human social structures, no matter how small or large, weak or powerful, isolated or interconnected.  Civilization over time acts as an organic being: healthy at times, sick at times, weak in the face of natural events, strong when unified.
+
+###### Civilization is dependent on its constituent parts.
+
+Without its constituent social structures, civilization will die off.  Without individual human lives to alter the course of history, civilization will grow stagnant.  As mighty as civilization might be, it relies on its parts to sustain the whole.
+
+###### Human history is not a zero-sum game.
+
+Human history is not a zero-sum game: Social or historical success for one individual does not diminish the success of another.  It is possible for all of humanity to succeed when any individual or social structure succeeds.  If viewed as a game that must have winners and must have losers, civilization and thus all of humanity will suffer.
 
 
 
 #### Doctrine
 
-The three aspects of the human race and their concerns must be considered with each moral, ethical or political decision.  Public policy with a focus on one aspect at the expense of others introduces instability, and should be avoided.  Public policy that ignores all three aspects of humanity must be avoided and suspected of corrupt intent.  
+The three aspects of humanity and their concerns must be considered with each moral, ethical or political decision.  Public policy with a focus on one aspect at the expense of others introduces instability, and should be avoided.  Public policy that ignores all three aspects of humanity must be avoided and suspected of corrupt intent.  
 
-###### Rational public policy must recognize, protect and preserve each of the three aspects of humanity and must further recognize that the concerns of each are distinct and not always complementary.  
+Public policy recommendations from this doctrine are enumerated as follows.
 
-###### Public policy must consider the impacts on personal, regional and global liberty, and the rights of the individual should be defended as fiercely as the preservation of global civilization.
+###### Public policy must recognize all three aspects of humanity.
+
+Rational public policy must recognize, protect and preserve each of the three aspects of humanity and must further recognize that the concerns of each are distinct and not always complementary.
+
+###### Public policy must preserve all three aspects of humanity.
+
+Public policy must consider the impacts on personal, regional and global liberty, and the rights of the individual should be defended as fiercely as the preservation of global civilization.
+
+###### Public policy must discourage winner/loser behavior.
+
+Public policy that promotes the success of an individual or isolated social structures at the expense of others is weak policy that only hurts civilization as a whole.  
 
 
 
