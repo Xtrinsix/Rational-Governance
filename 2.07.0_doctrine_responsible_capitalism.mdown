@@ -4,7 +4,9 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 
 #### Assertions 
 
-###### Capitalism Is the Preferred Economic System
+###### Capitalism Is the Preferred Economic System.
+
+Capitalism and entrepreneurship come naturally to humans in social structures.
 
 -  Humans are natural entrepreneurs.
 -  Markets for goods and services that set prices based on supply and demand have existed for thousands of years, and they still exist in every society, whether they are officially sanctioned or driven underground.
@@ -12,7 +14,7 @@ Capitalism is the desired economic system for a free and open democracy, but cap
 -  Competition can inspire product innovation, and pursuit of profits can inspire process and manufacturing efficiencies.
 -  All other economic systems are masking humanity's natural capitalistic tendencies and suppressing the spirit of innovation.
 
-###### Free Market Capitalism Carries Risk
+###### Free Market Capitalism Carries Risk.
 
 Free Market Capitalism risks economic insecurity and class divisions.  
 
@@ -21,23 +23,27 @@ Free Market Capitalism risks economic insecurity and class divisions.
 -  Economic insecurity, whether perceived or real, creates deep class divisions in a society.
 -  People must have trust that the economic system works for everyone, not just those in positions of power or authority.
 
-###### Free Markets Generate Inefficiencies
+###### Free Markets Generate Inefficiencies.
+
+Pure capitalism without any level of central planning is wasteful and inefficient.
 
 -  Free market competition can stall progress as resources are divided among competing standards until a clear winner emerges.
 -  Free markets are not historically good at selecting the best medical or technological protocol or standard (VHS vs Betamax, HD-DVD vs Blu-ray, diesel vs combustion engine, GSM vs GPRS vs CDMA, DC vs AC), and often the best marketing wins over technology, efficiency, or efficacy.
 -  Competing standards mean product waste and slower evolution.
 -  Inefficient, wasteful or destructive products or services may be in higher demand because of their convenience or good marketing.
 
-###### Free Market Capitalism Invites Corruption
+###### Free Market Capitalism Invites Corruption.
 
--  The pursuits of short term profit and maximizing shareholder value are used to justify immoral and unethical business behavior. . 
+Pure capitalism without controls or regulation creates an environment where corruption can thrive.
+
+-  The pursuits of short term profit and maximizing shareholder value are used to justify immoral and unethical business behavior.
 -  Profit-driven institutions are allowed to directly influence public policy for their exclusive benefit.
 -  Business or industry monopolies control the public message and the market for their exclusive benefit.
 -  Personal profits for shareholders have an institutionalized priority over the well-being or livelihood of employees.
 
 ###### Free Markets Cultivate Misplaced Priorities
 
-Free Market Capitalism cultivates misplaced priorities.
+Pure capitalism without any level of central planning leads to misplaced priorities.
 
 -  Market forces in prosperous economies focus on luxury over need and ignore unstable or struggling regional sub-economies.
 -  Resources and innovation follow the demand for luxury instead of products, services or technologies that support unstable or struggling economies.
@@ -46,11 +52,11 @@ Free Market Capitalism cultivates misplaced priorities.
 -  A prosperous economy that ignores or abuses unstable or struggling economies creates deep class divisions in a society and global civilization.
 -  Life-saving products and services are treated as commodities instead of basic human rights, transferring monetary value onto human lives.
       
-###### Free Markets Encourage Computing Risk
+###### Free Markets Encourage Computing Risk.
 
-Free Market Capitalism in the Information Age encourages computing risk.
+Computing and connected networks are unique to the Information Age and have a unique position in human history.  
 
--  Computing systems are pervasive and directly or indirectly control all aspects of public and private life.
+-  Computing systems are pervasive and directly or indirectly control all aspects of public and private life, including physical equipment and infrastructure.
 -  Lack of standards in software design and implementation introduces security and performance risks.
 -  Lack of governance among free and open software that are in broad use introduces security and performance risks.
 -  Lack of standard controls around the exchange of information introduces security, financial and privacy risks.
