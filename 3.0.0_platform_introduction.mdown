@@ -3,10 +3,12 @@
 ## Introduction
 
 This section describes a platform for public policy through the application of the Rational Governance. 
-Missing: governing principles
-Missing: required definitions
 
-#### Format
+#### Platform Format
+
+The platform is divided into sections for Government, National Issues, Social Issues and Global Issues.  The Government section includes policy topics involving the construction and regulation of government, itself.  National Issues include issues that affect the entire national population.  Social Issues include topics that affect subsets of the population and specific moral or ethical concerns involving subsets of the population and their rights.  Global Issues include topics of international relations as well as issues that affect populations beyond the borders of a single nation.
+
+#### Policy Format
 
 ###### Summary
 Each topic of policy begins with an introduction.  This is a required section for any topic of policy.  This serves as a summary and a brief justification for the topic.  Some persuasive language may be used in the justification of the topic, but no partisan or other irrational language may be used.
