@@ -3,14 +3,14 @@
 #### Summary
 The rational view of the executive branch of any democracy recognizes that the highest office of that branch can hold an imbalance of power that can lead to tyranny.
 
-#### Policy Challenges
+#### Policy Challenges (NEEDS WORK)
 Statement
 
 - List
 
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
-#### Assertions 
+#### Assertions (NEEDS WORK) 
 
 
 #### Policy Recommendations
@@ -24,9 +24,6 @@ Based on these observations, the policy recommendations are as follows:
 
 #### Policy origination
 - Which types of subject matter experts or affected individuals may originate policy changes
-
-#### Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
 
 #### Policy equivalency
 - Which other policies share equivalencies

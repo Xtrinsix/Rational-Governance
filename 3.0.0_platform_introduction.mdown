@@ -6,73 +6,75 @@ This section describes a platform for public policy through the application of t
 
 #### Platform Format
 
-The platform is divided into sections for Government, National Issues, Social Issues and Global Issues.  The Government section includes policy topics involving the construction and regulation of government, itself.  National Issues include issues that affect the entire national population.  Social Issues include topics that affect subsets of the population and specific moral or ethical concerns involving subsets of the population and their rights.  Global Issues include topics of international relations as well as issues that affect populations beyond the borders of a single nation.
+The platform is divided into sections for Government Operation, National Issues, Global Issues and Social Issues.  The Government Operation section includes policy topics involving the construction and regulation of government, itself.  National Issues include issues that affect the entire national population.  Global Issues include topics of international relations as well as issues that affect populations beyond the borders of a single nation.  Social Issues include topics that affect subsets of the population and specific moral or ethical concerns involving subsets of the population and their rights.  
 
 #### Policy Format
 
-###### Summary
-Each topic of policy begins with an introduction.  This is a required section for any topic of policy.  This serves as a summary and a brief justification for the topic.  Some persuasive language may be used in the justification of the topic, but no partisan or other irrational language may be used.
+- Summary
 
-###### Policy Challenges
+Each topic of policy begins with an introductory summary.  This is a required section for any topic of policy.  This serves as a summary and a brief justification for the topic.  Some persuasive language may be used in the justification of the topic, but no partisan or other irrational language may be used.
+
+- Policy Challenges
+
 This section is optional.  This section enumerates the challenges involved in creating rational policy for the topic at hand.  Many topics of public policy are influenced by emotion or misunderstanding.  These common challenges need to be listed and then specifically addressed in the policy recommendations.  Each sub topic in the policy challenges should have a reference to the policy recommendation that addresses it.
 
 References to other sections should be referenced with § and the section number.
 
 Additional background and informative text may be interspersed among the list items.
 
-###### Assertions
+- Assertions
+
 This section is required.  The **Assertions** section enumerates simple assertions of fact.  These should be supported by references to impartial sources of data.  These should be as simple and direct as possible and should avoid any persuasive or biased language.  The assertions are meant to be the baseline set of irrefutable facts from which the policy should be derived.
 
+- Policy Recommendations
 
-###### Policy Recommendations
 This section is required.  This may be a single section with the full recommendation as free text, or it may be broken down into subsections.
 
+- Policy Origination
 
-###### Policy Origination
 This section is strongly recommended but not required.
 
 This section suggestions the types of subject matter experts or affected individuals who may originate policy changes. 
 
+- Governing Principles
 
-###### Governing Principles
 This section is strongly recommended but not required.
 
 This section suggestions the principles of Rational Governance that apply to the policy topic and that should be used as a guide.
 
+- Policy Equivalency
 
-
-###### Policy Language
-This section is strongly recommended but not required.
-
-This section provides guidance on language that should be used, defined, avoided when creating policy changes.
-
-###### Policy Equivalency
 This section is optional.
 
 This section enumerates other policy topics that share equivalencies and should be kept consistent.
 This section can also enumerate policies that should **not** be conflated with this one (non-equivalencies).
 
-###### Policy Details and Implementation
+- Policy Details and Implementation
+
 This section is strongly recommended but not required.
 
 This section provides guidance on details and implementation of specific aspects of policy changes.
 
-###### Policy Monitors
+- Policy Monitors
+
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the kinds of bodies or systems will monitor policy changes for efficacy.
 
-###### Policy Measures
+- Policy Measures
+
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the kinds of measurements necessary for determining the efficacy of policy changes.
 
-###### Policy Remedies
+- Policy Remedies
+
 This section is strongly recommended but not required for positive and negative policy.
 
 This section suggests the types of remedies that should take place if policy changes prove ineffective.
 
-###### Required Definitions
+- Required Definitions
+
 This section is strongly recommended but not required.
 
 This section enumerates the definitions that apply to the policy topic and that should be used as a guide. 

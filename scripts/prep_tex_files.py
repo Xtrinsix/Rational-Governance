@@ -39,7 +39,7 @@ class MarkdownConverter(object):
         filenames = sorted(
             [filename for filename in os.listdir(self.source_directory)
              if filename.startswith(('0.0', '1.0', '2.', '3.', '4.0')) 
-             or filename in ['3.0.0_platform_introduction.mdown', '3.01.0_government.mdown', '3.01.0_role_of_government.mdown', '3.02.0_executive_branch.mdown']])
+             and filename not in ['3.00.0_template.mdown',]])
 
         print(filenames)
         # with open(self.template_file, 'a') as tout:

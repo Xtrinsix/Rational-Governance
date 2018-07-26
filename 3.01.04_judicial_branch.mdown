@@ -3,7 +3,7 @@
 #### Summary
 Summary
 
-#### Policy Challenges
+#### Policy Challenges (NEEDS WORK)
 Statement
 
 - List
@@ -12,7 +12,7 @@ See section 4 for further definitions of **[this and that]** necessary for a cle
 
 #### Assertions 
 
-#### Policy Recommendations
+#### Policy Recommendations (NEEDS WORK)
 Based on these observations, the policy recommendations are as follows:
 
 ###### Term limits

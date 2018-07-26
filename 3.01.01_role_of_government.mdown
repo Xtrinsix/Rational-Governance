@@ -8,13 +8,17 @@ Rational Governance recognizes that government is a tool for protecting and orga
 #### Policy Challenges
 
 ###### Government Scope
-Democracies, in particular, face the challenge of undefined government scope.  Competing ideologies in the form of political parties move in and out of power, each bringing its own vision of the role and scope of government.  Fluctuations in ideology and the policies created from them create inefficiencies as we have cycles of one party dismantling the work of the other party.
+Democracies, more than other forms of government, face the challenge of undefined government scope.  Competing ideologies in the form of political parties move in and out of power, each bringing its own vision of the role and scope of government.  Systems with two dominant but opposing parties feel the worst impact.  Fluctuations in ideology and the policies created from them create inefficiencies as we have cycles of one party dismantling the work of the other party.
 
 ###### National versus regional 
 
-#### Assertions 
+Some areas of public policy must be left to regional governments, just as other areas of public policy are more properly or efficiently managed at the national level.  The challenges is in finding the proper balance between regional autonomy and national concerns.
 
-###### National Laws
+ 
+
+#### Assertions (NEEDS WORK) 
+
+###### National laws are essential.
 National government is necessary for creation, interpretation and enforcement of laws.
 ###### Protection of Public Resources
 National government is necessary for protection of public lands and resources.
@@ -54,9 +58,6 @@ Government scope at the national, regional and local levels needs more clear def
 Something about regional
 
 #### Policy origination
-- Recommendation one
-
-#### Policy language
 - Recommendation one
 
 #### Policy equivalency
