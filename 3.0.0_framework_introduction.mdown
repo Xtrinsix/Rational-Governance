@@ -1,12 +1,14 @@
-# Platform
+# Framework
 
 ## Introduction
 
-This section describes a platform for public policy through the application of the Rational Governance. 
+This section describes a framework for public policy through the application of the Rational Governance.
+
+ 
 
 #### Platform Format
 
-The platform is divided into sections for Government Operation, National Issues, Global Issues and Social Issues.  The Government Operation section includes policy topics involving the construction and regulation of government, itself.  National Issues include issues that affect the entire national population.  Global Issues include topics of international relations as well as issues that affect populations beyond the borders of a single nation.  Social Issues include topics that affect subsets of the population and specific moral or ethical concerns involving subsets of the population and their rights.  
+The framework is divided into sections for Government Operation, National Policy, Global Policy and Social Policy.  The Government Operation section includes policy topics involving the construction and regulation of government, itself.  National Policy includes issues that affect the entire national population.  Global Policy includes topics of international relations as well as issues that affect populations beyond the borders of a single nation.  Social Policy include topics that affect subsets of the population and specific moral or ethical concerns involving subsets of the population and their rights.  
 
 #### Policy Format
 

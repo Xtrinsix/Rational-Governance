@@ -1,7 +1,7 @@
 ### Affluence and Poverty
 
 #### Summary
-Summary
+(more)
 
 #### Policy Challenges
 Statement
@@ -9,7 +9,7 @@ Statement
 - Like the calculation for poverty which determines the minimal acceptable income for an individual or family, calculations must exist to establish affluence.
       -  Affluence shall be defined as a state of wealth in which the income is no longer necessary for meeting basic needs.
       -  For example, if 250,000 annual income is determined to be the amount at which all conceivable basic needs will be met for the size of the family and the location, income above that line will be considered affluence.
-    
+  
 See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
 
 #### Assertions 

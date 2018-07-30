@@ -44,32 +44,52 @@ Regional government is responsible for regional social infrastructure, including
 #### Policy Recommendations
 
 ###### Government Scope
-Government scope at the national, regional and local levels needs more clear definitions.
+Government scope at the national, regional and local levels needs more clear definitions.  Governments of every kind and every size should have these responsibilities:
 
 - Protect the Intrinsic Liberties 
-- Protect and support the society within its boundaries
-- Protect and support public lands and resources within its boundaries
+- Protect and support the society within its recognized boundaries
+- Protect and support public lands and resources within its recognized boundaries
 - Establish and maintain infrastructure necessary for commerce
-- Protect and support the society within its boundaries
+- Protect and support the society within its recognized boundaries
 - Establish and maintain the processes for fair elections
-- Tax the legal entities within its jurisdiction for the sole purpose of supporting the scope of government
+- Tax the legal entities (people, businesses and other organizations) within its jurisdiction for the sole purpose of supporting the scope of government
 
-###### National versus regional
-Something about regional
+###### National government
+ 
+
+###### Regional government
+
+
 
 #### Policy origination
 - Recommendation one
 
-#### Policy equivalency
-- Recommendation one
-- Recommendation two
+- 
 
 #### Policy details and implementation
 - Recommendation one
 
 #### Policy monitors 
 
+###### Separate branches with veto and removal power
+
+Governments should have built-in monitors in the form of separate branches that have veto and removal power over each other.  
+
+###### Single party avoidance
+
+Governments should have assurances that the separate branches are not motivated to unite under a single party, which would avoid the purpose of separate branches holding each other accountable.
+
+###### Clearly defined criteria for removal
+
+Governments should be structured with clearly defined criteria for exercising the power of removal so that even when a single party controls multiple branches the question of disqualification and the need for removal from office is less subject to political influence.
+
+
+
+
+
 #### Policy measures
+
+
 
 #### Policy remedies
 - Remedy one
