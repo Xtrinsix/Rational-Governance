@@ -12,6 +12,14 @@ See section 4 for further definitions of **[this and that]** necessary for a cle
 
 #### Assertions 
 
+###### The judicial process is critical.
+
+###### The judicial process is inefficient.
+
+The process of passing legislation 
+
+
+
 #### Policy Recommendations (NEEDS WORK)
 Based on these observations, the policy recommendations are as follows:
 
@@ -25,6 +33,16 @@ Based on these observations, the policy recommendations are as follows:
 - Annual physical and mental assessments must be held and publicly published to determine fitness for office.
 - Annual assessments of competency (can the individual fully uphold the duties of the office) and integrity (is the individual faithfully upholding the duties of the office) must be held and publicly published to determine fitness for office.
 - Failure to pass annual assessments automatically trigger a ballot measure in the next general election or mid-term election cycle.
+
+###### Supreme Court
+
+A supreme court must be made up of enough justices to allow for a selection of seven justices to hear a case.  Each seven member panel must be balanced as evenly as possible along ideological opinions.   There should be no mandate on the upper limit of the size of the supreme court, but practical considerations such as supporting resources and funding will dictate that limit.
+
+###### Judicial opinion
+
+Before legislation is enacted into law, a judicial opinion on the constitutionality of the legislation must be solicited from the supreme court.  
+
+
 
 
 #### Policy origination

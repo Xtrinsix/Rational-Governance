@@ -1,11 +1,12 @@
 # Doctrine
 
 ## Introduction
-The name of Rational Governance is used for both the doctrine and the framework for the rational, principled and disciplined creation and execution of public policy that has a focus on the future and is mindful of the past while resolving issues of the present day.  
+Rational Governance is a philosophical approach to public policy, defined by a set of related doctrines and demonstrated by a framework for the creation and execution of public policy based on those doctrines.
 
 The doctrine of Rational Governance declares primary and secondary principles, each of which are made up of individual doctrines.  Each of these doctrines of principle can be considered in isolation, and each could stand on their own. 
 
 #### Primary Principles
+-  *__Rational Governance__* 
 -  *__Doctrine of Intrinsic Liberty__* All public policy, at its core, must preserve the intrinsic personal, regional and global liberty of humanity.
 -  *__20 Year Doctrine__* Public policy should and must treat known existential threats as if we have an immovable deadline of 20 years for solving them. 
 
@@ -35,7 +36,4 @@ Rational Governance is not intended to be a platform for a political party, nor 
 
 Rational Governance is an assertion of hope for the future and a philosophical outlook of what it means to be human, what it takes for humanity to prosper and how to protect humanity from itself.  Rational Governance is an idea that should transcend parties rather than be constrained by one.
 
-
-
-## Doctrine of Rational Governance
 
