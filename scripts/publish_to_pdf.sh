@@ -38,10 +38,11 @@ cd $temp_dir
 # run pdflatex twice so the table of contents will be built and then inserted
 xelatex `basename $template_file`
 xelatex `basename $template_file`
-cp *.pdf $output_dir
-cd $output_dir
+output_file="${output_dir}/rational_governance.pdf"
+cp *.pdf $output_file
+# cd $output_dir
 
-open wise_river_template.pdf
+open $output_file
 # # cd output
 # cd scripts/tex
 # pdflatex wise_river_template.tex -output-directory=../output/
