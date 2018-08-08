@@ -27,7 +27,7 @@ Where ambiguity is found, definitions must be adopted for clarity in order to mo
 
 #### Format
 
-Each doctrine in the sets of primary and secondary principles is introduced in a common format.  First, a summary introduces the doctrine, provides a simple justification and then describes the doctrine that follows.  Second, a set of assertions that inform the doctrine are enumerated.  Third, the doctrine, itself, with enumerated principles or fundamentals to be used as a guide in creating or executing public policy. 
+Each doctrine is introduced in a common format.  First, a summary introduces the doctrine, provides a simple justification and then describes the doctrine that follows.  Second, a set of assertions that inform the doctrine are enumerated.  Third, the doctrine, itself, with enumerated principles or fundamentals to be used as a guide in creating or executing public policy. 
 
 #### A Note on Political Parties
 
