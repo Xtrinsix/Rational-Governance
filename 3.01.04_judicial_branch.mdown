@@ -1,7 +1,10 @@
 ### The Judicial Branch
 
 #### Summary
-Summary
+
+Work in progress.
+
+
 
 #### Policy Challenges (NEEDS WORK)
 Statement
@@ -36,7 +39,7 @@ Based on these observations, the policy recommendations are as follows:
 
 ###### Supreme Court
 
-A supreme court must be made up of enough justices to allow for a selection of seven justices to hear a case.  Each seven member panel must be balanced as evenly as possible along ideological opinions.   There should be no mandate on the upper limit of the size of the supreme court, but practical considerations such as supporting resources and funding will dictate that limit.
+A supreme court must be made up of enough justices to allow for a selection of three (regional governments) or seven (national governments) justices to hear a case.  Each seven member panel must be balanced as evenly as possible along ideological opinions.   There should be no mandate on the upper limit of the size of the supreme court, but practical considerations such as supporting resources and funding will dictate that limit.
 
 ###### Judicial opinion
 

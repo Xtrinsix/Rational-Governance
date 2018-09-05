@@ -2,6 +2,10 @@
 
 #### Summary
 
+Work in progress.
+
+
+
 Rational Governance recognizes that government is a tool for protecting and organizing public resources, protecting access to private resources, and ensuring that individuals adhere to a code of conduct that is deemed beneficial to society.  Government should not be a goal unto itself.   Government entities and politicians must be accountable to the people governed, and the checks against government must be protected and reaffirmed by each incoming administration.
 
 
@@ -21,7 +25,8 @@ Some areas of public policy must be left to regional governments, just as other 
 ###### National laws are essential.
 National government is necessary for creation, interpretation and enforcement of laws.
 ###### Protection of Public Resources
-National government is necessary for protection of public lands and resources.
+National government is necessary for protection of public lands and resources.  See ***3.3.2.4. The right to preservation and use of resources***.
+
 ###### Protection of the Population
 National government is necessary to protect and support its population from internal and external threats.
 - Emergency management for natural disasters and other natural or man-made threats.
@@ -55,19 +60,11 @@ Government scope at the national, regional and local levels needs more clear def
 - Tax the legal entities (people, businesses and other organizations) within its jurisdiction for the sole purpose of supporting the scope of government
 
 ###### National government
- 
+
 
 ###### Regional government
 
 
-
-#### Policy origination
-- Recommendation one
-
-- 
-
-#### Policy details and implementation
-- Recommendation one
 
 #### Policy monitors 
 

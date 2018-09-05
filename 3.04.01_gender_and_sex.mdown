@@ -1,42 +1,5 @@
 ### Gender and Sex
 
 #### Summary
-(more)
-
-#### Policy Challenges
-Statement
-
-- List
-
-See section 4 for further definitions of **[this and that]** necessary for a clear and consistent policy.
-
-#### Assertions 
-
--  *__First.__*
--  *__Second.__*
-
-#### Policy Recommendations
-Based on these observations, the policy recommendations are as follows:
-
-###### Policy origination
-- Which types of subject matter experts or affected individuals may originate policy changes
-
-###### Policy language
-- Guidance on language that should be used, defined, avoided when creating policy changes.
-
-###### Policy equivalency
-- Which other policies share equivalencies
-- Alternately call out other policies that should not be conflated with this one (non-equivalencies)
-
-###### Policy details and implementation
-- Guidance on details and implementation of specific aspects of policy changes
-
-###### Policy monitors 
-- What kinds of bodies or systems will monitor policy changes for efficacy
-
-###### Policy measures
-- What kinds of measurements are necessary for determining the efficacy of policy changes
-
-###### Policy remedies
-- What remedies should take place if policy changes prove ineffective 
+Work in progress.
 
